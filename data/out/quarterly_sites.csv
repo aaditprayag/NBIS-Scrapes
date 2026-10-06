@@ -1,0 +1,673 @@
+site_id,site,country,ownership,confirmed,quarter,in_history,basis_energized,contracted_mw,energized_low_mw,energized_base_mw,energized_high_mw
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2025,True,gross/unknown,300.0,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2025,True,gross/unknown,300.0,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2025,True,gross/unknown,300.0,0.0,0.0,0.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2025,True,gross/unknown,300.0,21.8,26.2,30.6
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2026,True,gross/unknown,300.0,30.0,37.5,45.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2026,True,gross/unknown,300.0,33.0,39.0,45.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2026,False,gross/unknown,300.0,57.0,66.0,75.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2026,False,gross/unknown,300.0,57.0,81.8,106.6
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2027,False,gross/unknown,300.0,57.0,118.5,180.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2027,False,gross/unknown,300.0,107.0,168.5,230.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2027,False,gross/unknown,300.0,160.0,200.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2027,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2028,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2028,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2028,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2028,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2029,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2029,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2029,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2029,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q1 2030,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q2 2030,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q3 2030,False,gross/unknown,300.0,230.0,235.0,240.0
+vineland-nj-dataone,Vineland NJ (DataOne),USA,build-to-suit,True,Q4 2030,False,gross/unknown,300.0,230.0,235.0,240.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2025,True,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2026,True,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2026,True,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2026,False,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2026,False,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2027,False,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2027,False,gross/unknown,1200.0,0.0,0.0,0.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2027,False,gross/unknown,1200.0,0.0,50.0,100.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2027,False,gross/unknown,1200.0,50.0,125.0,200.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2028,False,gross/unknown,1200.0,50.0,125.0,200.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2028,False,gross/unknown,1200.0,100.0,175.0,250.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2028,False,gross/unknown,1200.0,100.0,175.0,250.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2028,False,gross/unknown,1200.0,200.0,225.0,250.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2029,False,gross/unknown,1200.0,200.0,225.0,250.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2029,False,gross/unknown,1200.0,300.0,450.0,600.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2029,False,gross/unknown,1200.0,300.0,450.0,600.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2029,False,gross/unknown,1200.0,500.0,650.0,800.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q1 2030,False,gross/unknown,1200.0,500.0,650.0,800.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q2 2030,False,gross/unknown,1200.0,500.0,650.0,800.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q3 2030,False,gross/unknown,1200.0,500.0,650.0,800.0
+independence-mo-eastgate,Independence MO (Eastgate),USA,owned,True,Q4 2030,False,gross/unknown,1200.0,700.0,950.0,1200.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2026,True,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2026,False,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2026,False,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2027,False,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2027,False,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2027,False,gross/unknown,1200.0,0.0,0.0,0.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2027,False,gross/unknown,1200.0,0.0,65.0,130.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2028,False,gross/unknown,1200.0,0.0,130.0,260.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2028,False,gross/unknown,1200.0,0.0,130.0,260.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2028,False,gross/unknown,1200.0,0.0,130.0,260.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2028,False,gross/unknown,1200.0,130.0,265.0,400.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2029,False,gross/unknown,1200.0,130.0,265.0,400.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2029,False,gross/unknown,1200.0,260.0,460.0,660.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2029,False,gross/unknown,1200.0,260.0,460.0,660.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2029,False,gross/unknown,1200.0,400.0,700.0,1000.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q1 2030,False,gross/unknown,1200.0,400.0,700.0,1000.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q2 2030,False,gross/unknown,1200.0,400.0,700.0,1000.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q3 2030,False,gross/unknown,1200.0,400.0,700.0,1000.0
+butler-twp-pa-highridge,Butler Twp PA (Highridge),USA,owned,True,Q4 2030,False,gross/unknown,1200.0,660.0,930.0,1200.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2025,True,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2025,True,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2026,True,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2026,True,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2026,False,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2026,False,gross/unknown,300.0,0.0,0.0,0.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2027,False,gross/unknown,300.0,0.0,12.5,25.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2027,False,gross/unknown,300.0,0.0,25.0,50.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2027,False,gross/unknown,300.0,25.0,50.0,75.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2027,False,gross/unknown,300.0,50.0,75.0,100.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2028,False,gross/unknown,300.0,50.0,75.0,100.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2028,False,gross/unknown,300.0,100.0,150.0,200.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2028,False,gross/unknown,300.0,100.0,150.0,200.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2028,False,gross/unknown,300.0,200.0,250.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2029,False,gross/unknown,300.0,200.0,250.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2029,False,gross/unknown,300.0,200.0,250.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2029,False,gross/unknown,300.0,200.0,250.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2029,False,gross/unknown,300.0,300.0,300.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q1 2030,False,gross/unknown,300.0,300.0,300.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q2 2030,False,gross/unknown,300.0,300.0,300.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q3 2030,False,gross/unknown,300.0,300.0,300.0,300.0
+birmingham-al-bhm01-oxmoor,"Birmingham AL (BHM01, Oxmoor)",USA,owned,True,Q4 2030,False,gross/unknown,300.0,300.0,300.0,300.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2026,True,gross/unknown,240.0,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2026,True,gross/unknown,240.0,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2026,False,gross/unknown,240.0,0.0,0.0,0.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2026,False,gross/unknown,240.0,0.0,30.0,60.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2027,False,gross/unknown,240.0,27.0,73.5,120.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2027,False,gross/unknown,240.0,60.0,120.0,180.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2027,False,gross/unknown,240.0,60.0,120.0,180.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2027,False,gross/unknown,240.0,120.0,180.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2028,False,gross/unknown,240.0,120.0,180.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2028,False,gross/unknown,240.0,120.0,180.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2028,False,gross/unknown,240.0,120.0,180.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2028,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2029,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2029,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2029,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2029,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q1 2030,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q2 2030,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q3 2030,False,gross/unknown,240.0,240.0,240.0,240.0
+bethune-fr-azur-datacenter-ex-bridgestone,"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,colocation,True,Q4 2030,False,gross/unknown,240.0,240.0,240.0,240.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2026,True,gross/unknown,310.0,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2026,True,gross/unknown,310.0,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2026,False,gross/unknown,310.0,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2026,False,gross/unknown,310.0,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2027,False,gross/unknown,310.0,0.0,0.0,0.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2027,False,gross/unknown,310.0,0.0,17.5,35.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2027,False,gross/unknown,310.0,0.0,35.0,70.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2027,False,gross/unknown,310.0,35.0,52.5,70.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2028,False,gross/unknown,310.0,35.0,52.5,70.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2028,False,gross/unknown,310.0,70.0,105.0,140.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2028,False,gross/unknown,310.0,70.0,105.0,140.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2028,False,gross/unknown,310.0,140.0,170.0,200.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2029,False,gross/unknown,310.0,140.0,170.0,200.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2029,False,gross/unknown,310.0,140.0,170.0,200.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2029,False,gross/unknown,310.0,140.0,170.0,200.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2029,False,gross/unknown,310.0,220.0,265.0,310.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q1 2030,False,gross/unknown,310.0,220.0,265.0,310.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q2 2030,False,gross/unknown,310.0,220.0,265.0,310.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q3 2030,False,gross/unknown,310.0,220.0,265.0,310.0
+lappeenranta-fi-pajarila-polarnode,Lappeenranta FI (Pajarila / Polarnode),Finland,owned,True,Q4 2030,False,gross/unknown,310.0,310.0,310.0,310.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2024,True,gross/unknown,,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2024,True,gross/unknown,,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2024,True,gross/unknown,,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2024,True,gross/unknown,75.0,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2025,True,gross/unknown,75.0,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2025,True,gross/unknown,75.0,25.0,25.0,25.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2025,True,gross/unknown,75.0,25.0,37.5,50.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2025,True,gross/unknown,75.0,50.0,62.5,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2026,True,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2026,True,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2026,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2026,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2027,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2027,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2027,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2027,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2028,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2028,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2028,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2028,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2029,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2029,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2029,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2029,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q1 2030,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q2 2030,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q3 2030,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-1,Mantsala FI #1,Finland,owned,True,Q4 2030,False,gross/unknown,75.0,75.0,75.0,75.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2026,True,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2026,False,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2026,False,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2027,False,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2027,False,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2027,False,gross/unknown,70.0,0.0,0.0,0.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2027,False,gross/unknown,70.0,0.0,17.5,35.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2028,False,gross/unknown,70.0,35.0,52.5,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2028,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2028,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2028,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2029,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2029,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2029,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2029,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q1 2030,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q2 2030,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q3 2030,False,gross/unknown,70.0,70.0,70.0,70.0
+mantsala-fi-2-kapuli,Mantsala FI #2 (Kapuli),Finland,owned,True,Q4 2030,False,gross/unknown,70.0,70.0,70.0,70.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2024,True,gross/unknown,40.0,0.0,0.0,0.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2025,True,gross/unknown,40.0,5.0,10.0,15.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2025,True,gross/unknown,40.0,5.0,10.0,15.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2025,True,gross/unknown,40.0,5.0,10.0,15.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2025,True,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2026,True,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2026,True,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2026,False,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2026,False,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2027,False,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2027,False,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2027,False,gross/unknown,40.0,5.0,20.0,35.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2027,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2028,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2028,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2028,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2028,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2029,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2029,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2029,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2029,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q1 2030,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q2 2030,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q3 2030,False,gross/unknown,40.0,20.0,30.0,40.0
+kansas-city-mo-patmos,Kansas City MO (Patmos),USA,colocation,True,Q4 2030,False,gross/unknown,40.0,20.0,30.0,40.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2024,True,gross/unknown,5.0,0.0,0.0,0.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2024,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2025,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2025,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2025,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2025,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2026,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2026,True,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2026,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2026,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2027,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2027,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2027,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2027,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2028,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2028,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2028,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2028,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2029,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2029,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2029,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2029,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q1 2030,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q2 2030,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q3 2030,False,gross/unknown,5.0,5.0,5.0,5.0
+paris-equinix-pa10,Paris (Equinix PA10),France,colocation,True,Q4 2030,False,gross/unknown,5.0,5.0,5.0,5.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2024,True,gross/unknown,10.0,0.0,0.0,0.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2025,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2025,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2025,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2025,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2026,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2026,True,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2026,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2026,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2027,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2027,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2027,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2027,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2028,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2028,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2028,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2028,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2029,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2029,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2029,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2029,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q1 2030,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q2 2030,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q3 2030,False,gross/unknown,10.0,10.0,10.0,10.0
+keflavik-is-verne,Keflavik IS (Verne),Iceland,colocation,True,Q4 2030,False,gross/unknown,10.0,10.0,10.0,10.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2025,True,gross/unknown,16.0,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2025,True,gross/unknown,16.0,0.0,0.0,0.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2025,True,gross/unknown,16.0,16.0,16.0,16.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2026,True,gross/unknown,16.0,16.0,16.0,16.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2026,True,gross/unknown,19.0,16.0,16.0,16.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2026,False,gross/unknown,19.0,16.0,16.0,16.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2026,False,gross/unknown,19.0,16.0,17.5,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2027,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2027,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2027,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2027,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2028,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2028,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2028,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2028,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2029,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2029,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2029,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2029,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q1 2030,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q2 2030,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q3 2030,False,gross/unknown,19.0,19.0,19.0,19.0
+london-longcross-ark-lp01,London Longcross (Ark LP01),UK,colocation,True,Q4 2030,False,gross/unknown,19.0,19.0,19.0,19.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2026,True,gross/unknown,22.0,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2026,False,gross/unknown,22.0,0.0,0.0,0.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2026,False,gross/unknown,22.0,0.0,2.2,4.4
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2027,False,gross/unknown,22.0,4.4,13.2,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2027,False,gross/unknown,22.0,4.4,13.2,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q1 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q2 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q3 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+harlow-uk-kao-data-klon-02-03,Harlow UK (Kao Data KLON-02/03),UK,colocation,True,Q4 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2026,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2026,True,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2026,False,gross/unknown,n/d,0.0,0.0,0.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2026,False,gross/unknown,n/d,0.0,5.0,10.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2027,False,gross/unknown,n/d,5.0,15.0,25.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2027,False,gross/unknown,n/d,10.0,22.5,35.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2027,False,gross/unknown,n/d,15.0,29.0,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2027,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2028,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2028,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2028,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2028,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2029,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2029,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2029,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2029,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q1 2030,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q2 2030,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q3 2030,False,gross/unknown,n/d,20.0,31.5,43.0
+newport-uk-vantage-cwl1,Newport UK (Vantage CWL1),UK,colocation,True,Q4 2030,False,gross/unknown,n/d,20.0,31.5,43.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2026,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2026,True,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2026,False,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2026,False,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2027,False,gross/unknown,n/d,0.0,0.0,0.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2027,False,gross/unknown,n/d,0.0,2.5,5.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2027,False,gross/unknown,n/d,0.0,6.0,12.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2027,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2028,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2028,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2028,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2028,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2029,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2029,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2029,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2029,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q1 2030,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q2 2030,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q3 2030,False,gross/unknown,n/d,0.0,7.0,14.0
+uk-3rd-new-deployment-lead-green-mountain-lon-ea,"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",UK,unknown,False,Q4 2030,False,gross/unknown,n/d,0.0,7.0,14.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2025,True,gross/unknown,8.0,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2025,True,gross/unknown,8.0,0.0,0.0,0.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2025,True,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2026,True,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2026,True,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2026,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2026,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2027,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2027,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2027,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2027,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2028,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2028,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2028,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2028,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2029,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2029,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2029,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2029,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q1 2030,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q2 2030,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q3 2030,False,gross/unknown,8.0,8.0,8.0,8.0
+modi-in-il-mega-or,Modi'in IL (Mega Or),Israel,colocation,True,Q4 2030,False,gross/unknown,8.0,8.0,8.0,8.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2026,True,gross/unknown,22.0,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2026,True,gross/unknown,22.0,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2026,False,gross/unknown,22.0,0.0,0.0,0.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2026,False,gross/unknown,22.0,0.0,5.5,11.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2027,False,gross/unknown,22.0,0.0,11.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2027,False,gross/unknown,22.0,11.0,16.5,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q1 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q2 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q3 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+masmiyya-il-mega-dc,Masmiyya IL (Mega DC),Israel,colocation,True,Q4 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2026,True,gross/unknown,58.0,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2026,True,gross/unknown,58.0,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2026,False,gross/unknown,58.0,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2026,False,gross/unknown,58.0,0.0,0.0,0.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2027,False,gross/unknown,58.0,0.0,10.0,20.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2027,False,gross/unknown,58.0,20.0,29.5,39.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2027,False,gross/unknown,58.0,39.0,48.5,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2027,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2028,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2028,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2028,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2028,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2029,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2029,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2029,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2029,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q1 2030,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q2 2030,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q3 2030,False,gross/unknown,58.0,58.0,58.0,58.0
+beit-shemesh-il-mega-dc,Beit Shemesh IL (Mega DC),Israel,colocation,True,Q4 2030,False,gross/unknown,58.0,58.0,58.0,58.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2026,True,gross/unknown,18.0,0.0,0.0,0.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2026,False,gross/unknown,18.0,6.0,7.5,9.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2026,False,gross/unknown,18.0,9.0,13.5,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2027,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2027,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2027,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2027,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2028,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2028,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2028,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2028,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2029,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2029,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2029,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2029,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q1 2030,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q2 2030,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q3 2030,False,gross/unknown,18.0,18.0,18.0,18.0
+madrid-getafe-es-merlin-edged,Madrid-Getafe ES (Merlin Edged),Spain,colocation,True,Q4 2030,False,gross/unknown,18.0,18.0,18.0,18.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2026,True,gross/unknown,22.0,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2026,False,gross/unknown,22.0,0.0,0.0,0.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2026,False,gross/unknown,22.0,0.0,11.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2027,False,gross/unknown,22.0,11.0,16.5,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2027,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2028,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2029,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q1 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q2 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q3 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+tallinn-ee-greenergy-huuru,Tallinn EE (Greenergy Huuru),Estonia,colocation,True,Q4 2030,False,gross/unknown,22.0,22.0,22.0,22.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2026,True,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2026,True,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2026,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2026,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2027,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2027,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2027,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2027,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2028,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2028,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2028,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2028,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2029,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2029,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2029,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2029,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q1 2030,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q2 2030,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q3 2030,False,gross/unknown,n/d,5.0,10.0,15.0
+minnesota-colo-us-north1-woodbury,"Minnesota colo (us-north1, Woodbury)",USA,colocation,True,Q4 2030,False,gross/unknown,n/d,5.0,10.0,15.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2024,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2025,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2026,True,gross/unknown,n/d,0.0,0.0,0.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2026,True,gross/unknown,n/d,0.0,10.0,20.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2026,False,gross/unknown,n/d,5.0,10.0,15.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2026,False,gross/unknown,n/d,10.0,25.0,40.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2027,False,gross/unknown,n/d,25.0,50.0,75.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2027,False,gross/unknown,n/d,50.0,75.0,100.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2027,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2027,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2028,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2028,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2028,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2028,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2029,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2029,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2029,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2029,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q1 2030,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q2 2030,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q3 2030,False,gross/unknown,n/d,75.0,100.0,125.0
+oklahoma-colo-unnamed,Oklahoma colo (unnamed),USA,colocation,False,Q4 2030,False,gross/unknown,n/d,75.0,100.0,125.0
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2024,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2024,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2024,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2024,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2025,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2025,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2025,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2025,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2026,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2026,True,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2026,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2026,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2027,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2027,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2027,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2027,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2028,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2028,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2028,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2028,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2029,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2029,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2029,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2029,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q1 2030,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q2 2030,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q3 2030,False,gross/unknown,n/d,n/d,n/d,n/d
+france-2nd-colo-unnamed-possibly-eu-west2,France 2nd colo (unnamed; possibly eu-west2),France,colocation,False,Q4 2030,False,gross/unknown,n/d,n/d,n/d,n/d
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2024,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2024,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2024,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2024,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2025,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2025,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2025,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2025,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2026,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2026,True,gross/unknown,,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2026,False,gross/unknown,50.0,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2026,False,gross/unknown,50.0,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2027,False,gross/unknown,50.0,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2027,False,gross/unknown,50.0,0.0,0.0,0.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2027,False,gross/unknown,50.0,0.0,12.5,25.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2027,False,gross/unknown,50.0,0.0,25.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2028,False,gross/unknown,50.0,25.0,37.5,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2028,False,gross/unknown,50.0,25.0,37.5,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2028,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2028,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2029,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2029,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2029,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2029,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q1 2030,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q2 2030,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q3 2030,False,gross/unknown,50.0,50.0,50.0,50.0
+aib-clt1-moore-spartanburg-county-sc-lockhart-po,"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,colocation,True,Q4 2030,False,gross/unknown,50.0,50.0,50.0,50.0

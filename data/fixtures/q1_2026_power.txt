@@ -1,0 +1,5 @@
+Scaling our infrastructure globally In this section, we discuss three forms of power: (1) contracted power, or power secured by contracted land and power commitments; (2) connected power, or power connected into fully built and equipped data centers; and (3) active power, or power being consumed by installed, operational IT equipment and available for revenue generation. The first quarter was once again defined by strong execution.
+
+We continue to expect 800MW to 1GW of connected power by year-end.
+
+Our contracted capacity now exceeds 3.5 GW, with owned capacity representing more than 75% of the total.

@@ -1,0 +1,6 @@
+{
+  "gpus": [
+    {"gpu_name": "H100_SXM", "supply": 120, "demand": 340, "p10": 1.6, "median": 2.1, "p90": 3.4},
+    {"gpu_name": "H200", "supply": 40, "demand": 180, "p10": 2.2, "median": 2.9, "p90": 4.1}
+  ]
+}

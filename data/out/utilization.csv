@@ -1,0 +1,6 @@
+label,quarter,numerator_mw,numerator,denominator_mw,denominator,ratio,tag
+YE2025 reported active vs connected target,Q4 2025,170,reported active power,220.0,year-end 2025 connected target (220 MW). The actual was not disclosed.,0.7727,reported_over_target
+YE2026 billing vs connected guide low,Q4 2026,257.6562,"model billing MW (IT), estimated, about one quarter after energization",800,"company connected guide, low end",0.3221,estimated
+YE2026 billing vs connected guide high,Q4 2026,257.6562,"model billing MW (IT), estimated, about one quarter after energization",1000,"company connected guide, high end",0.2577,estimated
+YE2026 billing vs model connected base,Q4 2026,257.6562,"model billing MW (IT), estimated, about one quarter after energization",941.0,"capacity-model connected base, estimated",0.2738,estimated
+2027 identified-energized addition vs >1 GW/year pace,Q4 2027,893.0,change in identified energized base from Q4 2026 to Q4 2027,1000,company pace: more than 1 GW per year brought to market from 2027,0.893,estimated_vs_guide

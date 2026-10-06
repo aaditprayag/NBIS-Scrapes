@@ -1,0 +1,9 @@
+[project]
+name = "nbis-scrapes"
+version = "0.1.0"
+description = "Nebius campus power, quarterly active-versus-connected panel, and short-term compute-demand scrapers."
+requires-python = ">=3.11"
+readme = "README.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]

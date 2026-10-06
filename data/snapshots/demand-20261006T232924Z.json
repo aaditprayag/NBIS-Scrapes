@@ -1,0 +1,238 @@
+{
+  "taken_at": "2026-10-06T23:29:24Z",
+  "sources": {
+    "nebius_prices": {
+      "url": "https://nebius.com/prices",
+      "http_status": 200,
+      "parsed": {
+        "on_demand": [
+          {
+            "sku": "NVIDIA GB300 NVL72",
+            "kind": "on_demand",
+            "contact_sales": true,
+            "usd_per_gpu_hour": null,
+            "next_usd_per_gpu_hour": null
+          },
+          {
+            "sku": "NVIDIA HGX B300",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 7.85,
+            "next_usd_per_gpu_hour": 9.5
+          },
+          {
+            "sku": "NVIDIA GB200 NVL72",
+            "kind": "on_demand",
+            "contact_sales": true,
+            "usd_per_gpu_hour": null,
+            "next_usd_per_gpu_hour": null
+          },
+          {
+            "sku": "NVIDIA HGX B200",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 7.15,
+            "next_usd_per_gpu_hour": 8.5
+          },
+          {
+            "sku": "NVIDIA HGX H200",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 4.5,
+            "next_usd_per_gpu_hour": 5.4
+          },
+          {
+            "sku": "NVIDIA HGX H100",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 3.85,
+            "next_usd_per_gpu_hour": 4.5
+          },
+          {
+            "sku": "NVIDIA RTX PRO 6000",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 1.8,
+            "next_usd_per_gpu_hour": 1.8
+          },
+          {
+            "sku": "NVIDIA L40S with Intel CPU",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 1.55,
+            "next_usd_per_gpu_hour": 1.55
+          },
+          {
+            "sku": "NVIDIA L40S with AMD CPU",
+            "kind": "on_demand",
+            "contact_sales": false,
+            "usd_per_gpu_hour": 1.82,
+            "next_usd_per_gpu_hour": 1.82
+          }
+        ],
+        "spot": [
+          {
+            "sku": "NVIDIA HGX B300",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.99
+          },
+          {
+            "sku": "NVIDIA HGX B200",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.99
+          },
+          {
+            "sku": "NVIDIA HGX H200",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.79
+          },
+          {
+            "sku": "NVIDIA HGX H100",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.79
+          },
+          {
+            "sku": "NVIDIA RTX PRO 6000",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.79
+          },
+          {
+            "sku": "NVIDIA L40S with Intel CPU",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.74
+          },
+          {
+            "sku": "NVIDIA L40S with AMD CPU",
+            "kind": "spot",
+            "contact_sales": false,
+            "spot_floor_usd_per_gpu_hour": 0.9
+          }
+        ],
+        "scheduled_hikes": [
+          {
+            "sku": "NVIDIA HGX B300",
+            "from_usd": 7.85,
+            "to_usd": 9.5,
+            "change_pct": 0.2102
+          },
+          {
+            "sku": "NVIDIA HGX B200",
+            "from_usd": 7.15,
+            "to_usd": 8.5,
+            "change_pct": 0.1888
+          },
+          {
+            "sku": "NVIDIA HGX H200",
+            "from_usd": 4.5,
+            "to_usd": 5.4,
+            "change_pct": 0.2
+          },
+          {
+            "sku": "NVIDIA HGX H100",
+            "from_usd": 3.85,
+            "to_usd": 4.5,
+            "change_pct": 0.1688
+          }
+        ]
+      },
+      "error": null
+    },
+    "nebius_platforms": {
+      "url": "https://docs.nebius.com/compute/virtual-machines/types",
+      "http_status": 200,
+      "parsed": [
+        {
+          "platform": "gpu-b300-sxm",
+          "label": "NVIDIA\u00ae B300 NVLink with Intel Granite Rapids",
+          "regions": [
+            "uk-south1",
+            "eu-west2",
+            "us-north1"
+          ]
+        },
+        {
+          "platform": "gpu-b200-sxm",
+          "label": "NVIDIA\u00ae B200 NVLink with Intel Emerald Rapids",
+          "regions": [
+            "us-central1"
+          ]
+        },
+        {
+          "platform": "gpu-b200-sxm-a",
+          "label": "NVIDIA\u00ae B200 NVLink with Intel Emerald Rapids",
+          "regions": [
+            "me-west1"
+          ]
+        },
+        {
+          "platform": "gpu-rtx6000",
+          "label": "NVIDIA\u00ae RTX PRO\u2122 6000 with Intel Granite Rapids",
+          "regions": [
+            "us-central1"
+          ]
+        },
+        {
+          "platform": "gpu-rtx6000-a",
+          "label": "NVIDIA\u00ae RTX PRO\u2122 6000 with Intel Granite Rapids",
+          "regions": [
+            "uk-south2",
+            "eu-south1"
+          ]
+        },
+        {
+          "platform": "gpu-h200-sxm",
+          "label": "NVIDIA\u00ae H200 NVLink with Intel Sapphire Rapids",
+          "regions": [
+            "eu-north1",
+            "eu-north2",
+            "eu-west1",
+            "us-central1"
+          ]
+        },
+        {
+          "platform": "gpu-h100-sxm",
+          "label": "NVIDIA\u00ae H100 NVLink with Intel Sapphire Rapids",
+          "regions": [
+            "eu-north1"
+          ]
+        },
+        {
+          "platform": "gpu-l40s-a",
+          "label": "NVIDIA\u00ae L40S PCIe with Intel Ice Lake",
+          "regions": [
+            "eu-north1"
+          ]
+        },
+        {
+          "platform": "gpu-l40s-d",
+          "label": "NVIDIA\u00ae L40S PCIe with AMD EPYC Genoa",
+          "regions": [
+            "eu-north1"
+          ]
+        }
+      ],
+      "error": null
+    },
+    "openrouter_nebius": {
+      "url": "https://openrouter.ai/provider/nebius",
+      "http_status": 200,
+      "parsed": {
+        "models_listed": 12,
+        "names_nebius": true
+      },
+      "error": null
+    },
+    "vast_metrics": {
+      "url": "https://console.vast.ai/api/v0/metrics/gpu/current/?verified=yes&hosting_type=secure_cloud",
+      "http_status": null,
+      "parsed": null,
+      "error": "skipped: set VAST_API_KEY to a Vast host key. Client keys are rejected."
+    }
+  }
+}
