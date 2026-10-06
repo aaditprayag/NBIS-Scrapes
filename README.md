@@ -33,7 +33,7 @@ The filing clock is quarterly. A stockout is a weekly fact. The scrapers worth r
 
 What actually refreshes:
 
-1. `https://nebius.com/prices` — list price, the 1 Oct 2026 hike, and the public spot floor. H200 list went from $4.50 to $5.40. NVL72 racks are contact-sales.
+1. `https://nebius.com/prices` — list price, the published 1 Oct 2026 column, and the public spot floor. NVL72 racks are contact-sales. The page has no history of its own. Fifty archived copies, back to 15 Nov 2024, are in `data/out/gpu_price_history.csv` and written up in `docs/gpu-price-history.md`. On-demand H100 was $2.95 and H200 was $3.50 until at least 7 May 2026. By 12 Jul 2026 those were $3.85 and $4.50. The $4.50 / $5.40 / $8.50 / $9.50 October column shows up on 23 Sep and the first column had not moved to it by 6 Oct.
 2. `https://docs.nebius.com/compute/virtual-machines/types` — which GPU platform is still sold in which region. H100 is only `eu-north1`. B300 is in `uk-south1`, `eu-west2`, and `us-north1`. A region id is not a building. Inferences are in `data/region_crosswalk.json` and on the map, kept off the pins.
 3. OpenRouter's Nebius provider page — how many models Token Factory is serving. That is the short inference book, not Vineland.
 4. Vast.ai `GET /api/v0/metrics/gpu/current/` — market supply, demand, and percentile price, about every five minutes. Needs a Vast **host** key in `VAST_API_KEY`. Client keys are rejected.

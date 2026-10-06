@@ -1,0 +1,557 @@
+captured_on,wayback_timestamp,wayback_url,sku,gpus,kind,usd_per_gpu_hour,label
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-11-15,20241115043809,https://web.archive.org/web/20241115043809/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-11-18,20241118175141,https://web.archive.org/web/20241118175141/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-11-22,20241122203800,https://web.archive.org/web/20241122203800/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-12-06,20241206210543,https://web.archive.org/web/20241206210543/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-12-12,20241212032803,https://web.archive.org/web/20241212032803/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S
+2024-12-18,20241218074437,https://web.archive.org/web/20241218074437/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core GPU
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core GPU
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S GPU
+2024-12-24,20241224214340,https://web.archive.org/web/20241224214340/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core GPU
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core GPU
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S GPU
+2025-01-15,20250115165501,https://web.archive.org/web/20250115165501/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core GPU
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core GPU
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S GPU
+2025-01-21,20250121192055,https://web.archive.org/web/20250121192055/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 Tensor Core GPU
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H100,1,on_demand,2.95,1 × H100 SXM
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H100,1,reserve,2.0,1 × H100 SXM
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 Tensor Core GPU
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H200,1,on_demand,3.5,1 × H200 SXM
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,H200,1,reserve,2.3,1 × H200 SXM
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,L40S,1,commitment,0.8,NVIDIA L40S GPU
+2025-01-23,20250123175026,https://web.archive.org/web/20250123175026/https://nebius.com/prices,L40S,1,unscoped,1.55,1 × L40s PCIe
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-03-05,20250305221703,https://web.archive.org/web/20250305221703/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-03-11,20250311202202,https://web.archive.org/web/20250311202202/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-03-22,20250322001211,https://web.archive.org/web/20250322001211/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-04-01,20250401024008,https://web.archive.org/web/20250401024008/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-04-27,20250427103410,https://web.archive.org/web/20250427103410/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-04-28,20250428021916,https://web.archive.org/web/20250428021916/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-05-23,20250523205822,https://web.archive.org/web/20250523205822/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GPU Pricing | Nebius AI Cloud              Get early access to NVIDIA GB200 NVL72
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA H100 GPU
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA H200 GPU
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-06-29,20250629224210,https://web.archive.org/web/20250629224210/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GPU Pricing | Nebius AI Cloud              Get early access to NVIDIA GB200 NVL72
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,L40S-AMD,1,unscoped,1.82,NVIDIA L40S GPU with AMD
+2025-07-25,20250725080908,https://web.archive.org/web/20250725080908/https://nebius.com/prices,L40S-Intel,1,unscoped,1.55,NVIDIA L40S GPU with Intel
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2025-08-26,20250826162436,https://web.archive.org/web/20250826162436/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2025-09-17,20250917222344,https://web.archive.org/web/20250917222344/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2025-10-20,20251020160326,https://web.archive.org/web/20251020160326/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2025-11-21,20251121191852,https://web.archive.org/web/20251121191852/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2025-12-27,20251227222718,https://web.archive.org/web/20251227222718/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2026-02-20,20260220095958,https://web.archive.org/web/20260220095958/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2026-02-22,20260222074828,https://web.archive.org/web/20260222074828/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2026-03-01,20260301091903,https://web.archive.org/web/20260301091903/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,H100,1,commitment,2.0,NVIDIA H100 GPU
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,H200,1,commitment,2.3,NVIDIA H200 GPU
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S GPU with AMD
+2026-03-04,20260304092007,https://web.archive.org/web/20260304092007/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S GPU with Intel
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,B300,1,on_demand,6.1,NVIDIA HGX B300
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-04-02,20260402090033,https://web.archive.org/web/20260402090033/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,B200,1,on_demand,5.5,NVIDIA HGX B200
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,B300,1,on_demand,6.1,NVIDIA HGX B300
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,H100,1,on_demand,2.95,NVIDIA HGX H100
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,H200,1,on_demand,3.5,NVIDIA HGX H200
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-05-07,20260507111158,https://web.archive.org/web/20260507111158/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-07-12,20260712235400,https://web.archive.org/web/20260712235400/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-07-29,20260729143110,https://web.archive.org/web/20260729143110/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-08-19,20260819203018,https://web.archive.org/web/20260819203018/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-08-22,20260822195814,https://web.archive.org/web/20260822195814/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-08-31,20260831080700,https://web.archive.org/web/20260831080700/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-01,20260901040136,https://web.archive.org/web/20260901040136/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-02,20260902080524,https://web.archive.org/web/20260902080524/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-07,20260907065947,https://web.archive.org/web/20260907065947/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-09,20260909111734,https://web.archive.org/web/20260909111734/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-15,20260915165115,https://web.archive.org/web/20260915165115/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,B200,1,preemptible,3.95,NVIDIA HGX B200
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,B300,1,preemptible,4.3,NVIDIA HGX B300
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,H100,1,preemptible,2.15,NVIDIA HGX H100
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,H200,1,preemptible,2.45,NVIDIA HGX H200
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,L40S-AMD,1,on_demand,1.55,NVIDIA L40S with AMD CPU
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,L40S-AMD,1,preemptible,0.74,NVIDIA L40S with AMD CPU
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,L40S-AMD,1,preemptible,0.9,NVIDIA L40S with AMD CPU
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,L40S-Intel,1,on_demand,1.82,NVIDIA L40S with Intel CPU
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,L40S-Intel,1,preemptible,0.9,NVIDIA L40S with Intel CPU
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,L40S-Intel,1,preemptible,0.74,NVIDIA L40S with Intel CPU
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-21,20260921070322,https://web.archive.org/web/20260921070322/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-21,20260921132101,https://web.archive.org/web/20260921132101/https://nebius.com/prices,RTX PRO 6000,1,preemptible,0.95,NVIDIA RTX PRO 6000
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-09-23,20260923185137,https://web.archive.org/web/20260923185137/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-09-26,20260926001828,https://web.archive.org/web/20260926001828/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-10-01,20261001030509,https://web.archive.org/web/20261001030509/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000
+2026-10-01,20261001131140,https://web.archive.org/web/20261001131140/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-10-03,20261003005801,https://web.archive.org/web/20261003005801/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B200,1,on_demand,7.15,NVIDIA HGX B200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B200,1,scheduled_next,8.5,NVIDIA HGX B200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B200,1,spot_floor,0.99,NVIDIA HGX B200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B300,1,on_demand,7.85,NVIDIA HGX B300
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B300,1,scheduled_next,9.5,NVIDIA HGX B300
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,B300,1,spot_floor,0.99,NVIDIA HGX B300
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,GB200,1,contact_sales,,NVIDIA GB200 NVL72
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,GB300,1,contact_sales,,NVIDIA GB300 NVL72
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H100,1,on_demand,3.85,NVIDIA HGX H100
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H100,1,scheduled_next,4.5,NVIDIA HGX H100
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H100,1,spot_floor,0.79,NVIDIA HGX H100
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H200,1,on_demand,4.5,NVIDIA HGX H200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H200,1,scheduled_next,5.4,NVIDIA HGX H200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,H200,1,spot_floor,0.79,NVIDIA HGX H200
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-AMD,1,on_demand,1.82,NVIDIA L40S with AMD CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-AMD,1,scheduled_next,1.82,NVIDIA L40S with AMD CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-AMD,1,spot_floor,0.9,NVIDIA L40S with AMD CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-Intel,1,on_demand,1.55,NVIDIA L40S with Intel CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-Intel,1,scheduled_next,1.55,NVIDIA L40S with Intel CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,L40S-Intel,1,spot_floor,0.74,NVIDIA L40S with Intel CPU
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,RTX PRO 6000,1,on_demand,1.8,NVIDIA RTX PRO 6000
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,RTX PRO 6000,1,scheduled_next,1.8,NVIDIA RTX PRO 6000
+2026-10-06,20261006004020,https://web.archive.org/web/20261006004020/https://nebius.com/prices,RTX PRO 6000,1,spot_floor,0.79,NVIDIA RTX PRO 6000

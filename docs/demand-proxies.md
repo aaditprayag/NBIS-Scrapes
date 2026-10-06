@@ -90,3 +90,9 @@ Read the four series together, once a week is enough, daily if Vast is keyed:
 A tight week is a hike, or contact-sales on a SKU that used to have a price, plus a region losing that platform, plus Vast's median up. A loose week is the opposite: platforms still listed everywhere they were, spot floor well under list, Vast median down. One of those without the others is a maybe.
 
 Snapshots land in `data/snapshots/`. Raw fetches are not committed. The parsers are covered by fixtures in `data/fixtures/` so the tests do not need the network.
+
+## History, for the price page
+
+A fresh fetch of `nebius.com/prices` is one day. The Internet Archive has unique copies of that URL from 15 Nov 2024 through 6 Oct 2026. `python scripts/fetch_wayback_prices.py` reads those copies and writes `data/out/gpu_price_history.csv`. The dated on-demand path is in `docs/gpu-price-history.md`.
+
+Vast's history is a different feed, `GET /api/v0/metrics/gpu/history/`, and it stays behind the host key. Without `VAST_API_KEY` there is no Vast backfill in this repo.

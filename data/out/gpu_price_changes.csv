@@ -1,0 +1,16 @@
+sku,captured_on,usd_per_gpu_hour,previous_usd,wayback_url
+H100,2024-11-15,2.95,,https://web.archive.org/web/20241115043809/https://nebius.com/prices
+H100,2026-07-12,3.85,2.95,https://web.archive.org/web/20260712235400/https://nebius.com/prices
+H200,2024-11-15,3.5,,https://web.archive.org/web/20241115043809/https://nebius.com/prices
+H200,2026-07-12,4.5,3.5,https://web.archive.org/web/20260712235400/https://nebius.com/prices
+B200,2025-07-25,5.5,,https://web.archive.org/web/20250725080908/https://nebius.com/prices
+B200,2026-07-12,7.15,5.5,https://web.archive.org/web/20260712235400/https://nebius.com/prices
+L40S-AMD,2025-08-26,1.82,,https://web.archive.org/web/20250826162436/https://nebius.com/prices
+L40S-AMD,2026-04-02,1.55,1.82,https://web.archive.org/web/20260402090033/https://nebius.com/prices
+L40S-AMD,2026-09-21,1.82,1.55,https://web.archive.org/web/20260921132101/https://nebius.com/prices
+L40S-Intel,2025-08-26,1.55,,https://web.archive.org/web/20250826162436/https://nebius.com/prices
+L40S-Intel,2026-04-02,1.82,1.55,https://web.archive.org/web/20260402090033/https://nebius.com/prices
+L40S-Intel,2026-09-21,1.55,1.82,https://web.archive.org/web/20260921132101/https://nebius.com/prices
+B300,2026-04-02,6.1,,https://web.archive.org/web/20260402090033/https://nebius.com/prices
+B300,2026-07-12,7.85,6.1,https://web.archive.org/web/20260712235400/https://nebius.com/prices
+RTX PRO 6000,2026-07-12,1.8,,https://web.archive.org/web/20260712235400/https://nebius.com/prices
