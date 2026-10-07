@@ -79,6 +79,34 @@ The power tape is `data/out/wide/power_cost.csv`. Finland, France, the UK, Spain
 
 Lappeenranta has no other listed facility inside 60 km. Kansas City’s nearest listed building is the Patmos hall itself, 0.6 km from the city pin. Keflavík’s neighbor is Nscale, about 1.7 km away, with an Epoch estimate of 5 MW. AWS Berwick is 37 km from the Butler Township site, with an Epoch estimate of 108 MW.
 
+## Third-party GPU prices
+
+`python scripts/fetch_third_party_prices.py` reads Nebius GPU prices that other people published: dstack's gpuhunt catalog, SkyPilot's Nebius catalog in git, and 31 GitHub trackers and price sites. Rows are in `data/out/third_party_gpu_prices.csv`. Wide files are `data/out/wide/third_party_gpuhunt.csv`, `third_party_skypilot.csv`, and `third_party_trackers.csv`.
+
+A third-party price never sets a Nebius price. It is checked against the rate card for that day, or the page archive before the card. A match to the cent counts that day as a day the price was seen. A miss stays in the file and is marked. gpuhunt has a Nebius file on 608 days from 8 Nov 2023, and its H100, H200, and B200 prices step on 1 Jun 2026 and 1 Oct 2026, the same days as the card. The matches give 524 days, and 489 of them have no Nebius capture in this repo. They are in `data/out/third_party_corroborated_days.csv`. The write-up is `docs/third-party-gpu-prices.md`.
+
+## Console billing catalogue
+
+The console's billing pages list every SKU in every region, with the date each price took effect and the date each SKU was made. They need a login, so this repo keeps the reader and one saved copy, not a scraper. `data/out/console_catalog_2026-10-06.csv` is 2,401 SKUs in 20 regions. `data/out/console_regions.csv` is the first SKU date per region.
+
+Ten regions are on `docs.nebius.com/overview/regions` and keep the place in `data/region_crosswalk.json`. The other ten are not on the docs page yet. Vera Rubin SKUs sit at a price of zero in six regions, starting with `eu-north1` on 20 Aug 2026 and then `eu-north3`, `in-south1`, `me-west3`, `us-central2`, and `us-south2` in September. The places for the new regions are inferences, in `data/console_region_inferences.json`. How to save the pages from a logged-in browser, with no token stored, is in `docs/console-catalog.md`.
+
+## Competitor capacity within 200 km
+
+`python scripts/build_competitors.py` reads `data/competitor_projects.jsonl`, 651 AI, cloud, and colocation projects researched around the 22 Nebius campuses, split into 883 phases. Each phase has its megawatts, the quarter it comes online, and a source URL and quote for both. Ring 1 is within 50 km of the campus pin in `data/ledger.json`. Ring 2 is 50 to 200 km. The round trip is the straight-line distance divided by 100, in milliseconds, so it is a floor.
+
+`data/out/competitor_phases.csv` is one row per phase. `data/out/competitors.csv` is one row per campus and phase, with the distance, ring, round trip, and whether the phase is in the totals. `data/out/wide/competitors_ring1.csv` and `competitors_ring2.csv` are the megawatts online by each quarter end from Q1 2024 through Q4 2030, one campus per row. A phase is in the totals only when its megawatts and its date are both public.
+
+By the end of 2030, Paris has about 2.5 GW of dated capacity within 50 km, and Longcross and Harlow about 2.3 GW each. Lappeenranta, Béthune, Hüüru, and Spartanburg County have almost nothing within 50 km, and their competition sits 50 to 200 km out. The write-up is `docs/competitor-capacity.md`.
+
+## GPU availability
+
+`python scripts/fetch_availability.py` adds today's GPU availability to `data/out/gpu_availability.csv`: the last two days of 500.farm's Vast history, Akash's leased share, RunPod's stock level per data center, Vast's rentable share of listed GPUs and median price, and Shadeform's available flag for each cloud and region it resells, Lambda and Nebius included. Only the Vast search uses a key, the Vast CLI session key on this machine, and it falls back to a keyless search. Vast's own market metrics need an active host machine, so they are recorded as a skip.
+
+The history is 500.farm's daily count of rented and free GPUs on Vast (B200 from 26 Jun 2025, H100 from Jan 2024) and its price tape, Akash's daily breakdown from March 2024, RunPod's in-stock offers as dstack's gpuhunt catalog recorded them (544 days from 2 Apr 2024), 22 archived copies of Shadeform's availability API, and a hand-read copy of 3Fourteen's chart of Silicon Data's B200 on-demand availability (264 days from 1 Jan 2026). A day nobody observed is missing, not filled. These are marketplaces, not Nebius. They read how tight the neoclouds are, one step removed.
+
+The chart falls from 62% on 1 Jan 2026 to under 1% by mid-March. Vast's free B200 share falls from 43% in January to 7% in September while the median rented B200 price goes from $2.87 in February to $8.03 in October. RunPod's B200 stock fell from about 5 data centers a day in February to almost none in April. Wide files are `data/out/wide/gpu_availability_b200.csv` and the rest. The full rows and the full price tape are in `data/cache/`, and `python scripts/fetch_availability.py --farm-history --akash-history` rebuilds them. The scheduled task `NBIS Daily Availability` runs the daily capture at 08:45. The write-up is `docs/gpu-availability.md`.
+
 ## Run
 
 ```
@@ -88,6 +116,10 @@ python -m nbis_scrapes all
 python scripts/fetch_docs_prices.py
 python scripts/fetch_token_factory_prices.py
 python scripts/build_wide_prices.py
+python scripts/fetch_third_party_prices.py
+python scripts/build_console_catalog.py
+python scripts/build_competitors.py
+python scripts/fetch_availability.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.

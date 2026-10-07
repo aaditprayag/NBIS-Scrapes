@@ -1,0 +1,198 @@
+{
+ "count_rented": {
+  "status": "success",
+  "data": {
+   "resultType": "matrix",
+   "result": [
+    {
+     "metric": {
+      "gpu_name": "B200"
+     },
+     "values": [
+      [
+       1791244800,
+       "334"
+      ],
+      [
+       1791331200,
+       "313"
+      ]
+     ]
+    },
+    {
+     "metric": {
+      "gpu_name": "H100 SXM"
+     },
+     "values": [
+      [
+       1791244800,
+       "164"
+      ],
+      [
+       1791331200,
+       "157"
+      ]
+     ]
+    }
+   ]
+  },
+  "stats": {
+   "seriesFetched": "4",
+   "executionTimeMsec": 1
+  }
+ },
+ "count_available": {
+  "status": "success",
+  "data": {
+   "resultType": "matrix",
+   "result": [
+    {
+     "metric": {
+      "gpu_name": "B200"
+     },
+     "values": [
+      [
+       1791244800,
+       "39"
+      ],
+      [
+       1791331200,
+       "44"
+      ]
+     ]
+    },
+    {
+     "metric": {
+      "gpu_name": "H100 SXM"
+     },
+     "values": [
+      [
+       1791244800,
+       "49"
+      ],
+      [
+       1791331200,
+       "49"
+      ]
+     ]
+    }
+   ]
+  },
+  "stats": {
+   "seriesFetched": "4",
+   "executionTimeMsec": 1
+  }
+ },
+ "price_rented": {
+  "status": "success",
+  "data": {
+   "resultType": "matrix",
+   "result": [
+    {
+     "metric": {
+      "__name__": "vastai_v2_ondemand_price_median_dollars",
+      "datacenter": "yes",
+      "gpu_count_range": "8+",
+      "gpu_name": "B200",
+      "instance": "vastai-exporter:8622",
+      "job": "vastai",
+      "rented": "yes",
+      "verified": "yes"
+     },
+     "values": [
+      [
+       1791244800,
+       "8.066934027778387"
+      ],
+      [
+       1791331200,
+       "7.5559722222222145"
+      ]
+     ]
+    },
+    {
+     "metric": {
+      "__name__": "vastai_v2_ondemand_price_median_dollars",
+      "datacenter": "yes",
+      "gpu_count_range": "8+",
+      "gpu_name": "H100 SXM",
+      "instance": "vastai-exporter:8622",
+      "job": "vastai",
+      "rented": "yes",
+      "verified": "yes"
+     },
+     "values": [
+      [
+       1791244800,
+       "3.2603715277778016"
+      ],
+      [
+       1791331200,
+       "4.4675937500000265"
+      ]
+     ]
+    }
+   ]
+  },
+  "stats": {
+   "seriesFetched": "2",
+   "executionTimeMsec": 1
+  }
+ },
+ "price_available": {
+  "status": "success",
+  "data": {
+   "resultType": "matrix",
+   "result": [
+    {
+     "metric": {
+      "__name__": "vastai_v2_ondemand_price_median_dollars",
+      "datacenter": "yes",
+      "gpu_count_range": "8+",
+      "gpu_name": "B200",
+      "instance": "vastai-exporter:8622",
+      "job": "vastai",
+      "rented": "no",
+      "verified": "yes"
+     },
+     "values": [
+      [
+       1791244800,
+       "7.859498263889012"
+      ],
+      [
+       1791331200,
+       "7.807624883937164"
+      ]
+     ]
+    },
+    {
+     "metric": {
+      "__name__": "vastai_v2_ondemand_price_median_dollars",
+      "datacenter": "yes",
+      "gpu_count_range": "8+",
+      "gpu_name": "H100 SXM",
+      "instance": "vastai-exporter:8622",
+      "job": "vastai",
+      "rented": "no",
+      "verified": "yes"
+     },
+     "values": [
+      [
+       1791244800,
+       "3.409343906148191"
+      ],
+      [
+       1791331200,
+       "3.658217866909726"
+      ]
+     ]
+    }
+   ]
+  },
+  "stats": {
+   "seriesFetched": "2",
+   "executionTimeMsec": 2
+  }
+ }
+}

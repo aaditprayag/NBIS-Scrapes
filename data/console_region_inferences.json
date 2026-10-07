@@ -1,0 +1,62 @@
+[
+  {
+    "region": "eu-north3",
+    "candidate": "Mäntsälä, Finland",
+    "confidence": "inferred",
+    "why": "Only Vera Rubin SKUs, first made 16 Sep 2026. The first Vera Rubin NVL72 rack went live at Mäntsälä on 23 Jul 2026. Nebius has not named the region."
+  },
+  {
+    "region": "eu-north4",
+    "candidate": "Hüüru, Estonia (Greenergy)",
+    "confidence": "inferred",
+    "why": "First B300 and storage SKUs on 24 Sep 2026. Estonia is the only new northern European co-location with Nebius data-center roles (Tallinn, from 13 Jul 2026), and the Greenergy hall's first 22 MW phase is due before the end of 2026."
+  },
+  {
+    "region": "eu-west3",
+    "candidate": "Béthune, France (Azur Datacenter)",
+    "confidence": "inferred",
+    "why": "By elimination. The changelog names eu-west2 as Paris, and Nebius network records and job ads put eu-west2 in a separate Paris building."
+  },
+  {
+    "region": "in-south1",
+    "candidate": "India",
+    "confidence": "region name",
+    "why": "Vera Rubin SKUs at a price of zero from 16 Sep 2026. Nebius is planning an AI data center in Hyderabad, Telangana. The host and the building are not public."
+  },
+  {
+    "region": "me-west2",
+    "candidate": "Masmiyya, Israel (Mega DC MDCIL-2)",
+    "confidence": "inferred",
+    "why": "me-west1 is Israel on the docs page. Nebius posted Masmiyya data-center roles from 5 Mar 2026, and the region's SKUs start on 12 Jun 2026."
+  },
+  {
+    "region": "me-west3",
+    "candidate": "Beit Shemesh, Israel (Mega DC MDCIL-4)",
+    "confidence": "inferred",
+    "why": "Vera Rubin SKUs from 16 Sep 2026 and a GB300 SKU from 24 Sep 2026 suit the large new build. Nebius posted Beit Shemesh roles from 4 Mar 2026. Nebius has not named the region."
+  },
+  {
+    "region": "us-central2",
+    "candidate": "Independence, Missouri",
+    "confidence": "inferred",
+    "why": "Vera Rubin SKUs from 22 Sep 2026, next to us-central1 in Kansas City. Independence Power & Light is due to deliver the first 200 MW in late Q3 2026."
+  },
+  {
+    "region": "us-east1",
+    "candidate": "Vineland, New Jersey (DataOne)",
+    "confidence": "inferred",
+    "why": "Its GPU SKUs are bare-metal GB200 and GB300 servers, first made 16 Sep 2025. There is no GPU VM SKU. That fits the Microsoft build-to-suit, which is not a public region."
+  },
+  {
+    "region": "us-south1",
+    "candidate": "Oklahoma City, Oklahoma",
+    "confidence": "inferred",
+    "why": "GB300 from 28 May 2026. Nebius's Independence fact sheet lists Oklahoma City as a US location. No source names the region."
+  },
+  {
+    "region": "us-south2",
+    "candidate": "Birmingham, Alabama",
+    "confidence": "inferred",
+    "why": "One bare-metal Vera Rubin SKU from 22 Sep 2026. Birmingham is the owned site in the South. Nebius said on its Q1 2026 call that Alabama kicks in in Q1 2027."
+  }
+]

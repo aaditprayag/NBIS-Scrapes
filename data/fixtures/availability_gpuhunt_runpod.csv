@@ -1,0 +1,11 @@
+instance_name,location,price,cpu,memory,gpu_count,gpu_name,gpu_memory,spot,disk_size,gpu_vendor,flags,cpu_arch,provider_data
+NVIDIA B200,EU-RO-1,5.49,32,323,1,B200,180,True,,nvidia,,x86,{}
+NVIDIA B200,US-CA-2,5.49,28,283,1,B200,180,True,,nvidia,,x86,{}
+NVIDIA B200,US-NC-2,5.49,24,251,1,B200,180,True,,nvidia,,x86,{}
+NVIDIA B200,EU-RO-1,5.89,32,323,1,B200,180,False,,nvidia,,x86,{}
+NVIDIA B200,US-CA-2,5.89,28,283,1,B200,180,False,,nvidia,,x86,{}
+NVIDIA B200,US-NC-2,5.89,24,251,1,B200,180,False,,nvidia,,x86,{}
+NVIDIA B200,US-CA-2,13.58,56,566,2,B200,180,False,,nvidia,,x86,{}
+NVIDIA H200,HR,3.59,16,251,1,H200,141,False,,nvidia,,x86,{}
+NVIDIA A100-SXM4-40GB,ES,1,32,125,1,A100,40,False,,nvidia,,x86,{}
+NVIDIA A100-SXM4-80GB,US-MD-1,14.304,128,2000,8,A100,80,False,,nvidia,runpod-cluster,x86,"{""pod_counts"": [2, 3, 4, 5, 6, 7, 8]}"

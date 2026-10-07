@@ -1,0 +1,60 @@
+{
+ "data": {
+  "gpuTypes": [
+   {
+    "id": "NVIDIA A100-SXM4-80GB",
+    "displayName": "A100 SXM",
+    "lowestPrice": {
+     "stockStatus": "Low",
+     "uninterruptablePrice": 1.59,
+     "minimumBidPrice": 1.59
+    }
+   },
+   {
+    "id": "NVIDIA B200",
+    "displayName": "B200",
+    "lowestPrice": {
+     "stockStatus": null,
+     "uninterruptablePrice": null,
+     "minimumBidPrice": null
+    }
+   },
+   {
+    "id": "NVIDIA H100 80GB HBM3",
+    "displayName": "H100 SXM",
+    "lowestPrice": {
+     "stockStatus": "Low",
+     "uninterruptablePrice": 3.49,
+     "minimumBidPrice": 3.49
+    }
+   },
+   {
+    "id": "NVIDIA H100 NVL",
+    "displayName": "H100 NVL",
+    "lowestPrice": {
+     "stockStatus": null,
+     "uninterruptablePrice": null,
+     "minimumBidPrice": null
+    }
+   },
+   {
+    "id": "NVIDIA H200",
+    "displayName": "H200 SXM",
+    "lowestPrice": {
+     "stockStatus": "Low",
+     "uninterruptablePrice": 4.59,
+     "minimumBidPrice": 4.59
+    }
+   },
+   {
+    "id": "NVIDIA H200 NVL",
+    "displayName": "H200 NVL",
+    "lowestPrice": {
+     "stockStatus": null,
+     "uninterruptablePrice": null,
+     "minimumBidPrice": null
+    }
+   }
+  ]
+ }
+}

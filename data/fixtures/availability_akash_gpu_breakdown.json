@@ -1,0 +1,62 @@
+[
+ {
+  "date": "2026-10-06T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "a100",
+  "providerCount": 4,
+  "nodeCount": 16,
+  "totalGpus": 121,
+  "leasedGpus": 105,
+  "gpuUtilization": 86.78
+ },
+ {
+  "date": "2026-10-06T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "b300",
+  "providerCount": 2,
+  "nodeCount": 2,
+  "totalGpus": 16,
+  "leasedGpus": 16,
+  "gpuUtilization": 100
+ },
+ {
+  "date": "2026-10-06T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "h100",
+  "providerCount": 4,
+  "nodeCount": 9,
+  "totalGpus": 72,
+  "leasedGpus": 45,
+  "gpuUtilization": 62.5
+ },
+ {
+  "date": "2026-10-07T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "a100",
+  "providerCount": 5,
+  "nodeCount": 26,
+  "totalGpus": 201,
+  "leasedGpus": 184,
+  "gpuUtilization": 91.54
+ },
+ {
+  "date": "2026-10-07T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "b300",
+  "providerCount": 2,
+  "nodeCount": 2,
+  "totalGpus": 16,
+  "leasedGpus": 16,
+  "gpuUtilization": 100
+ },
+ {
+  "date": "2026-10-07T00:00:00.000Z",
+  "vendor": "nvidia",
+  "model": "h100",
+  "providerCount": 4,
+  "nodeCount": 9,
+  "totalGpus": 72,
+  "leasedGpus": 46,
+  "gpuUtilization": 63.89
+ }
+]

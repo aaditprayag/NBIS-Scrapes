@@ -1,0 +1,147 @@
+[
+ {
+  "items": [
+   {
+    "metadata": {
+     "id": "sku-e00wnxq52ci116dsvrqh3",
+     "name": "compute/vm.gpu-vera-rubin/us-central2",
+     "createdAt": {
+      "seconds": "1790208000",
+      "nanos": 0
+     },
+     "labels": {
+      "labels": {
+       "product__ui_calculator_pricing_unit": "gpu-unit"
+      }
+     }
+    },
+    "spec": {
+     "title": "NVIDIA® Vera Rubin (us-central2)"
+    },
+    "status": {
+     "state": 1
+    }
+   },
+   {
+    "metadata": {
+     "id": "sku-e00litusjp1vjgjij1mrt",
+     "name": "compute/vm.gpu-h100-sxm/eu-north1",
+     "createdAt": {
+      "seconds": "1757548800",
+      "nanos": 0
+     },
+     "labels": {
+      "labels": {
+       "product__ui_calculator_pricing_unit": "gpu-unit"
+      }
+     }
+    },
+    "spec": {
+     "title": "NVIDIA® H100 NVLink (eu-north1)"
+    },
+    "status": {
+     "state": 1
+    }
+   },
+   {
+    "metadata": {
+     "id": "sku-e00ljkedv5qtbwhikuoct",
+     "name": "compute/vm.gpu-h100-sxm.preemptible/eu-north1",
+     "createdAt": {
+      "seconds": "1757548800",
+      "nanos": 0
+     },
+     "labels": {
+      "labels": {
+       "product__ui_calculator_pricing_unit": "gpu-unit"
+      }
+     }
+    },
+    "spec": {
+     "title": "Preemptible NVIDIA® H100 NVLink (eu-north1)"
+    },
+    "status": {
+     "state": 1
+    }
+   }
+  ],
+  "additionalItems": {
+   "effectivePrices": [
+    {
+     "metadata": {
+      "parentId": "sku-e00wnxq52ci116dsvrqh3",
+      "createdAt": {
+       "seconds": "1790208000",
+       "nanos": 0
+      }
+     },
+     "spec": {
+      "effectiveTime": {
+       "seconds": "1788220800",
+       "nanos": 0
+      },
+      "rate": {
+       "tiers": [
+        {
+         "startAmount": "0",
+         "priceValue": "0"
+        }
+       ]
+      },
+      "currency": 1
+     }
+    },
+    {
+     "metadata": {
+      "parentId": "sku-e00litusjp1vjgjij1mrt",
+      "createdAt": {
+       "seconds": "1790640000",
+       "nanos": 0
+      }
+     },
+     "spec": {
+      "effectiveTime": {
+       "seconds": "1790812800",
+       "nanos": 0
+      },
+      "rate": {
+       "tiers": [
+        {
+         "startAmount": "0",
+         "priceValue": "4.5"
+        }
+       ]
+      },
+      "currency": 1
+     }
+    },
+    {
+     "metadata": {
+      "parentId": "sku-e00ljkedv5qtbwhikuoct",
+      "createdAt": {
+       "seconds": "1779321600",
+       "nanos": 0
+      }
+     },
+     "spec": {
+      "effectiveTime": {
+       "seconds": "1780272000",
+       "nanos": 0
+      },
+      "rate": {
+       "tiers": [
+        {
+         "startAmount": "0",
+         "priceValue": "2.15"
+        }
+       ]
+      },
+      "currency": 1
+     }
+    }
+   ],
+   "futurePrices": []
+  },
+  "nextPageToken": ""
+ }
+]
