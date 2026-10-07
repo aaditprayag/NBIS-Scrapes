@@ -1,62 +1,62 @@
 [
   {
     "region": "eu-north1",
-    "candidate": "Mäntsälä, Finland",
-    "confidence": "inferred",
-    "why": "H100 remains listed only in eu-north1, alongside H200 and L40S. That matches the original Finland flagship. The docs page does not name the city."
+    "candidate": "Finland",
+    "confidence": "docs",
+    "why": "docs.nebius.com/overview/regions names eu-north1 as Finland. The city is not in that list. Mäntsälä is the owned Finland flagship."
   },
   {
     "region": "eu-north2",
-    "candidate": "Second Finland site (Kapuli or Lappeenranta)",
-    "confidence": "inferred",
-    "why": "H200 is listed in eu-north2. Two Finland projects exist. The docs page does not say which building this is."
+    "candidate": "Iceland",
+    "confidence": "docs",
+    "why": "The regions page names eu-north2 as Iceland and says it is open only to users who already have deployments there. This is the Keflavík colo, not a second Finland site."
   },
   {
     "region": "eu-west1",
-    "candidate": "Paris colo",
-    "confidence": "inferred",
-    "why": "H200 is listed. Paris was the first Western Europe colo. Not stated on the docs page."
+    "candidate": "France",
+    "confidence": "docs",
+    "why": "The regions page names eu-west1 as France. It does not name Paris versus the later French sites."
   },
   {
     "region": "eu-west2",
-    "candidate": "Second France region",
-    "confidence": "inferred",
-    "why": "B300 is listed in eu-west2. The capacity model treats eu-west2 as the unnamed second French colo. The town is not disclosed."
+    "candidate": "France",
+    "confidence": "docs",
+    "why": "The regions page names eu-west2 as France. It does not name the building."
   },
   {
     "region": "eu-south1",
-    "candidate": "Madrid-Getafe",
-    "confidence": "inferred",
-    "why": "RTX PRO 6000 is listed in eu-south1. Spain was added in 2026. Not confirmed as this region id by Nebius in the docs table."
+    "candidate": "Madrid, Spain",
+    "confidence": "docs",
+    "why": "The regions page names eu-south1 as Madrid, Spain."
   },
   {
     "region": "me-west1",
     "candidate": "Israel",
-    "confidence": "inferred",
-    "why": "B200 platform gpu-b200-sxm-a is listed only in me-west1. Nebius's public Israel sites are the obvious candidate."
+    "confidence": "docs",
+    "why": "The regions page names me-west1 as Israel. It does not pick Modi'in, Masmiyya, or Beit Shemesh."
   },
   {
     "region": "uk-south1",
-    "candidate": "UK south, B300",
-    "confidence": "inferred",
-    "why": "B300 is listed in uk-south1. Longcross, Harlow, and Newport are all UK colos. The id is not tied to one building."
+    "candidate": "United Kingdom",
+    "confidence": "docs",
+    "why": "The regions page names uk-south1 as the United Kingdom. It does not pick Longcross, Harlow, or Newport."
   },
   {
     "region": "uk-south2",
-    "candidate": "Second UK region",
-    "confidence": "inferred",
-    "why": "RTX PRO 6000 is listed in uk-south2. Which hall is not stated."
+    "candidate": "United Kingdom",
+    "confidence": "docs",
+    "why": "The regions page names uk-south2 as the United Kingdom. It does not name the hall."
   },
   {
     "region": "us-central1",
-    "candidate": "US central colo, Kansas City is the early site",
-    "confidence": "inferred",
-    "why": "B200, H200, and RTX PRO 6000 are listed. Kansas City was the first US colo. Vineland is a contracted campus and may not be this self-serve region."
+    "candidate": "Kansas City, Missouri",
+    "confidence": "docs",
+    "why": "The regions page names us-central1 as Kansas City, Missouri. Vineland, New Jersey is not a public region."
   },
   {
     "region": "us-north1",
     "candidate": "Woodbury, Minnesota",
-    "confidence": "inferred",
-    "why": "B300 is listed in us-north1. The capacity file maps us-north1 to Woodbury. That mapping is an inference."
+    "confidence": "docs",
+    "why": "The regions page names us-north1 as Woodbury, Minnesota."
   }
 ]
