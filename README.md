@@ -48,6 +48,12 @@ The price source is `https://tokenfactory.nebius.com/api/public/models_info`. Th
 
 Across those dates, no model that stayed listed changed its input or output price. The catalog did change: nine model IDs from 19 Jul were gone by 7 Oct, and eight new ones were added. Prices for the ones that remained, including Qwen3-235B at $0.20 / $0.60 and GLM-5.1 at $1.40 / $4.40, are the same on every capture.
 
+## Wide price CSVs
+
+`python scripts/build_wide_prices.py` writes one CSV per series under `data/out/wide/`. The series names run down the rows. Each date is a column. The row above the dates is the fiscal quarter. Nebius reports on a calendar year, so every date from 1 Apr 2025 through 30 Jun 2025 is labeled `Q2 '25`.
+
+The rate-card files use the effective date of each published price. A price Nebius labels "before 1 Jun 2026" sits on 31 May 2026. A price labeled "from 1 Jun 2026" sits on 1 Jun 2026. Both are `Q2 '26`. The page files use the day that price was on the page. Token Factory input and output are separate files, with one row per model.
+
 ## Run
 
 ```
@@ -56,6 +62,7 @@ python -m unittest discover -s tests
 python -m nbis_scrapes all
 python scripts/fetch_docs_prices.py
 python scripts/fetch_token_factory_prices.py
+python scripts/build_wide_prices.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.
