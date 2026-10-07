@@ -24,70 +24,70 @@ META = [
     ("Vineland NJ", {
         "country": "USA", "ownership": "build-to-suit", "customer": "Microsoft",
         "confirmed": True, "lat": 39.4864, "lon": -75.0257, "geo_precision": "city",
-        "note": "DataOne shell in Vineland. Energized rows are IT MW, genset-capped.",
+        "note": "FY2025 20-F: first build-to-suit, Vineland, NJ, signed February 2025. Nebius is the tenant. DataOne owns the shell. Microsoft is the customer. Energized rows are IT MW, genset-capped.",
     }),
     ("Independence MO", {
-        "country": "USA", "ownership": "owned", "customer": "unassigned",
+        "country": "USA", "ownership": "greenfield", "customer": "unassigned",
         "confirmed": True, "lat": 39.0956, "lon": -94.3553, "geo_precision": "city",
-        "note": "Eastgate greenfield, 1.2 GW contracted. No energized IT through the history window.",
+        "note": "FY2025 20-F: Missouri and Finland are the greenfield sites. Newly owned land, February 2026. 1.2 GW in the Q1 2026 letter. No energized IT through Q2 2026.",
     }),
     ("Butler Twp PA", {
-        "country": "USA", "ownership": "owned", "customer": "unassigned",
+        "country": "USA", "ownership": "greenfield", "customer": "unassigned",
         "confirmed": True, "lat": 40.7612, "lon": -76.2280, "geo_precision": "county",
-        "note": "Highridge / Schuylkill. Up to 1.2 GW. Utility path is behind the Oct 2027 slogan.",
+        "note": "Owned site announced May 2026, after the 20-F. On the 12 Aug 2026 letter map as Pennsylvania. Up to 1.2 GW. Treated as greenfield because the company says it owns the land. Not in the 20-F site list.",
     }),
     ("Birmingham AL", {
-        "country": "USA", "ownership": "owned", "customer": "unassigned",
+        "country": "USA", "ownership": "greenfield", "customer": "unassigned",
         "confirmed": True, "lat": 33.4473, "lon": -86.8376, "geo_precision": "neighborhood",
-        "note": "Oxmoor brownfield. About 300 MW press figure. No revenue IT in 1H 2026.",
+        "note": "FY2025 20-F: newly owned Alabama site, and the filing groups Alabama with Missouri as a greenfield. The address is a former operations building, which also fits the company's brownfield definition. The filing's word is greenfield. No revenue IT in 1H 2026.",
     }),
     ("Bethune FR", {
-        "country": "France", "ownership": "colocation", "customer": "Meta (press, estimated)",
+        "country": "France", "ownership": "co-location", "customer": "Meta (press, estimated)",
         "confirmed": True, "lat": 50.5303, "lon": 2.6401, "geo_precision": "city",
         "note": "Azur, former Bridgestone plant. Contracted in Q1 2026. Energized base still 0 at Q2 2026.",
     }),
     ("Lappeenranta FI", {
-        "country": "Finland", "ownership": "owned", "customer": "unassigned",
+        "country": "Finland", "ownership": "greenfield", "customer": "unassigned",
         "confirmed": True, "lat": 61.0587, "lon": 28.1881, "geo_precision": "city",
-        "note": "Pajarila / Polarnode, 310 MW. First customer capacity guided for 2027.",
+        "note": "Owned Finnish site, 310 MW, first customer capacity guided for 2027. Not named in the 20-F bullet list. The 12 Aug 2026 letter adds a Finland site. Classed greenfield because the company says it owns the land.",
     }),
     ("Mantsala FI #1", {
-        "country": "Finland", "ownership": "owned", "customer": "self-serve",
+        "country": "Finland", "ownership": "greenfield", "customer": "self-serve",
         "confirmed": True, "lat": 60.6314, "lon": 25.3180, "geo_precision": "city",
-        "note": "Flagship. Oct 2024 release said capacity would triple to 75 MW, which implies about 25 MW before the expansion.",
+        "note": "FY2025 20-F: Mäntsälä is a greenfield data center built to Nebius's design. Oct 2024 release said capacity would triple to 75 MW.",
     }),
     ("Mantsala FI #2", {
-        "country": "Finland", "ownership": "owned", "customer": "unassigned",
+        "country": "Finland", "ownership": "greenfield", "customer": "unassigned",
         "confirmed": True, "lat": 60.6550, "lon": 25.2800, "geo_precision": "district",
-        "note": "Kapuli. Offset from site 1 so both pins are visible. Substation timing is 2027.",
+        "note": "Kapuli, next to the Mäntsälä greenfield. The 20-F does not name this plot separately. Offset from site 1 so both pins are visible.",
     }),
     ("Kansas City MO", {
-        "country": "USA", "ownership": "colocation", "customer": "self-serve",
+        "country": "USA", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 39.0997, "lon": -94.5786, "geo_precision": "city",
         "note": "Patmos colo. 5 MW class from early 2025, expandable toward 40 MW.",
     }),
     ("Paris (Equinix", {
-        "country": "France", "ownership": "colocation", "customer": "self-serve",
+        "country": "France", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 48.8400, "lon": 2.3890, "geo_precision": "city",
         "note": "Equinix PA10. Megawatts are a small third-party figure, not a Nebius disclosure.",
     }),
     ("Keflavik IS", {
-        "country": "Iceland", "ownership": "colocation", "customer": "self-serve",
+        "country": "Iceland", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 63.9850, "lon": -22.6060, "geo_precision": "town",
         "note": "Verne, private region, live from Q1 2025.",
     }),
     ("London Longcross", {
-        "country": "UK", "ownership": "colocation", "customer": "self-serve",
+        "country": "UK", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 51.3910, "lon": -0.5840, "geo_precision": "town",
         "note": "Ark LP01 at Longcross.",
     }),
     ("Harlow UK", {
-        "country": "UK", "ownership": "colocation", "customer": "self-serve",
+        "country": "UK", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 51.7850, "lon": 0.1270, "geo_precision": "city",
         "note": "Kao Data KLON. Ten-year colo.",
     }),
     ("Newport UK", {
-        "country": "UK", "ownership": "colocation", "customer": "self-serve",
+        "country": "UK", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 51.5842, "lon": -2.9977, "geo_precision": "city",
         "note": "Vantage CWL1, announced 13 Aug 2026. MW not disclosed on its own.",
         "announced_mw": None,
@@ -98,49 +98,49 @@ META = [
         "note": "Lead only: Green Mountain LON-East, Romford. Not a confirmed Nebius campus.",
     }),
     ("Modi'in IL", {
-        "country": "Israel", "ownership": "colocation", "customer": "self-serve",
+        "country": "Israel", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 31.8980, "lon": 35.0100, "geo_precision": "city",
         "note": "Mega Or. Energized rows are IT MW. Launched Oct 2025.",
     }),
     ("Masmiyya IL", {
-        "country": "Israel", "ownership": "colocation", "customer": "unassigned",
+        "country": "Israel", "ownership": "co-location", "customer": "unassigned",
         "confirmed": True, "lat": 31.7230, "lon": 34.8380, "geo_precision": "approximate",
         "note": "Mega DC. Pin is approximate.",
     }),
     ("Beit Shemesh IL", {
-        "country": "Israel", "ownership": "colocation", "customer": "unassigned",
+        "country": "Israel", "ownership": "co-location", "customer": "unassigned",
         "confirmed": True, "lat": 31.7456, "lon": 34.9881, "geo_precision": "city",
         "note": "Mega DC. Landlord completion slides point at 2027.",
     }),
     ("Madrid-Getafe", {
-        "country": "Spain", "ownership": "colocation", "customer": "self-serve",
+        "country": "Spain", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 40.3057, "lon": -3.7327, "geo_precision": "city",
         "note": "Merlin Edged. Phase 1 went live in Sep 2026, after the history window.",
     }),
     ("Tallinn EE", {
-        "country": "Estonia", "ownership": "colocation", "customer": "unassigned",
+        "country": "Estonia", "ownership": "co-location", "customer": "unassigned",
         "confirmed": True, "lat": 59.4370, "lon": 24.7536, "geo_precision": "city",
         "note": "Greenergy Huuru. Contracted in Q2 2026.",
     }),
     ("Minnesota colo", {
-        "country": "USA", "ownership": "colocation", "customer": "self-serve",
+        "country": "USA", "ownership": "co-location", "customer": "self-serve",
         "confirmed": True, "lat": 44.9239, "lon": -92.9594, "geo_precision": "city",
-        "note": "us-north1 Woodbury is an inference from the region name, not a campus disclosure.",
+        "note": "FY2025 20-F: co-location in Minnesota, February 2026. The filing does not name the city. Woodbury is the docs region us-north1, not a campus disclosure.",
     }),
     ("Oklahoma colo", {
-        "country": "USA", "ownership": "colocation", "customer": "unassigned",
-        "confirmed": False, "lat": None, "lon": None, "geo_precision": "unlocated",
-        "note": "Named only as a >100 MW map category. Town is not disclosed, so it is not pinned.",
+        "country": "USA", "ownership": "co-location", "customer": "unassigned",
+        "confirmed": True, "lat": None, "lon": None, "geo_precision": "unlocated",
+        "note": "FY2025 20-F: co-location in Oklahoma, contracts secured February 2026. The town is not stated, so it is not pinned. The site itself is company-reported.",
     }),
     ("France 2nd", {
-        "country": "France", "ownership": "colocation", "customer": "unassigned",
-        "confirmed": False, "lat": None, "lon": None, "geo_precision": "unlocated",
-        "note": "20-F colo. eu-west2 is a candidate region, not a located campus.",
+        "country": "France", "ownership": "co-location", "customer": "unassigned",
+        "confirmed": True, "lat": None, "lon": None, "geo_precision": "unlocated",
+        "note": "FY2025 20-F: two new French co-location sites in February 2026, in addition to Paris. Towns are not named. Béthune is one landlord-identified town. This row is the other unnamed contract.",
     }),
     ("AIB CLT1", {
-        "country": "USA", "ownership": "colocation", "customer": "unassigned",
+        "country": "USA", "ownership": "co-location", "customer": "unassigned",
         "confirmed": True, "lat": 34.8380, "lon": -81.7000, "geo_precision": "county",
-        "note": "AIB press release 30 Sep 2026: 50 MW IT on a 65 MW utility ESA. After Q2 2026, so the quarterly history stays empty.",
+        "note": "Not on the 12 Aug 2026 Nebius location map and not in the 20-F. AIB's own 8-K on 30 Sep 2026 says 50 MW IT at its South Carolina site. Co-location. Quarterly history stays empty through Q2 2026.",
         "announced_mw": 50,
         "announced_on": "2026-09-30",
     }),
@@ -309,7 +309,22 @@ def main() -> None:
 
     dest = ROOT / "data" / "ledger.json"
     dest.write_text(json.dumps(ledger, indent=2), encoding="utf-8")
+    types = ROOT / "data" / "out" / "site_types.csv"
+    types.parent.mkdir(parents=True, exist_ok=True)
+    import csv
+    with types.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=["site", "company_type", "country", "located", "note"])
+        writer.writeheader()
+        for site in sites:
+            writer.writerow({
+                "site": site["name"],
+                "company_type": site["ownership"],
+                "country": site["country"],
+                "located": site["lat"] is not None,
+                "note": site["note"],
+            })
     print(f"wrote {dest} sites={len(sites)} quarters={len(quarters)}")
+    print(f"wrote {types}")
 
 
 if __name__ == "__main__":

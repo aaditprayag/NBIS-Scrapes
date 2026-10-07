@@ -48,6 +48,12 @@ The price source is `https://tokenfactory.nebius.com/api/public/models_info`. Th
 
 Across those dates, no model that stayed listed changed its input or output price. The catalog did change: nine model IDs from 19 Jul were gone by 7 Oct, and eight new ones were added. Prices for the ones that remained, including Qwen3-235B at $0.20 / $0.60 and GLM-5.1 at $1.40 / $4.40, are the same on every capture.
 
+## Site types
+
+Nebius uses four words in the FY2025 Form 20-F, filed 30 Apr 2026: greenfield, brownfield, build-to-suit, and co-location. Brownfield is defined and no site in that list is given the label. `data/out/site_types.csv` is the current classification.
+
+Greenfield, as the company uses the word: Mäntsälä, and the owned US sites in Missouri and Alabama. Lappeenranta, Kapuli, and Pennsylvania are owned land announced around or after that filing, so they are classed the same way. Vineland is the one build-to-suit. Paris, Keflavík, Kansas City, the UK sites, Israel, Minnesota, Oklahoma, the later French sites, Spain, and Estonia are co-location. Oklahoma and one French site are company-reported and still have no town, so they are not pinned. South Carolina is not on the 12 Aug 2026 company map. It comes from AIB's 30 Sep 2026 8-K. Romford is not a reported site.
+
 ## Wide price CSVs
 
 `python scripts/build_wide_prices.py` writes one CSV per series under `data/out/wide/`. The series names run down the rows. Each date is a column. The row above the dates is the fiscal quarter. Nebius reports on a calendar year, so every date from 1 Apr 2025 through 30 Jun 2025 is labeled `Q2 '25`.

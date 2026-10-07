@@ -1,0 +1,25 @@
+site,company_type,country,located,note
+Vineland NJ (DataOne),build-to-suit,USA,True,"FY2025 20-F: first build-to-suit, Vineland, NJ, signed February 2025. Nebius is the tenant. DataOne owns the shell. Microsoft is the customer. Energized rows are IT MW, genset-capped."
+Independence MO (Eastgate),greenfield,USA,True,"FY2025 20-F: Missouri and Finland are the greenfield sites. Newly owned land, February 2026. 1.2 GW in the Q1 2026 letter. No energized IT through Q2 2026."
+Butler Twp PA (Highridge),greenfield,USA,True,"Owned site announced May 2026, after the 20-F. On the 12 Aug 2026 letter map as Pennsylvania. Up to 1.2 GW. Treated as greenfield because the company says it owns the land. Not in the 20-F site list."
+"Birmingham AL (BHM01, Oxmoor)",greenfield,USA,True,"FY2025 20-F: newly owned Alabama site, and the filing groups Alabama with Missouri as a greenfield. The address is a former operations building, which also fits the company's brownfield definition. The filing's word is greenfield. No revenue IT in 1H 2026."
+"Bethune FR (Azur Datacenter, ex-Bridgestone)",co-location,France,True,"Azur, former Bridgestone plant. Contracted in Q1 2026. Energized base still 0 at Q2 2026."
+Lappeenranta FI (Pajarila / Polarnode),greenfield,Finland,True,"Owned Finnish site, 310 MW, first customer capacity guided for 2027. Not named in the 20-F bullet list. The 12 Aug 2026 letter adds a Finland site. Classed greenfield because the company says it owns the land."
+Mantsala FI #1,greenfield,Finland,True,FY2025 20-F: Mäntsälä is a greenfield data center built to Nebius's design. Oct 2024 release said capacity would triple to 75 MW.
+Mantsala FI #2 (Kapuli),greenfield,Finland,True,"Kapuli, next to the Mäntsälä greenfield. The 20-F does not name this plot separately. Offset from site 1 so both pins are visible."
+Kansas City MO (Patmos),co-location,USA,True,"Patmos colo. 5 MW class from early 2025, expandable toward 40 MW."
+Paris (Equinix PA10),co-location,France,True,"Equinix PA10. Megawatts are a small third-party figure, not a Nebius disclosure."
+Keflavik IS (Verne),co-location,Iceland,True,"Verne, private region, live from Q1 2025."
+London Longcross (Ark LP01),co-location,UK,True,Ark LP01 at Longcross.
+Harlow UK (Kao Data KLON-02/03),co-location,UK,True,Kao Data KLON. Ten-year colo.
+Newport UK (Vantage CWL1),co-location,UK,True,"Vantage CWL1, announced 13 Aug 2026. MW not disclosed on its own."
+"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",unknown,UK,True,"Lead only: Green Mountain LON-East, Romford. Not a confirmed Nebius campus."
+Modi'in IL (Mega Or),co-location,Israel,True,Mega Or. Energized rows are IT MW. Launched Oct 2025.
+Masmiyya IL (Mega DC),co-location,Israel,True,Mega DC. Pin is approximate.
+Beit Shemesh IL (Mega DC),co-location,Israel,True,Mega DC. Landlord completion slides point at 2027.
+Madrid-Getafe ES (Merlin Edged),co-location,Spain,True,"Merlin Edged. Phase 1 went live in Sep 2026, after the history window."
+Tallinn EE (Greenergy Huuru),co-location,Estonia,True,Greenergy Huuru. Contracted in Q2 2026.
+"Minnesota colo (us-north1, Woodbury)",co-location,USA,True,"FY2025 20-F: co-location in Minnesota, February 2026. The filing does not name the city. Woodbury is the docs region us-north1, not a campus disclosure."
+Oklahoma colo (unnamed),co-location,USA,False,"FY2025 20-F: co-location in Oklahoma, contracts secured February 2026. The town is not stated, so it is not pinned. The site itself is company-reported."
+France 2nd colo (unnamed; possibly eu-west2),co-location,France,False,"FY2025 20-F: two new French co-location sites in February 2026, in addition to Paris. Towns are not named. Béthune is one landlord-identified town. This row is the other unnamed contract."
+"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",co-location,USA,True,Not on the 12 Aug 2026 Nebius location map and not in the 20-F. AIB's own 8-K on 30 Sep 2026 says 50 MW IT at its South Carolina site. Co-location. Quarterly history stays empty through Q2 2026.
