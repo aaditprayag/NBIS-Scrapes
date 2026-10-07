@@ -1,0 +1,22 @@
+nebius_site,country,facilities_within_60km,nearest,nearest_km,nearest_owner
+Vineland NJ (DataOne),USA,14,TierPoint Philadelphia,46.7,"TierPoint, LLC"
+Independence MO (Eastgate),USA,21,LightEdge Kansas City Subtropolis (KCI1),12.2,LightEdge Solutions
+Butler Twp PA (Highridge),USA,5,AWS Berwick,36.6,Amazon
+"Birmingham AL (BHM01, Oxmoor)",USA,1,DC BLOX BHM1 - DCBLOX Birmingham,6.0,DC BLOX Parent LLC
+"Bethune FR (Azur Datacenter, ex-Bridgestone)",France,11,EXA Edge DC Willerval,22.7,EXA Infrastructure
+Lappeenranta FI (Pajarila / Polarnode),Finland,0,,,
+Mantsala FI #1,Finland,21,Hetzner Online HEL1 (Helsinki),35.9,Hetzner Online GmbH
+Mantsala FI #2 (Kapuli),Finland,21,Hetzner Online HEL1 (Helsinki),37.5,Hetzner Online GmbH
+Kansas City MO (Patmos),USA,16,Patmos KC2,0.6,"Patmos Hosting, INC"
+Paris (Equinix PA10),France,66,COLT DC Paris III,0.9,Colt Technology Services Group
+Keflavik IS (Verne),Iceland,15,Nscale Keflavik,1.7,Nscale
+London Longcross (Ark LP01),UK,83,Digital Realty London LGW14,7.5,Digital Realty
+Harlow UK (Kao Data KLON-02/03),UK,69,nLighten London STN1,9.4,nLighten HQ BV
+Newport UK (Vantage CWL1),UK,5,LINX Wales - BT Stadium House,17.2,LINX
+Modi'in IL (Mega Or),Israel,16,SDS1 Modiin,5.1,SDS Data Service LTD
+Masmiyya IL (Mega DC),Israel,16,Partner Rehovot DataCenter,21.0,Partner Communications Ltd.
+Beit Shemesh IL (Mega DC),Israel,16,SDS1 Modiin,19.4,SDS Data Service LTD
+Madrid-Getafe ES (Merlin Edged),Spain,27,MERLIN Edged MAD01 - Madrid-Getafe,3.4,MERLIN Edged
+Tallinn EE (Greenergy Huuru),Estonia,7,WaveCom DC,1.5,Aktsiaselts WaveCom
+"Minnesota colo (us-north1, Woodbury)",USA,21,H5 Data Centers Minneapolis,15.7,H5 Data Centers
+"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",USA,5,"DartPoints Spartanburg, SC - SPA1",35.1,"DartPoints, LLC"

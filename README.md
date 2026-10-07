@@ -56,6 +56,12 @@ Across those dates, no model that stayed listed changed its input or output pric
 
 The rate-card files use the effective date of each published price. A price Nebius labels "before 1 Jun 2026" sits on 31 May 2026. A price labeled "from 1 Jun 2026" sits on 1 Jun 2026. Both are `Q2 '26`. The page files use the day that price was on the page. Token Factory input and output are separate files, with one row per model.
 
+## Nearby data centers
+
+`data/out/neighbors.csv` lists other facilities within 60 km of each confirmed Nebius campus. The operator comes from PeeringDB. A power figure is filled only when Epoch AI publishes an estimate for that campus, or when the PeeringDB note itself states a megawatt. Each row has a satellite-photo link. The map’s Satellite layer is the aerial photo. Tan pins are the neighbors. `neighbors_summary.csv` is the count per Nebius campus.
+
+Lappeenranta has no other listed facility inside 60 km. Kansas City’s nearest listed building is the Patmos hall itself, 0.6 km from the city pin. Keflavík’s neighbor is Nscale, about 1.7 km away, with an Epoch estimate of 5 MW. AWS Berwick is 37 km from the Butler Township site, with an Epoch estimate of 108 MW.
+
 ## Run
 
 ```

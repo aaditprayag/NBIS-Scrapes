@@ -86,7 +86,11 @@ def _crosswalk_rows() -> list[dict]:
 def render_html(ledger: dict) -> str:
     payload = build_features(ledger)
     crosswalk = _crosswalk_rows()
-    data = json.dumps({"map": payload, "regions": crosswalk})
+    neighbors_path = OUT_GEOJSON.parent / "neighbors.geojson"
+    neighbors = {"type": "FeatureCollection", "features": []}
+    if neighbors_path.exists():
+        neighbors = json.loads(neighbors_path.read_text(encoding="utf-8"))
+    data = json.dumps({"map": payload, "regions": crosswalk, "neighbors": neighbors})
     return HTML.replace("/*__DATA__*/", data)
 
 
@@ -167,7 +171,7 @@ HTML = r"""<!DOCTYPE html>
     <table id="regions"></table>
   </aside>
   <div id="map"></div>
-  <div class="footer">Pins are city-level. Energized MW is an estimate of live IT load from the site ledger, not a meter. Connected power and contracted power are different stocks. Open this file in a browser. Tiles load from CARTO.</div>
+  <div class="footer">Green and amber pins are Nebius. Tan pins are other data centers within 60 km. Use the Satellite layer for the aerial photo. Power on a tan pin is an Epoch estimate or a PeeringDB note, not a meter. Tiles load from CARTO and Esri.</div>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
@@ -176,11 +180,16 @@ const mapData = PACK.map;
 let mode = "history";
 
 const map = L.map("map", { worldCopyJump: true }).setView([30, 10], 2);
-L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+const streets = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
   attribution: "&copy; OpenStreetMap &copy; CARTO",
   subdomains: "abcd",
   maxZoom: 18
 }).addTo(map);
+const satellite = L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}", {
+  attribution: "Tiles &copy; Esri",
+  maxZoom: 18
+});
+L.control.layers({ "Map": streets, "Satellite": satellite }, null, { position: "topright" }).addTo(map);
 
 function esc(value) {
   return String(value == null ? "" : value).replace(/[&<>]/g, function (ch) {
@@ -292,6 +301,24 @@ const regionTable = document.getElementById("regions");
   tr.innerHTML = "<td>" + esc(row.region) + "</td><td>" + esc(row.candidate) + "</td><td>" + esc(row.confidence) + "</td>";
   regionTable.appendChild(tr);
 });
+L.geoJSON(PACK.neighbors || {type: "FeatureCollection", features: []}, {
+  pointToLayer: function (feature, latlng) {
+    return L.circleMarker(latlng, {
+      radius: 5, color: "#6b4f2a", weight: 1, fillColor: "#d4b483", fillOpacity: 0.9
+    });
+  },
+  onEachFeature: function (feature, marker) {
+    const props = feature.properties;
+    const power = props.power_mw ? esc(props.power_mw) + " MW" : "power not published";
+    marker.bindPopup(
+      "<strong>" + esc(props.name) + "</strong><br>"
+      + esc(props.owner) + "<br>"
+      + esc(props.distance_km) + " km from " + esc(props.near) + "<br>"
+      + power + "<br>"
+      + "<a href=\"" + esc(props.satellite_url) + "\">Satellite photo</a>"
+    );
+  }
+}).addTo(map);
 redraw();
 </script>
 </body>
