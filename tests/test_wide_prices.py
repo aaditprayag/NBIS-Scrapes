@@ -5,7 +5,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 import unittest
 
-from nbis_scrapes.wide_prices import docs_column, fiscal_quarter, pivot_tokens
+from nbis_scrapes.wide_prices import docs_column, fiscal_quarter, pivot_company, pivot_tokens, quarter_end
 
 
 class WidePriceTests(unittest.TestCase):
@@ -34,6 +34,27 @@ class WidePriceTests(unittest.TestCase):
         self.assertEqual(list(grid), ["Qwen/Qwen3-32B", "zai-org/GLM-5.1"])
         self.assertEqual(grid["zai-org/GLM-5.1"].get("2026-10-07", ""), "")
         self.assertEqual([fiscal_quarter(day) for day in columns], ["Q3 '26", "Q4 '26"])
+
+    def test_company_power_uses_quarter_ends(self):
+        self.assertEqual(quarter_end("Q2 2025"), "2025-06-30")
+        columns, grid = pivot_company([
+            {
+                "quarter": "Q4 2025",
+                "identified_energized_base_mw": "147.7",
+                "reported_active_mw": "170",
+                "connected_base_mw": "220.0",
+                "connected_tag": "target",
+                "contracted_company_mw": "2000.0",
+                "contracted_tag": "reported_floor",
+                "billing_base_mw": "85.7576",
+                "reported_active_over_connected": "0.7727",
+            }
+        ])
+        self.assertEqual(columns, ["2025-12-31"])
+        self.assertEqual(fiscal_quarter(columns[0]), "Q4 '25")
+        self.assertEqual(grid["Reported active MW"]["2025-12-31"], "170")
+        self.assertEqual(grid["Connected basis"]["2025-12-31"], "target")
+        self.assertEqual(grid["Reported active / connected"]["2025-12-31"], "77.27%")
 
 
 if __name__ == "__main__":

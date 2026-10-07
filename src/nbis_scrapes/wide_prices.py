@@ -147,6 +147,69 @@ def _order_names(names: list[str]) -> list[str]:
     return sorted(names, key=key)
 
 
+def quarter_end(label: str) -> str:
+    """Turn 'Q2 2025' into the quarter-end date Nebius reports against."""
+    quarter_text, year_text = label.split()
+    year = int(year_text)
+    month_day = {"Q1": "03-31", "Q2": "06-30", "Q3": "09-30", "Q4": "12-31"}[quarter_text]
+    return f"{year}-{month_day}"
+
+
+def _through(label: str, last: str = "Q4 2027") -> bool:
+    return quarter_end(label) <= quarter_end(last)
+
+
+def pivot_company(rows: list[dict]) -> tuple[list[str], dict[str, dict[str, str]]]:
+    kept = [row for row in rows if _through(row["quarter"])]
+    columns = [quarter_end(row["quarter"]) for row in kept]
+    series = {
+        "Identified energized MW": "identified_energized_base_mw",
+        "Reported active MW": "reported_active_mw",
+        "Connected MW": "connected_base_mw",
+        "Connected basis": "connected_tag",
+        "Contracted MW": "contracted_company_mw",
+        "Contracted basis": "contracted_tag",
+        "Billing MW": "billing_base_mw",
+        "Reported active / connected": "reported_active_over_connected",
+    }
+    grid: dict[str, dict[str, str]] = {name: {} for name in series}
+    for row in kept:
+        day = quarter_end(row["quarter"])
+        for name, field in series.items():
+            raw = row.get(field) or ""
+            if raw in ("", "n/d"):
+                continue
+            if name.endswith("basis"):
+                grid[name][day] = raw
+            elif name.endswith("connected") and field == "reported_active_over_connected":
+                grid[name][day] = _clean(float(raw) * 100) + "%"
+            else:
+                grid[name][day] = _clean(raw)
+    return columns, grid
+
+
+def pivot_sites(rows: list[dict], field: str) -> tuple[list[str], dict[str, dict[str, str]]]:
+    columns = []
+    seen = set()
+    table: dict[str, dict[str, str]] = {}
+    for row in rows:
+        if not _through(row["quarter"]):
+            continue
+        day = quarter_end(row["quarter"])
+        if day not in seen:
+            seen.add(day)
+            columns.append(day)
+        raw = row.get(field) or ""
+        if raw in ("", "n/d"):
+            continue
+        if _clean(raw) in ("", "0"):
+            continue
+        table.setdefault(row["site"], {})
+        table[row["site"]][day] = _clean(raw)
+    names = [name for name in table if any(table[name].values())]
+    return columns, {name: table[name] for name in names}
+
+
 def build_all(out_dir: Path | None = None) -> list[Path]:
     wide = out_dir or WIDE
     docs = list(csv.DictReader((OUT / "docs_gpu_prices.csv").open(encoding="utf-8")))
@@ -166,6 +229,9 @@ def build_all(out_dir: Path | None = None) -> list[Path]:
         ("gpu_page_scheduled_next.csv", "USD per GPU-hour", *pivot_page(page, "scheduled_next")),
         ("token_factory_input.csv", "USD per million input tokens", *pivot_tokens(tokens, "input_usd_per_million")),
         ("token_factory_output.csv", "USD per million output tokens", *pivot_tokens(tokens, "output_usd_per_million")),
+        ("power_company.csv", "MW, except the ratio", *pivot_company(list(csv.DictReader((OUT / "quarterly_company.csv").open(encoding="utf-8"))))),
+        ("power_sites_energized.csv", "Energized MW, estimated", *pivot_sites(list(csv.DictReader((OUT / "quarterly_sites.csv").open(encoding="utf-8"))), "energized_base_mw")),
+        ("power_sites_contracted.csv", "Contracted MW", *pivot_sites(list(csv.DictReader((OUT / "quarterly_sites.csv").open(encoding="utf-8"))), "contracted_mw")),
     ]
     for filename, header, columns, grid in specs:
         if not columns:

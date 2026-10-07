@@ -52,6 +52,8 @@ Across those dates, no model that stayed listed changed its input or output pric
 
 `python scripts/build_wide_prices.py` writes one CSV per series under `data/out/wide/`. The series names run down the rows. Each date is a column. The row above the dates is the fiscal quarter. Nebius reports on a calendar year, so every date from 1 Apr 2025 through 30 Jun 2025 is labeled `Q2 '25`.
 
+`power_company.csv` is the quarterly power exhibit from Q1 2024 through Q4 2027. `power_sites_energized.csv` and `power_sites_contracted.csv` are the same quarters, one campus per row. A blank cell means the campus is not in the books yet. History runs through Q2 2026. Later columns are the forward path.
+
 The rate-card files use the effective date of each published price. A price Nebius labels "before 1 Jun 2026" sits on 31 May 2026. A price labeled "from 1 Jun 2026" sits on 1 Jun 2026. Both are `Q2 '26`. The page files use the day that price was on the page. Token Factory input and output are separate files, with one row per model.
 
 ## Run

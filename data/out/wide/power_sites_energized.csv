@@ -1,0 +1,25 @@
+Fiscal quarter,Q1 '24,Q2 '24,Q3 '24,Q4 '24,Q1 '25,Q2 '25,Q3 '25,Q4 '25,Q1 '26,Q2 '26,Q3 '26,Q4 '26,Q1 '27,Q2 '27,Q3 '27,Q4 '27
+"Energized MW, estimated",2024-03-31,2024-06-30,2024-09-30,2024-12-31,2025-03-31,2025-06-30,2025-09-30,2025-12-31,2026-03-31,2026-06-30,2026-09-30,2026-12-31,2027-03-31,2027-06-30,2027-09-30,2027-12-31
+Vineland NJ (DataOne),,,,,,,,26.2,37.5,39,66,81.8,118.5,168.5,200,235
+Independence MO (Eastgate),,,,,,,,,,,,,,,50,125
+Butler Twp PA (Highridge),,,,,,,,,,,,,,,,65
+"Birmingham AL (BHM01, Oxmoor)",,,,,,,,,,,,,12.5,25,50,75
+"Bethune FR (Azur Datacenter, ex-Bridgestone)",,,,,,,,,,,,30,73.5,120,120,180
+Lappeenranta FI (Pajarila / Polarnode),,,,,,,,,,,,,,17.5,35,52.5
+Mantsala FI #1,25,25,25,25,25,25,37.5,62.5,75,75,75,75,75,75,75,75
+Mantsala FI #2 (Kapuli),,,,,,,,,,,,,,,,17.5
+Kansas City MO (Patmos),,,,,10,10,10,20,20,20,20,20,20,20,20,30
+Paris (Equinix PA10),,,,5,5,5,5,5,5,5,5,5,5,5,5,5
+Keflavik IS (Verne),,,,,10,10,10,10,10,10,10,10,10,10,10,10
+London Longcross (Ark LP01),,,,,,,,16,16,16,16,17.5,19,19,19,19
+Harlow UK (Kao Data KLON-02/03),,,,,,,,,,,,2.2,13.2,13.2,22,22
+Newport UK (Vantage CWL1),,,,,,,,,,,,5,15,22.5,29,31.5
+"UK 3rd new deployment (lead: Green Mountain LON-East, Romford)",,,,,,,,,,,,,,2.5,6,7
+Modi'in IL (Mega Or),,,,,,,,8,8,8,8,8,8,8,8,8
+Masmiyya IL (Mega DC),,,,,,,,,,,,5.5,11,16.5,22,22
+Beit Shemesh IL (Mega DC),,,,,,,,,,,,,10,29.5,48.5,58
+Madrid-Getafe ES (Merlin Edged),,,,,,,,,,,7.5,13.5,18,18,18,18
+Tallinn EE (Greenergy Huuru),,,,,,,,,,,,11,16.5,22,22,22
+"Minnesota colo (us-north1, Woodbury)",,,,,,,,,10,10,10,10,10,10,10,10
+Oklahoma colo (unnamed),,,,,,,,,,10,10,25,50,75,100,100
+"AIB CLT1 (Moore, Spartanburg County SC; Lockhart Power)",,,,,,,,,,,,,,,12.5,25
