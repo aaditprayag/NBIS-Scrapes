@@ -1,0 +1,21 @@
+region,first_sku_created,first_gpu_sku_created,skus,gpu_platforms,gpu_skus_with_a_price,gpu_skus_at_zero,first_vera_rubin_sku,on_docs_regions_page,place,place_basis
+eu-north1,2024-09-09,2024-09-24,1533,"gpu-gb300, gpu-h100-sxm, gpu-h200-sxm, gpu-l40s-d, gpu-vera-rubin, standard-v3-l40s",28,3,2026-08-20,yes,Finland,"docs.nebius.com regions page, via data/region_crosswalk.json"
+eu-west1,2024-11-13,2024-11-19,102,gpu-h200-sxm,8,0,none,yes,France,"docs.nebius.com regions page, via data/region_crosswalk.json"
+eu-north2,2025-02-17,2025-02-18,80,"gpu-b300-sxm, gpu-h200-sxm",8,8,none,yes,Iceland,"docs.nebius.com regions page, via data/region_crosswalk.json"
+us-central1,2025-03-18,2025-03-24,119,"gpu-b200-sxm, gpu-h200-sxm, gpu-rtx6000",18,0,none,yes,"Kansas City, Missouri","docs.nebius.com regions page, via data/region_crosswalk.json"
+us-east1,2025-09-16,2025-09-16,16,"gpu-gb200, gpu-gb300",0,2,none,no,"Vineland, New Jersey (DataOne)","inferred: Its GPU SKUs are bare-metal GB200 and GB300 servers, first made 16 Sep 2025. There is no GPU VM SKU. That fits the Microsoft build-to-suit, which is not a public region."
+me-west1,2025-10-03,2025-10-16,80,gpu-b200-sxm,8,0,none,yes,Israel,"docs.nebius.com regions page, via data/region_crosswalk.json"
+uk-south1,2025-10-14,2025-10-29,71,gpu-b300-sxm,2,0,none,yes,United Kingdom,"docs.nebius.com regions page, via data/region_crosswalk.json"
+eu-west2,2026-03-27,2026-03-27,69,gpu-b300-sxm,2,0,none,yes,France,"docs.nebius.com regions page, via data/region_crosswalk.json"
+eu-south1,2026-05-28,2026-05-28,70,"gpu-b300-sxm, gpu-rtx6000",4,0,none,yes,"Madrid, Spain","docs.nebius.com regions page, via data/region_crosswalk.json"
+eu-west3,2026-05-28,2026-05-28,31,gpu-gb300,0,2,none,no,"Béthune, France (Azur Datacenter)","inferred: By elimination. The changelog names eu-west2 as Paris, and Nebius network records and job ads put eu-west2 in a separate Paris building."
+uk-south2,2026-05-28,2026-05-28,70,"gpu-b300-sxm, gpu-rtx6000",4,0,none,yes,United Kingdom,"docs.nebius.com regions page, via data/region_crosswalk.json"
+us-north1,2026-05-28,2026-05-28,68,gpu-b300-sxm,2,0,none,yes,"Woodbury, Minnesota","docs.nebius.com regions page, via data/region_crosswalk.json"
+us-south1,2026-05-28,2026-05-28,28,gpu-gb300,0,1,none,no,"Oklahoma City, Oklahoma",inferred: GB300 from 28 May 2026. Nebius's Independence fact sheet lists Oklahoma City as a US location. No source names the region.
+me-west2,2026-06-12,2026-06-12,25,gpu-b300-sxm,0,2,none,no,"Masmiyya, Israel (Mega DC MDCIL-2)","inferred: me-west1 is Israel on the docs page. Nebius posted Masmiyya data-center roles from 5 Mar 2026, and the region's SKUs start on 12 Jun 2026."
+eu-north3,2026-09-16,2026-09-16,2,gpu-vera-rubin,0,2,2026-09-16,no,"Mäntsälä, Finland","inferred: Only Vera Rubin SKUs, first made 16 Sep 2026. The first Vera Rubin NVL72 rack went live at Mäntsälä on 23 Jul 2026. Nebius has not named the region."
+in-south1,2026-09-16,2026-09-16,2,gpu-vera-rubin,0,2,2026-09-16,no,India,"region name: Vera Rubin SKUs at a price of zero from 16 Sep 2026. Nebius is planning an AI data center in Hyderabad, Telangana. The host and the building are not public."
+me-west3,2026-09-16,2026-09-16,4,"gpu-gb300, gpu-vera-rubin",0,3,2026-09-16,no,"Beit Shemesh, Israel (Mega DC MDCIL-4)",inferred: Vera Rubin SKUs from 16 Sep 2026 and a GB300 SKU from 24 Sep 2026 suit the large new build. Nebius posted Beit Shemesh roles from 4 Mar 2026. Nebius has not named the region.
+us-central2,2026-09-22,2026-09-22,15,gpu-vera-rubin,0,2,2026-09-22,no,"Independence, Missouri","inferred: Vera Rubin SKUs from 22 Sep 2026, next to us-central1 in Kansas City. Independence Power & Light is due to deliver the first 200 MW in late Q3 2026."
+us-south2,2026-09-22,2026-09-22,1,gpu-vera-rubin,0,1,2026-09-22,no,"Birmingham, Alabama",inferred: One bare-metal Vera Rubin SKU from 22 Sep 2026. Birmingham is the owned site in the South. Nebius said on its Q1 2026 call that Alabama kicks in in Q1 2027.
+eu-north4,2026-09-24,2026-09-24,15,gpu-b300-sxm,0,1,none,no,"Hüüru, Estonia (Greenergy)","inferred: First B300 and storage SKUs on 24 Sep 2026. Estonia is the only new northern European co-location with Nebius data-center roles (Tallinn, from 13 Jul 2026), and the Greenergy hall's first 22 MW phase is due before the end of 2026."

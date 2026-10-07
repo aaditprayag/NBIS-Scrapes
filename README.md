@@ -84,6 +84,12 @@ Lappeenranta has no other listed facility inside 60 km. Kansas City’s nearest 
 
 A third-party price never sets a Nebius price. It is checked against the rate card for that day, or the page archive before the card. A match to the cent counts that day as a day the price was seen. A miss stays in the file and is marked. gpuhunt has a Nebius file on 608 days from 8 Nov 2023, and its H100, H200, and B200 prices step on 1 Jun 2026 and 1 Oct 2026, the same days as the card. The matches give 524 days, and 489 of them have no Nebius capture in this repo. They are in `data/out/third_party_corroborated_days.csv`. The write-up is `docs/third-party-gpu-prices.md`.
 
+## Console billing catalogue
+
+The console's billing pages list every SKU in every region, with the date each price took effect and the date each SKU was made. They need a login, so this repo keeps the reader and one saved copy, not a scraper. `data/out/console_catalog_2026-10-06.csv` is 2,401 SKUs in 20 regions. `data/out/console_regions.csv` is the first SKU date per region.
+
+Ten regions are on `docs.nebius.com/overview/regions` and keep the place in `data/region_crosswalk.json`. The other ten are not on the docs page yet. Vera Rubin SKUs sit at a price of zero in six regions, starting with `eu-north1` on 20 Aug 2026 and then `eu-north3`, `in-south1`, `me-west3`, `us-central2`, and `us-south2` in September. The places for the new regions are inferences, in `data/console_region_inferences.json`. How to save the pages from a logged-in browser, with no token stored, is in `docs/console-catalog.md`.
+
 ## Run
 
 ```
@@ -94,6 +100,7 @@ python scripts/fetch_docs_prices.py
 python scripts/fetch_token_factory_prices.py
 python scripts/build_wide_prices.py
 python scripts/fetch_third_party_prices.py
+python scripts/build_console_catalog.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.
