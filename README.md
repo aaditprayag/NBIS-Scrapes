@@ -39,6 +39,15 @@ What actually refreshes:
 4. OpenRouter's Nebius provider page — how many models Token Factory is serving. That is the short inference book, not Vineland.
 5. Vast.ai `GET /api/v0/metrics/gpu/current/` — market supply, demand, and percentile price, about every five minutes. Needs a Vast **host** key in `VAST_API_KEY`. Client keys are rejected.
 
+## Token Factory
+
+The price source is `https://tokenfactory.nebius.com/api/public/models_info`. The catalog page says that JSON is the machine-readable list. Archived copies of that endpoint run from 19 Jul 2026 through 15 Sep 2026, plus a live pull. `python scripts/fetch_token_factory_prices.py` writes two CSVs:
+
+- `data/out/token_factory_prices.csv` — one row per model per date, USD per million tokens.
+- `data/out/token_factory_price_changes.csv` — only when an input or output price moves.
+
+Across those dates, no model that stayed listed changed its input or output price. The catalog did change: nine model IDs from 19 Jul were gone by 7 Oct, and eight new ones were added. Prices for the ones that remained, including Qwen3-235B at $0.20 / $0.60 and GLM-5.1 at $1.40 / $4.40, are the same on every capture.
+
 ## Run
 
 ```
@@ -46,6 +55,7 @@ $env:PYTHONPATH = "src"
 python -m unittest discover -s tests
 python -m nbis_scrapes all
 python scripts/fetch_docs_prices.py
+python scripts/fetch_token_factory_prices.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.

@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Qwen3-32B",
+    "vendor": "Qwen",
+    "type": "text2text",
+    "flavors": [
+      {
+        "model_id": "Qwen/Qwen3-32B",
+        "model_name": "Qwen3-32B",
+        "model_type": "text2text",
+        "regions": [{"name": "eu-north1"}],
+        "quantization": "fp8",
+        "label": "cheap",
+        "input_price_per_million_tokens": 0.15,
+        "output_price_per_million_tokens": 0.45
+      }
+    ]
+  }
+]
