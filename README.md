@@ -78,6 +78,12 @@ The power tape is `data/out/wide/power_cost.csv`. Finland, France, the UK, Spain
 
 Lappeenranta has no other listed facility inside 60 km. Kansas City’s nearest listed building is the Patmos hall itself, 0.6 km from the city pin. Keflavík’s neighbor is Nscale, about 1.7 km away, with an Epoch estimate of 5 MW. AWS Berwick is 37 km from the Butler Township site, with an Epoch estimate of 108 MW.
 
+## Third-party GPU prices
+
+`python scripts/fetch_third_party_prices.py` reads Nebius GPU prices that other people published: dstack's gpuhunt catalog, SkyPilot's Nebius catalog in git, and 31 GitHub trackers and price sites. Rows are in `data/out/third_party_gpu_prices.csv`. Wide files are `data/out/wide/third_party_gpuhunt.csv`, `third_party_skypilot.csv`, and `third_party_trackers.csv`.
+
+A third-party price never sets a Nebius price. It is checked against the rate card for that day, or the page archive before the card. A match to the cent counts that day as a day the price was seen. A miss stays in the file and is marked. gpuhunt has a Nebius file on 608 days from 8 Nov 2023, and its H100, H200, and B200 prices step on 1 Jun 2026 and 1 Oct 2026, the same days as the card. The matches give 524 days, and 489 of them have no Nebius capture in this repo. They are in `data/out/third_party_corroborated_days.csv`. The write-up is `docs/third-party-gpu-prices.md`.
+
 ## Run
 
 ```
@@ -87,6 +93,7 @@ python -m nbis_scrapes all
 python scripts/fetch_docs_prices.py
 python scripts/fetch_token_factory_prices.py
 python scripts/build_wide_prices.py
+python scripts/fetch_third_party_prices.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.

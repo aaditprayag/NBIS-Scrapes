@@ -1,0 +1,8 @@
+instance_name,location,price,cpu,memory,gpu_count,gpu_name,gpu_memory,spot,disk_size,gpu_vendor,flags,cpu_arch,provider_data
+cpu-d3 2vcpu-8gb,eu-north1,0.066,2,8,0,,,False,,,,x86,"{""fabrics"": [], ""is_preemptible_flat_rate"": false}"
+gpu-h100-sxm 1gpu-16vcpu-200gb,eu-north1,2.15,16,200,1,H100,80.0,True,,nvidia,,x86,"{""fabrics"": [], ""is_preemptible_flat_rate"": false}"
+gpu-h100-sxm 1gpu-16vcpu-200gb,eu-north1,4.5,16,200,1,H100,80.0,False,,nvidia,,x86,"{""fabrics"": [], ""is_preemptible_flat_rate"": false}"
+gpu-h100-sxm 8gpu-128vcpu-1600gb,eu-north1,17.2,128,1600,8,H100,80.0,True,,nvidia,,x86,"{""fabrics"": [""fabric-2"", ""fabric-3"", ""fabric-4"", ""fabric-6""], ""is_preemptible_flat_rate"": false}"
+gpu-h100-sxm 8gpu-128vcpu-1600gb,eu-north1,36.0,128,1600,8,H100,80.0,False,,nvidia,,x86,"{""fabrics"": [""fabric-2"", ""fabric-3"", ""fabric-4"", ""fabric-6""], ""is_preemptible_flat_rate"": false}"
+gpu-l40s-a 1gpu-8vcpu-32gb,eu-north1,0.7492,8,32,1,L40S,48.0,True,,nvidia,,x86,"{""fabrics"": [], ""is_preemptible_flat_rate"": true}"
+gpu-l40s-a 1gpu-8vcpu-32gb,eu-north1,1.5484,8,32,1,L40S,48.0,False,,nvidia,,x86,"{""fabrics"": [], ""is_preemptible_flat_rate"": false}"
