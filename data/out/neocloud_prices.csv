@@ -1,220 +1,1052 @@
-company,sku,captured_on,usd_per_gpu_hour,basis
-Nebius,H100,2024-11-15,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-11-18,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-11-22,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-12-06,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-12-12,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-12-18,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2024-12-24,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-01-15,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-01-21,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-01-23,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-03-05,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-03-11,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-03-22,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-04-01,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-04-27,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-04-28,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-05-23,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-06-29,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-07-25,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-08-26,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-09-17,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-10-20,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-11-21,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2025-12-27,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-02-20,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-02-22,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-03-01,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-03-04,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-04-02,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-05-07,2.95,on-demand column of nebius.com/prices
-Nebius,H100,2026-07-12,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-07-29,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-08-19,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-08-22,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-08-31,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-01,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-02,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-07,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-09,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-15,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-21,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-23,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-09-26,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-10-01,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-10-03,3.85,on-demand column of nebius.com/prices
-Nebius,H100,2026-10-06,3.85,on-demand column of nebius.com/prices
-Nebius,H200,2024-11-15,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-11-18,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-11-22,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-12-06,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-12-12,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-12-18,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2024-12-24,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-01-15,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-01-21,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-01-23,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-03-05,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-03-11,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-03-22,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-04-01,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-04-27,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-04-28,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-05-23,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-06-29,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-07-25,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-08-26,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-09-17,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-10-20,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-11-21,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2025-12-27,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-02-20,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-02-22,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-03-01,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-03-04,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-04-02,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-05-07,3.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-07-12,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-07-29,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-08-19,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-08-22,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-08-31,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-01,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-02,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-07,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-09,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-15,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-21,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-23,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-09-26,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-10-01,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-10-03,4.5,on-demand column of nebius.com/prices
-Nebius,H200,2026-10-06,4.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-07-25,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-08-26,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-09-17,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-10-20,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-11-21,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2025-12-27,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-02-20,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-02-22,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-03-01,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-03-04,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-04-02,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-05-07,5.5,on-demand column of nebius.com/prices
-Nebius,B200,2026-07-12,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-07-29,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-08-19,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-08-22,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-08-31,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-01,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-02,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-07,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-09,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-15,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-21,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-23,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-09-26,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-10-01,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-10-03,7.15,on-demand column of nebius.com/prices
-Nebius,B200,2026-10-06,7.15,on-demand column of nebius.com/prices
-Nebius,B300,2026-04-02,6.1,on-demand column of nebius.com/prices
-Nebius,B300,2026-05-07,6.1,on-demand column of nebius.com/prices
-Nebius,B300,2026-07-12,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-07-29,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-08-19,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-08-22,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-08-31,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-01,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-02,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-07,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-09,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-15,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-21,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-23,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-09-26,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-10-01,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-10-03,7.85,on-demand column of nebius.com/prices
-Nebius,B300,2026-10-06,7.85,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-07-12,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-07-29,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-08-19,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-08-22,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-08-31,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-01,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-02,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-07,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-09,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-15,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-21,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-23,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-09-26,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-10-01,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-10-03,1.8,on-demand column of nebius.com/prices
-Nebius,RTX PRO 6000,2026-10-06,1.8,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2025-08-26,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2025-09-17,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2025-10-20,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2025-11-21,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2025-12-27,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-02-20,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-02-22,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-03-01,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-03-04,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-04-02,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-05-07,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-07-12,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-07-29,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-08-19,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-08-22,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-08-31,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-01,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-02,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-07,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-09,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-15,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-21,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-23,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-09-26,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-10-01,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-10-03,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-Intel,2026-10-06,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2025-08-26,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2025-09-17,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2025-10-20,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2025-11-21,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2025-12-27,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-02-20,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-02-22,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-03-01,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-03-04,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-04-02,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-05-07,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-07-12,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-07-29,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-08-19,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-08-22,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-08-31,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-01,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-02,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-07,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-09,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-15,1.55,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-21,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-23,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-09-26,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-10-01,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-10-03,1.82,on-demand column of nebius.com/prices
-Nebius,L40S-AMD,2026-10-06,1.82,on-demand column of nebius.com/prices
-Crusoe,H200,2026-10-07,4.29,published per GPU-hour
-Crusoe,H100,2026-10-07,3.9,published per GPU-hour
-Crusoe,A100,2026-10-07,2.3,published per GPU-hour
-Crusoe,L40S,2026-10-07,1.5,published per GPU-hour
-Lambda,B200,2026-10-07,6.69,first on-demand price in the instances section
-Lambda,H100,2026-10-07,3.99,first on-demand price in the instances section
-CoreWeave,GB200,2026-10-07,10.5,on-demand node price 42.0 divided by 4 GPUs
-CoreWeave,B200,2026-10-07,8.6,on-demand node price 68.8 divided by 8 GPUs
-CoreWeave,GH200,2026-10-07,6.5,on-demand node price 6.5 divided by 1 GPUs
-CoreWeave,H100,2026-10-07,6.155,on-demand node price 49.24 divided by 8 GPUs
-CoreWeave,H200,2026-10-07,6.305,on-demand node price 50.44 divided by 8 GPUs
+company,sku,captured_on,usd_per_gpu_hour,basis,source_url
+CoreWeave,A100 (node),2025-05-11,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-06-09,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-07-18,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-08-07,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-09-03,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-10-03,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-11-01,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2025-12-16,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-01-06,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-02-25,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-03-13,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-04-15,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-05-10,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-06-05,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-07-11,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-08-03,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-09-04,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-10-01,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 (node),2026-10-03,2.7,"21.6 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-01-01,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-01-21,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-02-09,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-03-05,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-03-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-04-16,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-04-18,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-05-11,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-05-14,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-06-09,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-06-23,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-07-18,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-08-07,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-09-03,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-09-06,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2025-10-03,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-11-01,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB PCIe,2025-12-20,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2026-01-15,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2026-02-16,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2026-05-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2026-08-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB PCIe,2026-09-23,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-01-01,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-01-21,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-02-09,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-03-05,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-03-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-04-16,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-04-18,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-05-11,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-05-14,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-06-09,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-06-23,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-07-18,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-08-07,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-09-03,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-09-06,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2025-10-03,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-11-01,2.06,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 40GB SXM,2025-12-20,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2026-01-15,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2026-02-16,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2026-05-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2026-08-12,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 40GB SXM,2026-09-23,2.06,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-01-01,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-01-21,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-02-09,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-03-05,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-03-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-04-16,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-04-18,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-05-11,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-05-14,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-06-09,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-06-23,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-07-18,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-08-07,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-09-03,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-09-06,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2025-10-03,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-11-01,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB PCIe,2025-12-20,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2026-01-15,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2026-02-16,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2026-05-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2026-08-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB PCIe,2026-09-23,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-01-01,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-01-21,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-02-09,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-03-05,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-03-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-04-16,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-04-18,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-05-11,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-05-14,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-06-09,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-06-23,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-07-18,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-08-07,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-09-03,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-09-06,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2025-10-03,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-11-01,2.21,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,A100 80GB SXM,2025-12-20,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2026-01-15,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2026-02-16,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2026-05-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2026-08-12,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,A100 80GB SXM,2026-09-23,2.21,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,B200 (node),2025-06-09,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-07-18,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-08-07,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-09-03,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-10-03,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-11-01,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2025-12-16,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-01-06,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-02-25,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-03-13,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-04-15,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-05-10,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-06-05,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-07-11,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-08-03,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-09-04,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-10-01,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,B200 (node),2026-10-03,8.6,"68.8 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-02-09,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-03-05,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-04-16,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-05-11,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-06-09,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-07-18,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-08-07,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-09-03,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-10-03,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-11-01,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2025-12-16,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-01-06,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-02-25,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-03-13,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-04-15,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-05-10,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-06-05,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-07-11,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-08-03,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-09-04,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-10-01,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GB200 (node),2026-10-03,10.5,"42.0 for 4 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-01-01,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-02-09,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-03-05,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-04-16,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-05-11,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-06-09,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-07-18,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-08-07,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-09-03,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-10-03,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-11-01,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2025-12-16,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-01-06,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-02-25,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-03-13,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-04-15,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-05-10,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-06-05,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-07-11,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-08-03,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-09-04,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-10-01,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,GH200,2026-10-03,6.5,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-01-01,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-01-21,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-02-09,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-03-05,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-03-12,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-04-16,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-04-18,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-05-11,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-05-14,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-06-09,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-06-23,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-07-18,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-08-07,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-09-03,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-09-06,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2025-10-03,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-11-01,4.25,on-demand per GPU,https://www.coreweave.com/pricing
+CoreWeave,H100 PCIe,2025-12-20,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2026-01-15,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2026-02-16,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2026-05-12,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2026-08-12,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 PCIe,2026-09-23,4.25,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-01-21,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-03-12,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-04-18,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-05-14,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-06-23,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-08-07,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-09-06,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2025-12-20,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2026-01-15,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2026-02-16,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2026-05-12,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2026-08-12,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM,2026-09-23,4.76,on-demand per GPU,https://www.coreweave.com/pricing/classic
+CoreWeave,H100 SXM (node),2025-01-01,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-02-09,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-03-05,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-04-16,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-05-11,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-06-09,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-07-18,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-09-03,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-10-03,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-11-01,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2025-12-16,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-01-06,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-02-25,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-03-13,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-04-15,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-05-10,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-06-05,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-07-11,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-08-03,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-09-04,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-10-01,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H100 SXM (node),2026-10-03,6.155,"49.24 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-01-01,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-02-09,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-03-05,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-04-16,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-05-11,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-06-09,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-07-18,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-08-07,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-09-03,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-10-03,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-11-01,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2025-12-16,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-01-06,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-02-25,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-03-13,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-04-15,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-05-10,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-06-05,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-07-11,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-08-03,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-09-04,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-10-01,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,H200 (node),2026-10-03,6.305,"50.44 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-01-01,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-02-09,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-03-05,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-04-16,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-05-11,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-06-09,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-07-18,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-08-07,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-09-03,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-10-03,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-11-01,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2025-12-16,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-01-06,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-02-25,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-03-13,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-04-15,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-05-10,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-06-05,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-07-11,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-08-03,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-09-04,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-10-01,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40 (node),2026-10-03,1.25,"10.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-01-01,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-02-09,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-03-05,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-04-16,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-05-11,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-06-09,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-07-18,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-08-07,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-09-03,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-10-03,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-11-01,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2025-12-16,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-01-06,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-02-25,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-03-13,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-04-15,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-05-10,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-06-05,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-07-11,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-08-03,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-09-04,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-10-01,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,L40S (node),2026-10-03,2.25,"18.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-07-18,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-08-07,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-09-03,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-10-03,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-11-01,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2025-12-16,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-01-06,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-02-25,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-03-13,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-04-15,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-05-10,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-06-05,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-07-11,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-08-03,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-09-04,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-10-01,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+CoreWeave,RTX PRO 6000 (node),2026-10-03,2.5,"20.0 for 8 GPUs, divided",https://www.coreweave.com/pricing
+Crusoe,A100 40GB PCIe,2024-05-18,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2024-10-05,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-04-03,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-05-21,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-06-11,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-09-29,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-10-04,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2025-12-15,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2026-01-01,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 40GB PCIe,2026-02-25,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2024-05-18,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2024-10-05,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-04-03,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-05-21,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-06-11,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-09-29,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-10-04,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2025-12-15,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-01-01,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-02-25,1.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-06-11,2.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-07-12,2.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-08-03,2.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-09-15,2.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB PCIe,2026-10-03,2.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2024-05-18,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2024-10-05,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-04-03,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-05-21,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-06-11,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-09-29,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-10-04,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2025-12-15,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-01-01,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-02-25,1.95,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-06-11,2.3,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-07-12,2.3,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-08-03,2.3,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-09-15,2.3,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A100 80GB SXM,2026-10-03,2.3,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB,2024-05-18,1.1,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB,2024-10-05,1.1,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB,2025-12-15,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB,2026-01-01,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB,2026-02-25,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB PCIe,2025-04-03,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB PCIe,2025-05-21,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB PCIe,2025-06-11,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB PCIe,2025-09-29,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,A40 48GB PCIe,2025-10-04,0.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,B200,2026-10-03,9.65,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-04-03,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-05-21,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-06-11,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-09-29,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-10-04,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2025-12-15,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-01-01,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-02-25,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-06-11,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-07-12,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-08-03,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-09-15,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H100 80GB SXM,2026-10-03,3.9,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-04-03,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-05-21,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-06-11,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-09-29,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-10-04,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2025-12-15,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-01-01,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-02-25,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-06-11,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-07-12,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-08-03,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-09-15,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,H200,2026-10-03,4.29,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2024-05-18,1.45,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2024-10-05,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-04-03,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-05-21,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-06-11,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-09-29,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-10-04,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2025-12-15,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-01-01,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-02-25,1.0,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-06-11,1.5,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-07-12,1.5,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-08-03,1.5,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-09-15,1.5,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Crusoe,L40S,2026-10-03,1.5,on-demand per GPU,https://www.crusoe.ai/cloud/pricing
+Lambda,A10,2023-01-02,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-02-07,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-03-15,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-04-08,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-05-12,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-06-03,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-07-03,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-09-09,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-10-02,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-11-02,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2023-12-03,0.6,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-01-03,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-02-26,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-03-04,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-04-01,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-05-13,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-07-11,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-08-15,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-09-01,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-10-07,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-11-03,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2024-12-04,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2025-01-01,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2025-02-05,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2025-03-16,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2025-03-23,0.75,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A10,2025-06-04,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-07-12,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-08-12,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-09-11,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-10-10,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-11-05,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2025-12-05,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-01-09,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-02-03,0.75,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-03-10,0.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-04-01,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-05-16,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-06-09,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-07-06,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-08-01,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-09-01,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-10-01,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A10,2026-10-04,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB,2022-07-01,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2022-08-17,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2022-09-07,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2022-10-05,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2022-11-10,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2022-12-03,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-01-02,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-02-07,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-03-15,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-04-08,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-05-12,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-06-03,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-07-03,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-09-09,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-10-02,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB,2023-11-02,1.1,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2024-08-15,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2024-09-01,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2024-10-07,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2024-11-03,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2024-12-04,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2025-01-01,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2025-02-05,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2025-03-16,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2025-03-23,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe,2025-06-04,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-07-12,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-08-12,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-09-11,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-10-10,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-11-05,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2025-12-05,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-01-09,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-02-03,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-03-10,1.48,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-04-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-05-16,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-06-09,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-07-06,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-08-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-09-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-10-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe,2026-10-04,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB PCIe (node),2023-12-03,1.1,"4.4 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-01-03,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-02-26,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-03-04,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-04-01,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-05-13,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB PCIe (node),2024-07-11,1.29,"5.16 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2024-08-15,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2024-09-01,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2024-10-07,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2024-11-03,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2024-12-04,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2025-01-01,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2025-02-05,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2025-03-16,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2025-03-23,1.29,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM,2025-06-04,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-07-12,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-08-12,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-09-11,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-10-10,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-11-05,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2025-12-05,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-01-09,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-02-03,1.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-03-10,1.48,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-04-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-05-16,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-06-09,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-07-06,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-08-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-09-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-10-01,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM,2026-10-04,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 40GB SXM (node),2023-12-03,1.1,"8.8 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-01-03,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-02-26,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-03-04,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-04-01,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-05-13,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 40GB SXM (node),2024-07-11,1.29,"10.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-07-01,1.25,"10.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-08-17,1.25,"10.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-09-07,1.25,"10.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-10-05,1.43,"11.44 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-11-10,1.4287,"11.43 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2022-12-03,1.4287,"11.43 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-01-02,1.4287,"11.43 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-02-07,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-03-15,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-04-08,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-05-12,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-06-03,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-07-03,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-09-09,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-10-02,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB (node),2023-11-02,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2024-08-15,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2024-09-01,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2024-10-07,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2024-11-03,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2024-12-04,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2025-01-01,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2025-02-05,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2025-03-16,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2025-03-23,1.79,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM,2025-06-04,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-07-12,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-08-12,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-09-11,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-10-10,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-11-05,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2025-12-05,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-01-09,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-02-03,1.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-03-10,2.06,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-04-01,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-05-16,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-06-09,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-07-06,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-08-01,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-09-01,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-10-01,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM,2026-10-04,2.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A100 80GB SXM (node),2023-12-03,1.5,"12.0 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-01-03,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-02-26,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-03-04,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-04-01,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-05-13,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A100 80GB SXM (node),2024-07-11,1.79,"14.32 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2024-08-15,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2024-09-01,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2024-10-07,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2024-11-03,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2024-12-04,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2025-01-01,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2025-02-05,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2025-03-16,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2025-03-23,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB,2025-06-04,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-07-12,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-08-12,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-09-11,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-10-10,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-11-05,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2025-12-05,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-01-09,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-02-03,0.8,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-03-10,0.92,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-04-01,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-05-16,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-06-09,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-07-06,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-08-01,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-09-01,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-10-01,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB,2026-10-04,1.09,on-demand per GPU,https://lambda.ai/pricing
+Lambda,A6000 48GB (node),2023-12-03,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-01-03,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-02-26,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-03-04,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-04-01,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-05-13,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,A6000 48GB (node),2024-07-11,0.8,"3.2 for 4 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,B200,2025-06-04,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-07-12,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-08-12,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-09-11,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-10-10,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-11-05,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2025-12-05,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-01-09,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-02-03,3.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-03-10,4.62,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-04-01,4.62,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-05-16,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-06-09,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-07-06,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-08-01,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-09-01,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-10-01,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,B200,2026-10-04,9.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2023-12-03,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-01-03,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-02-26,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-03-04,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-04-01,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-05-13,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-07-11,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-08-15,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-09-01,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-10-07,5.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2024-12-04,3.19,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2025-01-01,1.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2025-02-05,1.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2025-03-16,1.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2025-03-23,1.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,GH200,2025-06-04,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-07-12,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-08-12,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-09-11,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-10-10,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-11-05,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2025-12-05,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-01-09,1.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-02-03,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-03-10,1.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-04-01,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-05-16,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-06-09,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-07-06,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-08-01,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-09-01,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-10-01,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,GH200,2026-10-04,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2023-12-03,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-01-03,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-02-26,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-03-04,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-04-01,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-05-13,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-07-11,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-08-15,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-09-01,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2024-10-07,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100,2025-12-05,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-01-09,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-02-03,2.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-03-10,2.76,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-04-01,2.76,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-05-16,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-06-09,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-07-06,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-08-01,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-09-01,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-10-01,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100,2026-10-04,6.16,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2023-05-12,2.4,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-06-03,2.4,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-07-03,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-09-09,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-10-02,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-11-02,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2023-12-03,1.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-01-03,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-02-26,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-03-04,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-04-01,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-05-13,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-07-11,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-08-15,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-09-01,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-10-07,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-11-03,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2024-12-04,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2025-01-01,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2025-02-05,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2025-03-16,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2025-03-23,2.49,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB PCIe,2025-06-04,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-07-12,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-08-12,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-09-11,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-10-10,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-11-05,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2025-12-05,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-01-09,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-02-03,2.49,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-03-10,2.86,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-04-01,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-05-16,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-06-09,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-07-06,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-08-01,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-09-01,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-10-01,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB PCIe,2026-10-04,3.29,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2023-06-03,2.23,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2023-07-03,1.89,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2024-08-15,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2024-09-01,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2024-10-07,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2024-11-03,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2024-12-04,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2025-01-01,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2025-02-05,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2025-03-16,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2025-03-23,2.99,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM,2025-06-04,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-07-12,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-08-12,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-09-11,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-10-10,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-11-05,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2025-12-05,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-01-09,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-02-03,2.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-03-10,3.44,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-04-01,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-05-16,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-06-09,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-07-06,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-08-01,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-09-01,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-10-01,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM,2026-10-04,3.99,on-demand per GPU,https://lambda.ai/pricing
+Lambda,H100 80GB SXM (node),2023-09-09,2.59,"20.72 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2023-10-02,2.59,"20.72 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2023-11-02,2.59,"20.72 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2023-12-03,2.59,"20.72 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-01-03,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-02-26,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-03-04,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-04-01,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-05-13,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 80GB SXM (node),2024-07-11,3.49,"27.92 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 SXM,2023-09-09,2.59,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 SXM,2023-10-02,2.59,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,H100 SXM,2023-11-02,2.59,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-07-01,1.0,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-08-17,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-09-07,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-10-05,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-11-10,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2022-12-03,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-01-02,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-02-07,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-03-15,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-04-08,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-05-12,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-06-03,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-07-03,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-09-09,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-10-02,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,RTX A6000,2023-11-02,0.8,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2024-08-15,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2024-09-01,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2024-10-07,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2024-11-03,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2024-12-04,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2025-01-01,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2025-02-05,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2025-03-16,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2025-03-23,0.55,on-demand per GPU,https://lambdalabs.com/service/gpu-cloud
+Lambda,V100,2025-06-04,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-07-12,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-08-12,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-09-11,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-10-10,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-11-05,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2025-12-05,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-01-09,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-02-03,0.55,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-03-10,0.63,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-04-01,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-05-16,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-06-09,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-07-06,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-08-01,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-09-01,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-10-01,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100,2026-10-04,0.79,on-demand per GPU,https://lambda.ai/pricing
+Lambda,V100 (node),2022-07-01,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2022-08-17,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2022-09-07,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2022-10-05,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2022-11-10,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2022-12-03,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-01-02,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-02-07,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-03-15,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-04-08,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-05-12,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-06-03,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-07-03,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-09-09,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-10-02,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-11-02,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2023-12-03,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-01-03,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-02-26,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-03-04,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-04-01,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-05-13,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Lambda,V100 (node),2024-07-11,0.55,"4.4 for 8 GPUs, divided",https://lambdalabs.com/service/gpu-cloud
+Nebius,B200,2025-07-25,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2025-08-26,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2025-09-17,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2025-10-20,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2025-11-21,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2025-12-27,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-02-20,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-02-22,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-03-01,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-03-04,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-04-02,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-05-07,5.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-07-12,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-07-29,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-08-19,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-08-22,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-08-31,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-01,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-02,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-07,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-09,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-15,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-21,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-23,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-09-26,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-10-01,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-10-03,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B200,2026-10-06,7.15,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-04-02,6.1,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-05-07,6.1,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-07-12,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-07-29,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-08-19,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-08-22,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-08-31,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-01,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-02,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-07,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-09,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-15,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-21,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-23,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-09-26,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-10-01,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-10-03,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,B300,2026-10-06,7.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-11-15,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-11-18,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-11-22,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-12-06,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-12-12,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-12-18,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2024-12-24,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-01-15,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-01-21,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-01-23,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-03-05,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-03-11,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-03-22,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-04-01,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-04-27,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-04-28,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-05-23,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-06-29,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-07-25,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-08-26,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-09-17,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-10-20,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-11-21,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2025-12-27,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-02-20,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-02-22,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-03-01,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-03-04,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-04-02,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-05-07,2.95,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-07-12,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-07-29,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-08-19,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-08-22,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-08-31,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-01,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-02,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-07,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-09,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-15,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-21,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-23,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-09-26,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-10-01,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-10-03,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H100,2026-10-06,3.85,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-11-15,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-11-18,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-11-22,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-12-06,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-12-12,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-12-18,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2024-12-24,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-01-15,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-01-21,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-01-23,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-03-05,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-03-11,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-03-22,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-04-01,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-04-27,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-04-28,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-05-23,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-06-29,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-07-25,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-08-26,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-09-17,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-10-20,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-11-21,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2025-12-27,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-02-20,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-02-22,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-03-01,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-03-04,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-04-02,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-05-07,3.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-07-12,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-07-29,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-08-19,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-08-22,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-08-31,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-01,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-02,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-07,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-09,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-15,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-21,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-23,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-09-26,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-10-01,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-10-03,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,H200,2026-10-06,4.5,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2025-08-26,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2025-09-17,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2025-10-20,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2025-11-21,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2025-12-27,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-02-20,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-02-22,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-03-01,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-03-04,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-04-02,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-05-07,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-07-12,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-07-29,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-08-19,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-08-22,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-08-31,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-01,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-02,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-07,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-09,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-15,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-21,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-23,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-09-26,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-10-01,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-10-03,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-AMD,2026-10-06,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2025-08-26,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2025-09-17,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2025-10-20,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2025-11-21,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2025-12-27,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-02-20,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-02-22,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-03-01,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-03-04,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-04-02,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-05-07,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-07-12,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-07-29,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-08-19,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-08-22,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-08-31,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-01,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-02,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-07,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-09,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-15,1.82,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-21,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-23,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-09-26,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-10-01,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-10-03,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,L40S-Intel,2026-10-06,1.55,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-07-12,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-07-29,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-08-19,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-08-22,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-08-31,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-01,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-02,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-07,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-09,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-15,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-21,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-23,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-09-26,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-10-01,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-10-03,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices
+Nebius,RTX PRO 6000,2026-10-06,1.8,on-demand column of nebius.com/prices,https://nebius.com/prices

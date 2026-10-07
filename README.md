@@ -64,9 +64,10 @@ The rate-card files use the effective date of each published price. A price Nebi
 
 ## Neocloud price tape and power cost
 
-`python scripts/build_market_tapes.py` writes two tapes.
+`python scripts/build_market_tapes.py
+python scripts/fetch_peer_prices.py` writes two tapes.
 
-The price tape is the published on-demand GPU-hour card for Nebius, CoreWeave, Crusoe, and Lambda. Nebius is the archived page history. The other three are the card fetched with this build. CoreWeave publishes a node price, so H100 is $49.24 divided by 8 GPUs. Wide files are `data/out/wide/neocloud_nebius.csv`, `neocloud_coreweave.csv`, `neocloud_crusoe.csv`, and `neocloud_lambda.csv`. The long file is `data/out/neocloud_prices.csv`.
+The price tape is the published on-demand GPU-hour card for Nebius, CoreWeave, Crusoe, and Lambda, by NVIDIA GPU. Nebius runs from 15 Nov 2024. Crusoe runs from 18 May 2024 (A40, A100, L40S, then H100 and H200). Lambda runs from 1 Jul 2022 (A100, RTX A6000, V100, then H100 and B200). CoreWeave's classic per-GPU card runs from January 2025. Where CoreWeave only prints a node price, the row is marked "(node)" and the dollar is the node price divided by the GPU count. Wide files are `data/out/wide/neocloud_nebius.csv`, `neocloud_coreweave.csv`, `neocloud_crusoe.csv`, and `neocloud_lambda.csv`. The long file is `data/out/neocloud_prices.csv`. Refresh the archive with `python scripts/fetch_peer_prices.py`.
 
 On the October 2026 card, an H100 is $3.85 at Nebius, $3.90 at Crusoe, $3.99 at Lambda, and about $6.16 at CoreWeave. An H200 is $4.50 at Nebius, $4.29 at Crusoe, and about $6.31 at CoreWeave. Nebius is priced with the cheap group, not with CoreWeave.
 
