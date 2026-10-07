@@ -90,6 +90,14 @@ The console's billing pages list every SKU in every region, with the date each p
 
 Ten regions are on `docs.nebius.com/overview/regions` and keep the place in `data/region_crosswalk.json`. The other ten are not on the docs page yet. Vera Rubin SKUs sit at a price of zero in six regions, starting with `eu-north1` on 20 Aug 2026 and then `eu-north3`, `in-south1`, `me-west3`, `us-central2`, and `us-south2` in September. The places for the new regions are inferences, in `data/console_region_inferences.json`. How to save the pages from a logged-in browser, with no token stored, is in `docs/console-catalog.md`.
 
+## Competitor capacity within 200 km
+
+`python scripts/build_competitors.py` reads `data/competitor_projects.jsonl`, 651 AI, cloud, and colocation projects researched around the 22 Nebius campuses, split into 883 phases. Each phase has its megawatts, the quarter it comes online, and a source URL and quote for both. Ring 1 is within 50 km of the campus pin in `data/ledger.json`. Ring 2 is 50 to 200 km. The round trip is the straight-line distance divided by 100, in milliseconds, so it is a floor.
+
+`data/out/competitor_phases.csv` is one row per phase. `data/out/competitors.csv` is one row per campus and phase, with the distance, ring, round trip, and whether the phase is in the totals. `data/out/wide/competitors_ring1.csv` and `competitors_ring2.csv` are the megawatts online by each quarter end from Q1 2024 through Q4 2030, one campus per row. A phase is in the totals only when its megawatts and its date are both public.
+
+By the end of 2030, Paris has about 2.5 GW of dated capacity within 50 km, and Longcross and Harlow about 2.3 GW each. Lappeenranta, Béthune, Hüüru, and Spartanburg County have almost nothing within 50 km, and their competition sits 50 to 200 km out. The write-up is `docs/competitor-capacity.md`.
+
 ## Run
 
 ```
@@ -101,6 +109,7 @@ python scripts/fetch_token_factory_prices.py
 python scripts/build_wide_prices.py
 python scripts/fetch_third_party_prices.py
 python scripts/build_console_catalog.py
+python scripts/build_competitors.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.
