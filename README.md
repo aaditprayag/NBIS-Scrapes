@@ -56,6 +56,16 @@ Across those dates, no model that stayed listed changed its input or output pric
 
 The rate-card files use the effective date of each published price. A price Nebius labels "before 1 Jun 2026" sits on 31 May 2026. A price labeled "from 1 Jun 2026" sits on 1 Jun 2026. Both are `Q2 '26`. The page files use the day that price was on the page. Token Factory input and output are separate files, with one row per model.
 
+## Neocloud price tape and power cost
+
+`python scripts/build_market_tapes.py` writes two tapes.
+
+The price tape is the published on-demand GPU-hour card for Nebius, CoreWeave, Crusoe, and Lambda. Nebius is the archived page history. The other three are the card fetched with this build. CoreWeave publishes a node price, so H100 is $49.24 divided by 8 GPUs. Wide files are `data/out/wide/neocloud_nebius.csv`, `neocloud_coreweave.csv`, `neocloud_crusoe.csv`, and `neocloud_lambda.csv`. The long file is `data/out/neocloud_prices.csv`.
+
+On the October 2026 card, an H100 is $3.85 at Nebius, $3.90 at Crusoe, $3.99 at Lambda, and about $6.16 at CoreWeave. An H200 is $4.50 at Nebius, $4.29 at Crusoe, and about $6.31 at CoreWeave. Nebius is priced with the cheap group, not with CoreWeave.
+
+The power tape is `data/out/wide/power_cost.csv`. Finland, France, the UK, Spain, and Estonia are quarterly averages of Ember's monthly day-ahead prices, in EUR per MWh. PJM West is the quarterly average of EIA's ICE peak prices, in USD per MWh, and it is the public hub for the New Jersey and Pennsylvania sites. A second row under each price turns it into the electricity cost of one H100-hour at 0.7 kW, with a stated PUE (1.15 in Finland, 1.30 on PJM). In Q3 2026 that electricity cost is about 3 euro cents in Finland and about 10 US cents on PJM West, against a $4 to $6 GPU-hour list price. Wholesale power is a small slice of the posted GPU price. Finland's Q1 2026 average, 94 EUR/MWh, was the expensive quarter.
+
 ## Nearby data centers
 
 `data/out/neighbors.csv` lists other facilities within 60 km of each confirmed Nebius campus. The operator comes from PeeringDB. A power figure is filled only when Epoch AI publishes an estimate for that campus, or when the PeeringDB note itself states a megawatt. Each row has a satellite-photo link. The map’s Satellite layer is the aerial photo. Tan pins are the neighbors. `neighbors_summary.csv` is the count per Nebius campus.
