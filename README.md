@@ -33,10 +33,11 @@ The filing clock is quarterly. A stockout is a weekly fact. The scrapers worth r
 
 What actually refreshes:
 
-1. `https://nebius.com/prices` — list price, the published 1 Oct 2026 column, and the public spot floor. NVL72 racks are contact-sales. The page has no history of its own. Fifty archived copies, back to 15 Nov 2024, are in `data/out/gpu_price_history.csv` and written up in `docs/gpu-price-history.md`. On-demand H100 was $2.95 and H200 was $3.50 until at least 7 May 2026. By 12 Jul 2026 those were $3.85 and $4.50. The $4.50 / $5.40 / $8.50 / $9.50 October column shows up on 23 Sep and the first column had not moved to it by 6 Oct.
-2. `https://docs.nebius.com/compute/virtual-machines/types` — which GPU platform is still sold in which region. H100 is only `eu-north1`. B300 is in `uk-south1`, `eu-west2`, and `us-north1`. A region id is not a building. Inferences are in `data/region_crosswalk.json` and on the map, kept off the pins.
-3. OpenRouter's Nebius provider page — how many models Token Factory is serving. That is the short inference book, not Vineland.
-4. Vast.ai `GET /api/v0/metrics/gpu/current/` — market supply, demand, and percentile price, about every five minutes. Needs a Vast **host** key in `VAST_API_KEY`. Client keys are rejected.
+1. Official rate card: `https://docs.nebius.com/compute/resources/pricing.md`, the standalone-applications price page, and `changelog.md`. `python scripts/fetch_docs_prices.py` writes `data/out/docs_gpu_prices.csv`. Nebius keeps the current card and the previous one. Older cards are read from earlier copies of that same docs URL. On-demand H100 goes 2.118 (GPU line only, before 1 Oct 2025) → 2.95 → 3.85 on 1 Jun 2026 → 4.50 on 1 Oct 2026. H200 goes 2.668 → 3.50 → 4.50 → 5.40. B200 goes 4.5432 → 5.50 → 7.15 → 8.50. B300 goes 6.10 → 7.85 → 9.50. The write-up is `docs/gpu-price-history.md`.
+2. `https://nebius.com/prices` — the marketing page. It is a second copy of the list price, not the rate card. Its archive is `data/out/gpu_price_history.csv`.
+3. `https://docs.nebius.com/compute/virtual-machines/types` — which GPU platform is still sold in which region. H100 is only `eu-north1`. B300 is in `uk-south1`, `eu-west2`, and `us-north1`. A region id is not a building. Inferences are in `data/region_crosswalk.json` and on the map, kept off the pins.
+4. OpenRouter's Nebius provider page — how many models Token Factory is serving. That is the short inference book, not Vineland.
+5. Vast.ai `GET /api/v0/metrics/gpu/current/` — market supply, demand, and percentile price, about every five minutes. Needs a Vast **host** key in `VAST_API_KEY`. Client keys are rejected.
 
 ## Run
 
@@ -44,6 +45,7 @@ What actually refreshes:
 $env:PYTHONPATH = "src"
 python -m unittest discover -s tests
 python -m nbis_scrapes all
+python scripts/fetch_docs_prices.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.

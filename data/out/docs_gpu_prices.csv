@@ -1,0 +1,83 @@
+source_url,captured_on,platform_id,regions,item,preemptible,vintage,vintage_date,usd_per_gpu_hour
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b300-sxm,"uk-south1,eu-west2,us-north1",NVIDIA® B300 NVLink,False,from,2026-10-01,9.5
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b300-sxm,"uk-south1,eu-west2,us-north1",Preemptible NVIDIA® B300 NVLink,True,from,2026-10-01,4.3
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b300-sxm,"uk-south1,eu-west2,us-north1",NVIDIA® B300 NVLink,False,before,2026-10-01,7.85
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b300-sxm,"uk-south1,eu-west2,us-north1",Preemptible NVIDIA® B300 NVLink,True,before,2026-10-01,4.3
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm,us-central1,NVIDIA® B200 NVLink,False,from,2026-10-01,8.5
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm,us-central1,Preemptible NVIDIA® B200 NVLink,True,from,2026-10-01,3.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm,us-central1,NVIDIA® B200 NVLink,False,before,2026-10-01,7.15
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm,us-central1,Preemptible NVIDIA® B200 NVLink,True,before,2026-10-01,3.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm-a,me-west1,NVIDIA® B200 NVLink,False,from,2026-10-01,8.5
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm-a,me-west1,Preemptible NVIDIA® B200 NVLink,True,from,2026-10-01,3.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm-a,me-west1,NVIDIA® B200 NVLink,False,before,2026-10-01,7.15
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-b200-sxm-a,me-west1,Preemptible NVIDIA® B200 NVLink,True,before,2026-10-01,3.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,"eu-north1,eu-north2,eu-west1,us-central1",NVIDIA® H200 NVLink,False,from,2026-10-01,5.4
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,"eu-north1,eu-north2,eu-west1,us-central1",Preemptible NVIDIA® H200 NVLink,True,from,2026-10-01,2.45
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,"eu-north1,eu-north2,eu-west1,us-central1",NVIDIA® H200 NVLink,False,before,2026-10-01,4.5
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,"eu-north1,eu-north2,eu-west1,us-central1",Preemptible NVIDIA® H200 NVLink,True,before,2026-10-01,2.45
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,NVIDIA® H100 NVLink,False,from,2026-10-01,4.5
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,Preemptible NVIDIA® H100 NVLink,True,from,2026-10-01,2.15
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,NVIDIA® H100 NVLink,False,before,2026-10-01,3.85
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,Preemptible NVIDIA® H100 NVLink,True,before,2026-10-01,2.15
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-rtx6000,us-central1,NVIDIA® RTX PRO™ 6000,False,undated,,1.8
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-rtx6000,us-central1,Preemptible NVIDIA® RTX PRO™ 6000,True,undated,,0.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-rtx6000-a,"uk-south2,eu-south1",NVIDIA® RTX PRO™ 6000,False,undated,,1.8
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,gpu-rtx6000-a,"uk-south2,eu-south1",Preemptible NVIDIA® RTX PRO™ 6000,True,undated,,0.95
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,NVIDIA® L40S Intel. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,eu-north1,Preemptible NVIDIA® L40S Intel. GPU,True,undated,,0.65
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,,NVIDIA® L40S AMD. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing.md,2026-10-07,,,Preemptible NVIDIA® L40S AMD. GPU,True,undated,,0.65
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,,Standalone application on NVIDIA® H200 NVLink with Intel Sapphire Rapids,False,from,2026-10-01,5.4
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,,Standalone application on NVIDIA® H200 NVLink with Intel Sapphire Rapids,False,before,2026-10-01,4.5
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,eu-north1,Standalone application on NVIDIA® H100 NVLink with Intel Sapphire Rapids,False,from,2026-10-01,4.5
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,eu-north1,Standalone application on NVIDIA® H100 NVLink with Intel Sapphire Rapids,False,before,2026-10-01,3.85
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,,Standalone application on NVIDIA® L40S PCIe with Intel Ice Lake. GPU,False,undated,,1.35
+https://docs.nebius.com/applications/standalone/pricing.md,2026-10-07,,,Standalone application on NVIDIA® L40S PCIe with AMD Epyc Genoa. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b300-nvlink-gpu-b300-sxm,,NVIDIA® B300 NVLink,False,undated,,6.1
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b300-nvlink-gpu-b300-sxm,,Preemptible NVIDIA® B300 NVLink,True,undated,,3.4
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm,,NVIDIA® B200 NVLink. GPU,False,before,2025-10-01,4.5432
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm,,Preemptible NVIDIA® B200 NVLink. GPU,True,before,2025-10-01,2.4216
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm,,NVIDIA® B200 NVLink,False,from,2025-10-01,5.5
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm,,Preemptible NVIDIA® B200 NVLink,True,from,2025-10-01,2.9
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm-a,,NVIDIA® B200 NVLink,False,undated,,5.5
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-b200-nvlink-gpu-b200-sxm-a,,Preemptible NVIDIA® B200 NVLink,True,undated,,2.9
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h200-nvlink,,NVIDIA® H200 NVLink. GPU,False,before,2025-10-01,2.668
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h200-nvlink,,Preemptible NVIDIA® H200 NVLink. GPU,True,before,2025-10-01,1.034
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h200-nvlink,,NVIDIA® H200 NVLink,False,from,2025-10-01,3.5
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h200-nvlink,,Preemptible NVIDIA® H200 NVLink,True,from,2025-10-01,1.45
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h100-nvlink,,NVIDIA® H100 NVLink. GPU,False,before,2025-10-01,2.118
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h100-nvlink,,Preemptible NVIDIA® H100 NVLink. GPU,True,before,2025-10-01,0.834
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h100-nvlink,,NVIDIA® H100 NVLink,False,from,2025-10-01,2.95
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-h100-nvlink,,Preemptible NVIDIA® H100 NVLink,True,from,2025-10-01,1.25
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-rtx-pro-6000,,NVIDIA® RTX PRO™ 6000,False,undated,,1.8
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-rtx-pro-6000,,Preemptible NVIDIA® RTX PRO™ 6000,True,undated,,0.95
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-l40s-intel,,NVIDIA® L40S Intel. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-l40s-intel,,Preemptible NVIDIA® L40S Intel. GPU,True,undated,,0.65
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-l40s-amd,,NVIDIA® L40S AMD. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing,2026-05-27,nvidia-l40s-amd,,Preemptible NVIDIA® L40S AMD. GPU,True,undated,,0.65
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b300-nvlink-gpu-b300-sxm,,NVIDIA® B300 NVLink,False,from,2026-06-01,7.85
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b300-nvlink-gpu-b300-sxm,,Preemptible NVIDIA® B300 NVLink,True,from,2026-06-01,4.3
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b300-nvlink-gpu-b300-sxm,,NVIDIA® B300 NVLink,False,before,2026-06-01,6.1
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b300-nvlink-gpu-b300-sxm,,Preemptible NVIDIA® B300 NVLink,True,before,2026-06-01,3.4
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm,,NVIDIA® B200 NVLink,False,from,2026-06-01,7.15
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm,,Preemptible NVIDIA® B200 NVLink,True,from,2026-06-01,3.95
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm,,NVIDIA® B200 NVLink,False,before,2026-06-01,5.5
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm,,Preemptible NVIDIA® B200 NVLink,True,before,2026-06-01,2.9
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm-a,,NVIDIA® B200 NVLink,False,from,2026-06-01,7.15
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm-a,,Preemptible NVIDIA® B200 NVLink,True,from,2026-06-01,3.95
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm-a,,NVIDIA® B200 NVLink,False,before,2026-06-01,5.5
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-b200-nvlink-gpu-b200-sxm-a,,Preemptible NVIDIA® B200 NVLink,True,before,2026-06-01,2.9
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h200-nvlink,,NVIDIA® H200 NVLink,False,from,2026-06-01,4.5
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h200-nvlink,,Preemptible NVIDIA® H200 NVLink,True,from,2026-06-01,2.45
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h200-nvlink,,NVIDIA® H200 NVLink,False,before,2026-06-01,3.5
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h200-nvlink,,Preemptible NVIDIA® H200 NVLink,True,before,2026-06-01,1.45
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h100-nvlink,,NVIDIA® H100 NVLink,False,from,2026-06-01,3.85
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h100-nvlink,,Preemptible NVIDIA® H100 NVLink,True,from,2026-06-01,2.15
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h100-nvlink,,NVIDIA® H100 NVLink,False,before,2026-06-01,2.95
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-h100-nvlink,,Preemptible NVIDIA® H100 NVLink,True,before,2026-06-01,1.25
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-rtx-pro-6000,,NVIDIA® RTX PRO™ 6000,False,undated,,1.8
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-rtx-pro-6000,,Preemptible NVIDIA® RTX PRO™ 6000,True,undated,,0.95
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-l40s-intel,,NVIDIA® L40S Intel. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-l40s-intel,,Preemptible NVIDIA® L40S Intel. GPU,True,undated,,0.65
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-l40s-amd,,NVIDIA® L40S AMD. GPU,False,undated,,1.35
+https://docs.nebius.com/compute/resources/pricing,2026-07-15,nvidia-l40s-amd,,Preemptible NVIDIA® L40S AMD. GPU,True,undated,,0.65

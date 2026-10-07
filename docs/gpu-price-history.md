@@ -1,5 +1,28 @@
 # Nebius GPU list-price history
 
+## Official rate card
+
+The source is Nebius's own compute pricing document, `https://docs.nebius.com/compute/resources/pricing.md`, plus the changelog on the same docs site. The scraper is `scripts/fetch_docs_prices.py`. Rows are in `data/out/docs_gpu_prices.csv`.
+
+The live page keeps the current card and the one before it. Older cards are read from earlier copies of that same docs URL, not from `nebius.com/prices`.
+
+On-demand USD per GPU-hour:
+
+| SKU | GPU line before 1 Oct 2025 | Unified from 1 Oct 2025 | Before 1 Jun 2026 | From 1 Jun 2026 | Before 1 Oct 2026 | From 1 Oct 2026 |
+|---|---:|---:|---:|---:|---:|---:|
+| H100 | 2.118 | 2.95 | 2.95 | 3.85 | 3.85 | 4.50 |
+| H200 | 2.668 | 3.50 | 3.50 | 4.50 | 4.50 | 5.40 |
+| B200 | 4.5432 | 5.50 | 5.50 | 7.15 | 7.15 | 8.50 |
+| B300 | | | 6.10 | 7.85 | 7.85 | 9.50 |
+
+Before 1 Oct 2025 the GPU, CPU, and RAM were billed as separate lines. The docs say the hourly total did not change. On the 16-vCPU / 200 GiB preset, H100 is 2.118 + 16×0.012 + 200×0.0032 = 2.95, and H200 is 2.668 + 0.192 + 0.64 = 3.50. B200 matches 5.50 on a 20-vCPU / 224 GiB preset: 4.5432 + 0.24 + 0.7168. From 1 Oct 2025 the page shows one GPU-hour price.
+
+The changelog dates the later moves: the week of 25–31 May 2026 announces the 1 June change, and the week of 28 Sep–4 Oct 2026 announces the 1 October change. Fixed preemptible rates are in the same CSV. They do not move on 1 October (H100 2.15, H200 2.45, B200 3.95, B300 4.30). Before 1 June, B300 preemptible was 3.40 and B200 preemptible was 2.90.
+
+Standalone Applications uses the same H100 and H200 GPU-hour rates as Compute. That page is scraped too.
+
+## Marketing page archive
+
 Source: every unique Internet Archive copy of `https://nebius.com/prices` from 15 Nov 2024 through 6 Oct 2026 (50 captures). The script is `scripts/fetch_wayback_prices.py`. Rows are in `data/out/gpu_price_history.csv`. A price is recorded on the day the archive crawled the page, so the change happened on or before that day, and after the previous crawl.
 
 These are published list prices per GPU-hour. They are not the Microsoft or Meta contract price, and they are not the console's 15-minute spot print.
