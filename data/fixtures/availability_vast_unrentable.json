@@ -1,0 +1,172 @@
+{
+ "offers": [
+  {
+   "id": 51575937,
+   "machine_id": 56219,
+   "gpu_name": "B200",
+   "num_gpus": 1,
+   "gpu_frac": 0.125,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 6.252083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 51592610,
+   "machine_id": 56167,
+   "gpu_name": "B200",
+   "num_gpus": 2,
+   "gpu_frac": 0.25,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 12.502083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 51592616,
+   "machine_id": 56167,
+   "gpu_name": "B200",
+   "num_gpus": 1,
+   "gpu_frac": 0.125,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 6.252083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 50255945,
+   "machine_id": 96942,
+   "gpu_name": "B200",
+   "num_gpus": 4,
+   "gpu_frac": 0.5,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 25.002083333333335,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 51592612,
+   "machine_id": 56167,
+   "gpu_name": "B200",
+   "num_gpus": 4,
+   "gpu_frac": 0.5,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 25.002083333333335,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 50255943,
+   "machine_id": 96942,
+   "gpu_name": "B200",
+   "num_gpus": 1,
+   "gpu_frac": 0.125,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 6.252083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 50255936,
+   "machine_id": 96942,
+   "gpu_name": "B200",
+   "num_gpus": 2,
+   "gpu_frac": 0.25,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 12.502083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 50255946,
+   "machine_id": 96942,
+   "gpu_name": "B200",
+   "num_gpus": 8,
+   "gpu_frac": 1.0,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 50.00208333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 51575932,
+   "machine_id": 56219,
+   "gpu_name": "B200",
+   "num_gpus": 2,
+   "gpu_frac": 0.25,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 12.502083333333333,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 52435807,
+   "machine_id": 150404,
+   "gpu_name": "B200",
+   "num_gpus": 8,
+   "gpu_frac": 1.0,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 60.01041666666667,
+   "geolocation": "California, US"
+  },
+  {
+   "id": 51061940,
+   "machine_id": 137780,
+   "gpu_name": "B200",
+   "num_gpus": 8,
+   "gpu_frac": 1.0,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 65.01041666666667,
+   "geolocation": ", US"
+  },
+  {
+   "id": 51061942,
+   "machine_id": 137780,
+   "gpu_name": "B200",
+   "num_gpus": 4,
+   "gpu_frac": 0.5,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 32.510416666666664,
+   "geolocation": ", US"
+  },
+  {
+   "id": 51575934,
+   "machine_id": 56219,
+   "gpu_name": "B200",
+   "num_gpus": 4,
+   "gpu_frac": 0.5,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 25.002083333333335,
+   "geolocation": "Oregon, US"
+  },
+  {
+   "id": 51575935,
+   "machine_id": 56219,
+   "gpu_name": "B200",
+   "num_gpus": 8,
+   "gpu_frac": 1.0,
+   "rentable": false,
+   "rented": false,
+   "verification": "verified",
+   "dph_total": 50.00208333333333,
+   "geolocation": "Oregon, US"
+  }
+ ]
+}

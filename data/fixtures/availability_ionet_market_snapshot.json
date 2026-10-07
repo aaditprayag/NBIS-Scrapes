@@ -1,0 +1,69 @@
+{
+ "status": "succeeded",
+ "data": [
+  {
+   "id": 224,
+   "brand_name": "NVIDIA",
+   "hardware_name": "H100 80GB HBM3",
+   "icon": "https://mxtfdkppxyflmmglullf.supabase.co/storage/v1/object/public/icons/nvidia.svg?t=2023-09-05T21%3A52%3A29.736Z",
+   "price": 1.19,
+   "baremetal_price": 1.79,
+   "kubernetes_price": 1.89,
+   "caas_price": 2.09,
+   "vmaas_price": 1.99,
+   "type": "GPU",
+   "total": 512,
+   "hired": 512,
+   "idle": 0,
+   "is_trending": true
+  },
+  {
+   "id": 12,
+   "brand_name": "NVIDIA",
+   "hardware_name": "GeForce RTX 4090",
+   "icon": "https://mxtfdkppxyflmmglullf.supabase.co/storage/v1/object/public/icons/nvidia.svg?t=2023-09-05T21%3A52%3A29.736Z",
+   "price": 0.25,
+   "baremetal_price": 0.37,
+   "kubernetes_price": 0.42,
+   "caas_price": 0.3,
+   "vmaas_price": 0.3,
+   "type": "GPU",
+   "total": 176,
+   "hired": 176,
+   "idle": 0,
+   "is_trending": true
+  },
+  {
+   "id": 203,
+   "brand_name": "NVIDIA",
+   "hardware_name": "H100 PCIe",
+   "icon": "https://mxtfdkppxyflmmglullf.supabase.co/storage/v1/object/public/icons/nvidia.svg?t=2023-09-05T21%3A52%3A29.736Z",
+   "price": 0.89,
+   "baremetal_price": 1.39,
+   "kubernetes_price": 1.49,
+   "caas_price": 1.0,
+   "vmaas_price": 1.59,
+   "type": "GPU",
+   "total": 8,
+   "hired": 8,
+   "idle": 0,
+   "is_trending": true
+  },
+  {
+   "id": 291,
+   "brand_name": "NVIDIA",
+   "hardware_name": "B300 SXM6 AC",
+   "icon": "https://mxtfdkppxyflmmglullf.supabase.co/storage/v1/object/public/icons/nvidia.svg?t=2023-09-05T21%3A52%3A29.736Z",
+   "price": 4.48,
+   "baremetal_price": null,
+   "kubernetes_price": null,
+   "caas_price": 6.73,
+   "vmaas_price": 4.5,
+   "type": "GPU",
+   "total": 8,
+   "hired": 8,
+   "idle": 0,
+   "is_trending": true
+  }
+ ]
+}

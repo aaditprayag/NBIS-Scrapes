@@ -98,6 +98,14 @@ Ten regions are on `docs.nebius.com/overview/regions` and keep the place in `dat
 
 By the end of 2030, Paris has about 2.5 GW of dated capacity within 50 km, and Longcross and Harlow about 2.3 GW each. Lappeenranta, Béthune, Hüüru, and Spartanburg County have almost nothing within 50 km, and their competition sits 50 to 200 km out. The write-up is `docs/competitor-capacity.md`.
 
+## GPU availability
+
+`python scripts/fetch_availability.py` adds today's GPU availability to `data/out/gpu_availability.csv`: the last two days of 500.farm's Vast history, Akash's leased share, RunPod's stock level per data center, Vast's rentable share of listed GPUs and median price, and Shadeform's available flag for each cloud and region it resells, Lambda and Nebius included. Only the Vast search uses a key, the Vast CLI session key on this machine, and it falls back to a keyless search. Vast's own market metrics need an active host machine, so they are recorded as a skip.
+
+The history is 500.farm's daily count of rented and free GPUs on Vast (B200 from 26 Jun 2025, H100 from Jan 2024) and its price tape, Akash's daily breakdown from March 2024, RunPod's in-stock offers as dstack's gpuhunt catalog recorded them (544 days from 2 Apr 2024), 22 archived copies of Shadeform's availability API, and a hand-read copy of 3Fourteen's chart of Silicon Data's B200 on-demand availability (264 days from 1 Jan 2026). A day nobody observed is missing, not filled. These are marketplaces, not Nebius. They read how tight the neoclouds are, one step removed.
+
+The chart falls from 62% on 1 Jan 2026 to under 1% by mid-March. Vast's free B200 share falls from 43% in January to 7% in September while the median rented B200 price goes from $2.87 in February to $8.03 in October. RunPod's B200 stock fell from about 5 data centers a day in February to almost none in April. Wide files are `data/out/wide/gpu_availability_b200.csv` and the rest. The full rows and the full price tape are in `data/cache/`, and `python scripts/fetch_availability.py --farm-history --akash-history` rebuilds them. The scheduled task `NBIS Daily Availability` runs the daily capture at 08:45. The write-up is `docs/gpu-availability.md`.
+
 ## Run
 
 ```
@@ -110,6 +118,7 @@ python scripts/build_wide_prices.py
 python scripts/fetch_third_party_prices.py
 python scripts/build_console_catalog.py
 python scripts/build_competitors.py
+python scripts/fetch_availability.py
 ```
 
 `panel` and `map` stay offline. `demand` hits the network and writes `data/snapshots/`. Set `VAST_API_KEY` first if you want the market thermometer.
