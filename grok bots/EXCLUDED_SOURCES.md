@@ -84,7 +84,6 @@ These public documents were downloaded by the bots as inputs but are not committ
 - `filings/edgar/idx_000141057825002149.json`
 - `filings/edgar/idx_000155837025005991.json`
 - `filings/edgar/makewhole.json`
-- `filings/edgar/mw_extract.py`
 - `filings/edgar/nbis-20241231x20f.htm`
 - `filings/edgar/nbis-20241231x20f.htm.txt`
 - `filings/edgar/nbis-20251231x20f.htm`
@@ -100,7 +99,6 @@ These public documents were downloaded by the bots as inputs but are not committ
 - `filings/edgar/nbis-20260812xex99d2.htm`
 - `filings/edgar/nbis-20260812xex99d2.htm.txt`
 - `filings/edgar/nvda13g.xml`
-- `filings/edgar/pg.py`
 - `filings/edgar/post/000110465926098590_tm2623513d1_6k.htm`
 - `filings/edgar/post/000110465926098590_tm2623513d1_ex99-1.htm`
 - `filings/edgar/post/000110465926098924_tm2623617d1_6k.htm`
