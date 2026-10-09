@@ -1,0 +1,16 @@
+portwash_wi 2023-02-12 554.82 24.23
+portwash_wi 2023-05-20 791.48 6.35
+portwash_wi 2023-07-14 69.83 8.14
+portwash_wi 2023-11-19 588.18 3.73
+portwash_wi 2024-03-28 682.13 5.22
+portwash_wi 2024-04-14 1048.17 7.34
+portwash_wi 2024-09-04 36.56 4.9
+portwash_wi 2024-10-09 485.78 4.71
+portwash_wi 2025-03-25 858.29 5.7
+portwash_wi 2025-06-23 234.75 8.5
+portwash_wi 2025-09-14 69.69 4.0
+portwash_wi 2025-11-03 507.56 3.67
+portwash_wi 2026-02-13 1128.05 65.63
+portwash_wi 2026-04-22 1034.03 66.38
+portwash_wi 2026-07-06 342.81 170.91
+portwash_wi 2026-10-01 none

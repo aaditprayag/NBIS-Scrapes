@@ -1,0 +1,12 @@
+2024-03-31 W88Y9 {'nebius.com': None, 'nebius.ai': None, 'coreweave.com': 95687, 'lambda.ai': None, 'lambdalabs.com': 129094, 'crusoe.ai': 433455, 'together.ai': 331267, 'nscale.com': None}
+2024-06-30 KJ86W {'nebius.com': None, 'nebius.ai': 403042, 'coreweave.com': 90386, 'lambda.ai': None, 'lambdalabs.com': 140468, 'crusoe.ai': 478446, 'together.ai': 397065, 'nscale.com': None}
+2024-09-30 W83P9 {'nebius.com': 973524, 'nebius.ai': 235547, 'coreweave.com': 91191, 'lambda.ai': None, 'lambdalabs.com': 113725, 'crusoe.ai': 485786, 'together.ai': 170564, 'nscale.com': None}
+2024-12-31 QGYP4 {'nebius.com': 201459, 'nebius.ai': 847347, 'coreweave.com': 45454, 'lambda.ai': None, 'lambdalabs.com': 110451, 'crusoe.ai': 388848, 'together.ai': 130767, 'nscale.com': None}
+2025-03-31 83WXV {'nebius.com': 124391, 'nebius.ai': 642957, 'coreweave.com': 46832, 'lambda.ai': None, 'lambdalabs.com': 99755, 'crusoe.ai': 397403, 'together.ai': 104879, 'nscale.com': 663719}
+2025-06-30 W49Y9 {'nebius.com': 171910, 'nebius.ai': None, 'coreweave.com': 36525, 'lambda.ai': 137285, 'lambdalabs.com': 128136, 'crusoe.ai': 321208, 'together.ai': 100836, 'nscale.com': 391259}
+2025-09-30 QW774 {'nebius.com': 173943, 'nebius.ai': None, 'coreweave.com': 41517, 'lambda.ai': 148976, 'lambdalabs.com': 147756, 'crusoe.ai': 362056, 'together.ai': 70590, 'nscale.com': 419898}
+2025-12-31 NN24W {'nebius.com': 109604, 'nebius.ai': 460875, 'coreweave.com': 40115, 'lambda.ai': 153172, 'lambdalabs.com': 180937, 'crusoe.ai': 305810, 'together.ai': 77968, 'nscale.com': 190025}
+2026-03-31 JLQJY {'nebius.com': 99252, 'nebius.ai': 457788, 'coreweave.com': 24090, 'lambda.ai': 123334, 'lambdalabs.com': 145382, 'crusoe.ai': 147591, 'together.ai': 56568, 'nscale.com': 140396}
+2026-06-30 GQ2WK {'nebius.com': 61016, 'nebius.ai': 492944, 'coreweave.com': 23574, 'lambda.ai': 132173, 'lambdalabs.com': 151886, 'crusoe.ai': 151588, 'together.ai': 50702, 'nscale.com': 300734}
+2026-09-30 Q2K34 {'nebius.com': 55304, 'nebius.ai': 535338, 'coreweave.com': 22023, 'lambda.ai': 122298, 'lambdalabs.com': 171788, 'crusoe.ai': 168132, 'together.ai': 44226, 'nscale.com': 230301}
+2026-10-03 Y83KG {'nebius.com': 56237, 'nebius.ai': 535574, 'coreweave.com': 21968, 'lambda.ai': 121698, 'lambdalabs.com': 170719, 'crusoe.ai': 165160, 'together.ai': 43637, 'nscale.com': 225667}

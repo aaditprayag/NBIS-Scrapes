@@ -1,0 +1,17 @@
+site,date,scene,crop_ha,roof_white_ha,roof_grey_ha,bare_ha,ndvi_mean,png
+independence_mo,2023-02-05,S2A_15SUD_20230205_0_L2A,160.7,0.02,0.0,41.98,0.229,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2023-02-05_crop.png
+independence_mo,2023-06-20,S2B_15SUD_20230620_0_L2A,160.7,0.16,0.01,0.26,0.688,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2023-06-20_crop.png
+independence_mo,2023-07-10,S2B_15SUD_20230710_0_L2A,160.7,0.27,0.05,0.33,0.825,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2023-07-10_crop.png
+independence_mo,2023-11-12,S2A_15SUD_20231112_0_L2A,160.7,0.07,0.01,1.92,0.31,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2023-11-12_crop.png
+independence_mo,2024-01-31,S2A_15SUD_20240131_0_L2A,160.7,0.12,0.04,2.77,0.308,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2024-01-31_crop.png
+independence_mo,2024-06-24,S2B_15SUD_20240624_0_L2A,160.7,0.35,0.1,0.36,0.511,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2024-06-24_crop.png
+independence_mo,2024-09-07,S2A_15SUD_20240907_0_L2A,160.7,0.2,0.06,0.37,0.806,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2024-09-07_crop.png
+independence_mo,2024-10-07,S2A_15SUD_20241007_0_L2A,160.7,0.18,0.06,0.79,0.426,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2024-10-07_crop.png
+independence_mo,2025-03-11,S2B_15SUD_20250311_0_L2A,160.7,0.24,0.2,4.75,0.269,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2025-03-11_crop.png
+independence_mo,2025-04-07,S2A_15SUD_20250407_0_L2A,160.7,0.29,0.11,1.66,0.39,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2025-04-07_crop.png
+independence_mo,2025-07-09,S2B_15SUD_20250709_0_L2A,160.7,0.42,0.05,0.3,0.721,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2025-07-09_crop.png
+independence_mo,2025-11-03,S2A_15SUD_20251103_0_L2A,160.7,0.12,0.05,7.99,0.423,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2025-11-03_crop.png
+independence_mo,2026-01-12,S2A_15SUD_20260112_0_L2A,160.7,0.08,0.03,2.38,0.287,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2026-01-12_crop.png
+independence_mo,2026-04-20,S2C_15SUD_20260420_0_L2A,160.7,0.28,0.01,13.24,0.414,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2026-04-20_crop.png
+independence_mo,2026-09-02,S2B_15SUD_20260902_0_L2A,160.7,4.98,2.27,48.23,0.429,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2026-09-02_crop.png
+independence_mo,2026-10-02,S2B_15SUD_20261002_0_L2A,160.7,3.49,5.98,20.01,0.43,/workspace/nebius/capacity/altdata/imagery/independence_mo/detail/independence_mo_2026-10-02_crop.png

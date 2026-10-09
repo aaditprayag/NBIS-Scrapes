@@ -1,0 +1,2000 @@
+{
+ "k_fy24__orcl-20240531.htm.txt": {
+  "cur": "May-24",
+  "pri": "May-23",
+  "rows": [
+   {
+    "name": "$1,000, 3.625%, due July 2023",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     null,
+     null
+    ],
+    "May-23": [
+     1000.0,
+     3.73
+    ]
+   },
+   {
+    "name": "$2,500, 2.40%, due September 2023",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     null,
+     null
+    ],
+    "May-23": [
+     2500.0,
+     2.44
+    ]
+   },
+   {
+    "name": "$2,000, 3.40%, due July 2024",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2000.0,
+     3.43
+    ],
+    "May-23": [
+     2000.0,
+     3.43
+    ]
+   },
+   {
+    "name": "$2,000, 2.95%, due November 2024",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2000.0,
+     3.01
+    ],
+    "May-23": [
+     2000.0,
+     3.01
+    ]
+   },
+   {
+    "name": "$3,500, 2.50%, due April 2025",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3500.0,
+     2.54
+    ],
+    "May-23": [
+     3500.0,
+     2.54
+    ]
+   },
+   {
+    "name": "$2,500, 2.95%, due May 2025",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2500.0,
+     3.05
+    ],
+    "May-23": [
+     2500.0,
+     3.05
+    ]
+   },
+   {
+    "name": "\u20ac750, 3.125%, due July 2025(1)(2)",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     808.0,
+     3.17
+    ],
+    "May-23": [
+     800.0,
+     3.17
+    ]
+   },
+   {
+    "name": "$1,000, 5.80%, due November 2025",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1000.0,
+     5.93
+    ],
+    "May-23": [
+     1000.0,
+     5.93
+    ]
+   },
+   {
+    "name": "$2,750, 1.65%, due March 2026",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2750.0,
+     1.67
+    ],
+    "May-23": [
+     2750.0,
+     1.67
+    ]
+   },
+   {
+    "name": "$3,000, 2.65%, due July 2026",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3000.0,
+     2.73
+    ],
+    "May-23": [
+     3000.0,
+     2.73
+    ]
+   },
+   {
+    "name": "$2,250, 2.80%, due April 2027",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     2.87
+    ],
+    "May-23": [
+     2250.0,
+     2.87
+    ]
+   },
+   {
+    "name": "$2,750, 3.25%, due November 2027",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2750.0,
+     3.29
+    ],
+    "May-23": [
+     2750.0,
+     3.29
+    ]
+   },
+   {
+    "name": "$2,000, 2.30%, due March 2028",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2000.0,
+     2.36
+    ],
+    "May-23": [
+     2000.0,
+     2.36
+    ]
+   },
+   {
+    "name": "$750, 4.50%, due May 2028",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     750.0,
+     4.6
+    ],
+    "May-23": [
+     750.0,
+     4.6
+    ]
+   },
+   {
+    "name": "$1,250, 6.15%, due November 2029",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     6.21
+    ],
+    "May-23": [
+     1250.0,
+     6.21
+    ]
+   },
+   {
+    "name": "$3,250, 2.95%, due April 2030",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3250.0,
+     3.0
+    ],
+    "May-23": [
+     3250.0,
+     3.0
+    ]
+   },
+   {
+    "name": "$750, 4.65%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     750.0,
+     4.75
+    ],
+    "May-23": [
+     750.0,
+     4.75
+    ]
+   },
+   {
+    "name": "$500, 3.25%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     500.0,
+     3.35
+    ],
+    "May-23": [
+     500.0,
+     3.35
+    ]
+   },
+   {
+    "name": "$3,250, 2.875%, due March 2031",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3250.0,
+     2.92
+    ],
+    "May-23": [
+     3250.0,
+     2.92
+    ]
+   },
+   {
+    "name": "$2,250, 6.25%, due November 2032",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     6.32
+    ],
+    "May-23": [
+     2250.0,
+     6.32
+    ]
+   },
+   {
+    "name": "$1,500, 4.90%, due February 2033",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1500.0,
+     4.95
+    ],
+    "May-23": [
+     1500.0,
+     4.95
+    ]
+   },
+   {
+    "name": "$1,750, 4.30%, due July 2034",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1750.0,
+     4.3
+    ],
+    "May-23": [
+     1750.0,
+     4.3
+    ]
+   },
+   {
+    "name": "$1,250, 3.90%, due May 2035",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     4.0
+    ],
+    "May-23": [
+     1250.0,
+     4.0
+    ]
+   },
+   {
+    "name": "$1,250, 3.85%, due July 2036",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     3.89
+    ],
+    "May-23": [
+     1250.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,750, 3.80%, due November 2037",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1750.0,
+     3.86
+    ],
+    "May-23": [
+     1750.0,
+     3.86
+    ]
+   },
+   {
+    "name": "$1,250, 6.50%, due April 2038",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     6.51
+    ],
+    "May-23": [
+     1250.0,
+     6.51
+    ]
+   },
+   {
+    "name": "$1,250, 6.125%, due July 2039",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     6.17
+    ],
+    "May-23": [
+     1250.0,
+     6.17
+    ]
+   },
+   {
+    "name": "$3,000, 3.60%, due April 2040",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3000.0,
+     3.64
+    ],
+    "May-23": [
+     3000.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$2,250, 5.375%, due July 2040",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     5.45
+    ],
+    "May-23": [
+     2250.0,
+     5.45
+    ]
+   },
+   {
+    "name": "$2,250, 3.65%, due March 2041",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     3.72
+    ],
+    "May-23": [
+     2250.0,
+     3.72
+    ]
+   },
+   {
+    "name": "$1,000, 4.50%, due July 2044",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1000.0,
+     4.5
+    ],
+    "May-23": [
+     1000.0,
+     4.5
+    ]
+   },
+   {
+    "name": "$2,000, 4.125%, due May 2045",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2000.0,
+     4.2
+    ],
+    "May-23": [
+     2000.0,
+     4.2
+    ]
+   },
+   {
+    "name": "$3,000, 4.00%, due July 2046",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3000.0,
+     4.03
+    ],
+    "May-23": [
+     3000.0,
+     4.03
+    ]
+   },
+   {
+    "name": "$2,250, 4.00%, due November 2047",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     4.05
+    ],
+    "May-23": [
+     2250.0,
+     4.05
+    ]
+   },
+   {
+    "name": "$4,500, 3.60%, due April 2050",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     4500.0,
+     3.64
+    ],
+    "May-23": [
+     4500.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$3,250, 3.95%, due March 2051",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3250.0,
+     3.98
+    ],
+    "May-23": [
+     3250.0,
+     3.98
+    ]
+   },
+   {
+    "name": "$2,500, 6.90%, due November 2052",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2500.0,
+     6.94
+    ],
+    "May-23": [
+     2500.0,
+     6.94
+    ]
+   },
+   {
+    "name": "$2,250, 5.55%, due February 2053",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     2250.0,
+     5.62
+    ],
+    "May-23": [
+     2250.0,
+     5.62
+    ]
+   },
+   {
+    "name": "$1,250, 4.375%, due May 2055",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1250.0,
+     4.44
+    ],
+    "May-23": [
+     1250.0,
+     4.44
+    ]
+   },
+   {
+    "name": "$3,500, 3.85%, due April 2060",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     3500.0,
+     3.89
+    ],
+    "May-23": [
+     3500.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,500, 4.10%, due March 2061",
+    "cat": "Senior notes (fixed)",
+    "May-24": [
+     1500.0,
+     4.13
+    ],
+    "May-23": [
+     1500.0,
+     4.13
+    ]
+   },
+   {
+    "name": "$790, SOFR plus 1.70%, due August 2025(3)",
+    "cat": "Term loans",
+    "May-24": [
+     790.0,
+     6.99
+    ],
+    "May-23": [
+     790.0,
+     5.68
+    ]
+   },
+   {
+    "name": "$170, SOFR plus 1.70%, due August 2025",
+    "cat": "Term loans",
+    "May-24": [
+     170.0,
+     6.98
+    ],
+    "May-23": [
+     170.0,
+     6.16
+    ]
+   },
+   {
+    "name": "$3,570, SOFR plus 1.70%, due August 2027(3)",
+    "cat": "Term loans",
+    "May-24": [
+     3570.0,
+     6.99
+    ],
+    "May-23": [
+     3570.0,
+     5.68
+    ]
+   },
+   {
+    "name": "$1,100, SOFR plus 1.70%, due August 2027",
+    "cat": "Term loans",
+    "May-24": [
+     1100.0,
+     6.98
+    ],
+    "May-23": [
+     1100.0,
+     6.16
+    ]
+   },
+   {
+    "name": "Commercial paper notes",
+    "cat": "Commercial paper",
+    "May-24": [
+     401.0,
+     5.43
+    ],
+    "May-23": [
+     563.0,
+     4.89
+    ]
+   },
+   {
+    "name": "Other borrowings due August 2025",
+    "cat": "Other",
+    "May-24": [
+     113.0,
+     3.53
+    ],
+    "May-23": [
+     113.0,
+     3.53
+    ]
+   }
+  ]
+ },
+ "k_fy25__orcl-20250531.htm.txt": {
+  "cur": "May-25",
+  "pri": "May-24",
+  "rows": [
+   {
+    "name": "$2,000, 3.40%, due July 2024",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     2000.0,
+     3.43
+    ]
+   },
+   {
+    "name": "$2,000, 2.95%, due November 2024",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     2000.0,
+     3.01
+    ]
+   },
+   {
+    "name": "$3,500, 2.50%, due April 2025",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     3500.0,
+     2.54
+    ]
+   },
+   {
+    "name": "$2,500, 2.95%, due May 2025",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     2500.0,
+     3.05
+    ]
+   },
+   {
+    "name": "\u20ac750, 3.125%, due July 2025(1)(2)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     841.0,
+     3.17
+    ],
+    "May-24": [
+     808.0,
+     3.17
+    ]
+   },
+   {
+    "name": "$1,000, 5.80%, due November 2025",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1000.0,
+     5.93
+    ],
+    "May-24": [
+     1000.0,
+     5.93
+    ]
+   },
+   {
+    "name": "$2,750, 1.65%, due March 2026",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2750.0,
+     1.67
+    ],
+    "May-24": [
+     2750.0,
+     1.67
+    ]
+   },
+   {
+    "name": "$3,000, 2.65%, due July 2026",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3000.0,
+     2.73
+    ],
+    "May-24": [
+     3000.0,
+     2.73
+    ]
+   },
+   {
+    "name": "$2,250, 2.80%, due April 2027",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     2.87
+    ],
+    "May-24": [
+     2250.0,
+     2.87
+    ]
+   },
+   {
+    "name": "$2,750, 3.25%, due November 2027",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2750.0,
+     3.29
+    ],
+    "May-24": [
+     2750.0,
+     3.29
+    ]
+   },
+   {
+    "name": "$2,000, 2.30%, due March 2028",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2000.0,
+     2.36
+    ],
+    "May-24": [
+     2000.0,
+     2.36
+    ]
+   },
+   {
+    "name": "$750, 4.50%, due May 2028",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     750.0,
+     4.6
+    ],
+    "May-24": [
+     750.0,
+     4.6
+    ]
+   },
+   {
+    "name": "$1,500, 4.80%, due August 2028(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1500.0,
+     4.94
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,500, 4.20%, due September 2029(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1500.0,
+     4.27
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,250, 6.15%, due November 2029",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     6.21
+    ],
+    "May-24": [
+     1250.0,
+     6.21
+    ]
+   },
+   {
+    "name": "$3,250, 2.95%, due April 2030",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3250.0,
+     3.0
+    ],
+    "May-24": [
+     3250.0,
+     3.0
+    ]
+   },
+   {
+    "name": "$750, 4.65%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     750.0,
+     4.75
+    ],
+    "May-24": [
+     750.0,
+     4.75
+    ]
+   },
+   {
+    "name": "$500, 3.25%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     500.0,
+     3.35
+    ],
+    "May-24": [
+     500.0,
+     3.35
+    ]
+   },
+   {
+    "name": "$3,250, 2.875%, due March 2031",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3250.0,
+     2.92
+    ],
+    "May-24": [
+     3250.0,
+     2.92
+    ]
+   },
+   {
+    "name": "$1,250, 5.25%, due February 2032(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     5.36
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$2,250, 6.25%, due November 2032",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     6.32
+    ],
+    "May-24": [
+     2250.0,
+     6.32
+    ]
+   },
+   {
+    "name": "$1,500, 4.90%, due February 2033",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1500.0,
+     4.95
+    ],
+    "May-24": [
+     1500.0,
+     4.95
+    ]
+   },
+   {
+    "name": "$1,750, 4.30%, due July 2034",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     4.3
+    ],
+    "May-24": [
+     1750.0,
+     4.3
+    ]
+   },
+   {
+    "name": "$1,750, 4.70%, due September 2034(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     4.77
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,250, 3.90%, due May 2035",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     4.0
+    ],
+    "May-24": [
+     1250.0,
+     4.0
+    ]
+   },
+   {
+    "name": "$1,750, 5.50%, due August 2035(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     5.55
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,250, 3.85%, due July 2036",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     3.89
+    ],
+    "May-24": [
+     1250.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,750, 3.80%, due November 2037",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     3.86
+    ],
+    "May-24": [
+     1750.0,
+     3.86
+    ]
+   },
+   {
+    "name": "$1,250, 6.50%, due April 2038",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     6.51
+    ],
+    "May-24": [
+     1250.0,
+     6.51
+    ]
+   },
+   {
+    "name": "$1,250, 6.125%, due July 2039",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     6.17
+    ],
+    "May-24": [
+     1250.0,
+     6.17
+    ]
+   },
+   {
+    "name": "$3,000, 3.60%, due April 2040",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3000.0,
+     3.64
+    ],
+    "May-24": [
+     3000.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$2,250, 5.375%, due July 2040",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     5.45
+    ],
+    "May-24": [
+     2250.0,
+     5.45
+    ]
+   },
+   {
+    "name": "$2,250, 3.65%, due March 2041",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     3.72
+    ],
+    "May-24": [
+     2250.0,
+     3.72
+    ]
+   },
+   {
+    "name": "$1,000, 4.50%, due July 2044",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1000.0,
+     4.5
+    ],
+    "May-24": [
+     1000.0,
+     4.5
+    ]
+   },
+   {
+    "name": "$2,000, 4.125%, due May 2045",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2000.0,
+     4.2
+    ],
+    "May-24": [
+     2000.0,
+     4.2
+    ]
+   },
+   {
+    "name": "$3,000, 4.00%, due July 2046",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3000.0,
+     4.03
+    ],
+    "May-24": [
+     3000.0,
+     4.03
+    ]
+   },
+   {
+    "name": "$2,250, 4.00%, due November 2047",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     4.05
+    ],
+    "May-24": [
+     2250.0,
+     4.05
+    ]
+   },
+   {
+    "name": "$4,500, 3.60%, due April 2050",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     4500.0,
+     3.64
+    ],
+    "May-24": [
+     4500.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$3,250, 3.95%, due March 2051",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3250.0,
+     3.98
+    ],
+    "May-24": [
+     3250.0,
+     3.98
+    ]
+   },
+   {
+    "name": "$2,500, 6.90%, due November 2052",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2500.0,
+     6.94
+    ],
+    "May-24": [
+     2500.0,
+     6.94
+    ]
+   },
+   {
+    "name": "$2,250, 5.55%, due February 2053",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     2250.0,
+     5.62
+    ],
+    "May-24": [
+     2250.0,
+     5.62
+    ]
+   },
+   {
+    "name": "$1,750, 5.375%, due September 2054(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     5.43
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,250, 4.375%, due May 2055",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     4.44
+    ],
+    "May-24": [
+     1250.0,
+     4.44
+    ]
+   },
+   {
+    "name": "$1,750, 6.00%, due August 2055(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1750.0,
+     6.04
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$3,500, 3.85%, due April 2060",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     3500.0,
+     3.89
+    ],
+    "May-24": [
+     3500.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,500, 4.10%, due March 2061",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1500.0,
+     4.13
+    ],
+    "May-24": [
+     1500.0,
+     4.13
+    ]
+   },
+   {
+    "name": "$1,250, 5.50%, due September 2064(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1250.0,
+     5.55
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,000, 6.125%, due August 2065(4)",
+    "cat": "Senior notes (fixed)",
+    "May-25": [
+     1000.0,
+     6.17
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$500, Compounded SOFR plus 0.76%, due August 2028(4)",
+    "cat": "Floating-rate notes",
+    "May-25": [
+     500.0,
+     5.28
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$790, SOFR plus 1.70%, due August 2025(3)",
+    "cat": "Term loans",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     790.0,
+     6.99
+    ]
+   },
+   {
+    "name": "$170, SOFR plus 1.70%, due August 2025",
+    "cat": "Term loans",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     170.0,
+     6.98
+    ]
+   },
+   {
+    "name": "$3,570, SOFR plus 1.70%, due August 2027(3)",
+    "cat": "Term loans",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     3570.0,
+     6.99
+    ]
+   },
+   {
+    "name": "$1,100, SOFR plus 1.70%, due August 2027",
+    "cat": "Term loans",
+    "May-25": [
+     null,
+     null
+    ],
+    "May-24": [
+     1100.0,
+     6.98
+    ]
+   },
+   {
+    "name": "$5,630, SOFR plus 1.35%, due August 2027(3)",
+    "cat": "Term loans",
+    "May-25": [
+     5419.0,
+     6.1
+    ],
+    "May-24": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "Commercial paper notes",
+    "cat": "Commercial paper",
+    "May-25": [
+     2294.0,
+     4.88
+    ],
+    "May-24": [
+     401.0,
+     5.43
+    ]
+   },
+   {
+    "name": "Other borrowings due August 2025",
+    "cat": "Other",
+    "May-25": [
+     113.0,
+     3.53
+    ],
+    "May-24": [
+     113.0,
+     3.53
+    ]
+   }
+  ]
+ },
+ "k_fy26__orcl-20260531.htm.txt": {
+  "cur": "May-26",
+  "pri": "May-25",
+  "rows": [
+   {
+    "name": "\u20ac750, 3.125%, due July 2025(1)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     null,
+     null
+    ],
+    "May-25": [
+     841.0,
+     3.17
+    ]
+   },
+   {
+    "name": "$1,000, 5.80%, due November 2025",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     null,
+     null
+    ],
+    "May-25": [
+     1000.0,
+     5.93
+    ]
+   },
+   {
+    "name": "$2,750, 1.65%, due March 2026",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     null,
+     null
+    ],
+    "May-25": [
+     2750.0,
+     1.67
+    ]
+   },
+   {
+    "name": "$3,000, 2.65%, due July 2026",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     2.73
+    ],
+    "May-25": [
+     3000.0,
+     2.73
+    ]
+   },
+   {
+    "name": "$2,250, 2.80%, due April 2027",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     2.87
+    ],
+    "May-25": [
+     2250.0,
+     2.87
+    ]
+   },
+   {
+    "name": "$2,750, 3.25%, due November 2027",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2750.0,
+     3.29
+    ],
+    "May-25": [
+     2750.0,
+     3.29
+    ]
+   },
+   {
+    "name": "$2,000, 2.30%, due March 2028",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2000.0,
+     2.36
+    ],
+    "May-25": [
+     2000.0,
+     2.36
+    ]
+   },
+   {
+    "name": "$750, 4.50%, due May 2028",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     750.0,
+     4.6
+    ],
+    "May-25": [
+     750.0,
+     4.6
+    ]
+   },
+   {
+    "name": "$1,500, 4.80%, due August 2028",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1500.0,
+     4.94
+    ],
+    "May-25": [
+     1500.0,
+     4.94
+    ]
+   },
+   {
+    "name": "$3,000, 4.55%, due February 2029(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     4.74
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,500, 4.20%, due September 2029",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1500.0,
+     4.27
+    ],
+    "May-25": [
+     1500.0,
+     4.27
+    ]
+   },
+   {
+    "name": "$1,250, 6.15%, due November 2029",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     6.21
+    ],
+    "May-25": [
+     1250.0,
+     6.21
+    ]
+   },
+   {
+    "name": "$3,250, 2.95%, due April 2030",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3250.0,
+     3.0
+    ],
+    "May-25": [
+     3250.0,
+     3.0
+    ]
+   },
+   {
+    "name": "$750, 4.65%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     750.0,
+     4.75
+    ],
+    "May-25": [
+     750.0,
+     4.75
+    ]
+   },
+   {
+    "name": "$500, 3.25%, due May 2030",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     500.0,
+     3.35
+    ],
+    "May-25": [
+     500.0,
+     3.35
+    ]
+   },
+   {
+    "name": "$3,000, 4.45%, due September 2030(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     4.55
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$3,500, 4.95%, due February 2031(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3500.0,
+     5.08
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$3,250, 2.875%, due March 2031",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3250.0,
+     2.92
+    ],
+    "May-25": [
+     3250.0,
+     2.92
+    ]
+   },
+   {
+    "name": "$1,250, 5.25%, due February 2032",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     5.36
+    ],
+    "May-25": [
+     1250.0,
+     5.36
+    ]
+   },
+   {
+    "name": "$3,000, 4.80%, due September 2032(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     4.87
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$2,250, 6.25%, due November 2032",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     6.32
+    ],
+    "May-25": [
+     2250.0,
+     6.32
+    ]
+   },
+   {
+    "name": "$1,500, 4.90%, due February 2033",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1500.0,
+     4.95
+    ],
+    "May-25": [
+     1500.0,
+     4.95
+    ]
+   },
+   {
+    "name": "$3,000, 5.35%, due May 2033(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     5.42
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,750, 4.30%, due July 2034",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     4.3
+    ],
+    "May-25": [
+     1750.0,
+     4.3
+    ]
+   },
+   {
+    "name": "$1,750, 4.70%, due September 2034",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     4.77
+    ],
+    "May-25": [
+     1750.0,
+     4.77
+    ]
+   },
+   {
+    "name": "$1,250, 3.90%, due May 2035",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     4.0
+    ],
+    "May-25": [
+     1250.0,
+     4.0
+    ]
+   },
+   {
+    "name": "$1,750, 5.50%, due August 2035",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     5.55
+    ],
+    "May-25": [
+     1750.0,
+     5.55
+    ]
+   },
+   {
+    "name": "$4,000, 5.20%, due September 2035(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     4000.0,
+     5.25
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$5,000, 5.70%, due February 2036(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     5000.0,
+     5.78
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$1,250, 3.85%, due July 2036",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     3.89
+    ],
+    "May-25": [
+     1250.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,750, 3.80%, due November 2037",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     3.86
+    ],
+    "May-25": [
+     1750.0,
+     3.86
+    ]
+   },
+   {
+    "name": "$1,250, 6.50%, due April 2038",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     6.51
+    ],
+    "May-25": [
+     1250.0,
+     6.51
+    ]
+   },
+   {
+    "name": "$1,250, 6.125%, due July 2039",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     6.17
+    ],
+    "May-25": [
+     1250.0,
+     6.17
+    ]
+   },
+   {
+    "name": "$3,000, 3.60%, due April 2040",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     3.64
+    ],
+    "May-25": [
+     3000.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$2,250, 5.375%, due July 2040",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     5.45
+    ],
+    "May-25": [
+     2250.0,
+     5.45
+    ]
+   },
+   {
+    "name": "$2,250, 3.65%, due March 2041",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     3.72
+    ],
+    "May-25": [
+     2250.0,
+     3.72
+    ]
+   },
+   {
+    "name": "$1,000, 4.50%, due July 2044",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1000.0,
+     4.5
+    ],
+    "May-25": [
+     1000.0,
+     4.5
+    ]
+   },
+   {
+    "name": "$2,000, 4.125%, due May 2045",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2000.0,
+     4.2
+    ],
+    "May-25": [
+     2000.0,
+     4.2
+    ]
+   },
+   {
+    "name": "$2,500, 5.875%, due September 2045(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2500.0,
+     5.91
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$2,250, 6.55%, due February 2046(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     6.59
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$3,000, 4.00%, due July 2046",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3000.0,
+     4.03
+    ],
+    "May-25": [
+     3000.0,
+     4.03
+    ]
+   },
+   {
+    "name": "$2,250, 4.00%, due November 2047",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     4.05
+    ],
+    "May-25": [
+     2250.0,
+     4.05
+    ]
+   },
+   {
+    "name": "$4,500, 3.60%, due April 2050",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     4500.0,
+     3.64
+    ],
+    "May-25": [
+     4500.0,
+     3.64
+    ]
+   },
+   {
+    "name": "$3,250, 3.95%, due March 2051",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3250.0,
+     3.98
+    ],
+    "May-25": [
+     3250.0,
+     3.98
+    ]
+   },
+   {
+    "name": "$2,500, 6.90%, due November 2052",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2500.0,
+     6.94
+    ],
+    "May-25": [
+     2500.0,
+     6.94
+    ]
+   },
+   {
+    "name": "$2,250, 5.55%, due February 2053",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2250.0,
+     5.62
+    ],
+    "May-25": [
+     2250.0,
+     5.62
+    ]
+   },
+   {
+    "name": "$1,750, 5.375%, due September 2054",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     5.43
+    ],
+    "May-25": [
+     1750.0,
+     5.43
+    ]
+   },
+   {
+    "name": "$1,250, 4.375%, due May 2055",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     4.44
+    ],
+    "May-25": [
+     1250.0,
+     4.44
+    ]
+   },
+   {
+    "name": "$1,750, 6.00%, due August 2055",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1750.0,
+     6.04
+    ],
+    "May-25": [
+     1750.0,
+     6.04
+    ]
+   },
+   {
+    "name": "$3,500, 5.95%, due September 2055(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3500.0,
+     6.05
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$5,000, 6.70%, due February 2056(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     5000.0,
+     6.74
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$3,500, 3.85%, due April 2060",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     3500.0,
+     3.89
+    ],
+    "May-25": [
+     3500.0,
+     3.89
+    ]
+   },
+   {
+    "name": "$1,500, 4.10%, due March 2061",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1500.0,
+     4.13
+    ],
+    "May-25": [
+     1500.0,
+     4.13
+    ]
+   },
+   {
+    "name": "$1,250, 5.50%, due September 2064",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1250.0,
+     5.55
+    ],
+    "May-25": [
+     1250.0,
+     5.55
+    ]
+   },
+   {
+    "name": "$1,000, 6.125%, due August 2065",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     1000.0,
+     6.17
+    ],
+    "May-25": [
+     1000.0,
+     6.17
+    ]
+   },
+   {
+    "name": "$2,000, 6.10%, due September 2065(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2000.0,
+     6.17
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$2,750, 6.85%, due February 2066(3)",
+    "cat": "Senior notes (fixed)",
+    "May-26": [
+     2750.0,
+     6.89
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$500, Compounded SOFR plus 0.76%, due August 2028",
+    "cat": "Floating-rate notes",
+    "May-26": [
+     500.0,
+     4.43
+    ],
+    "May-25": [
+     500.0,
+     5.28
+    ]
+   },
+   {
+    "name": "$500, Compounded SOFR plus 1.11%, due February 2029(3)",
+    "cat": "Floating-rate notes",
+    "May-26": [
+     500.0,
+     4.78
+    ],
+    "May-25": [
+     null,
+     null
+    ]
+   },
+   {
+    "name": "$5,630, SOFR plus 1.35%, due August 2027(2)",
+    "cat": "Term loans",
+    "May-26": [
+     5137.0,
+     5.29
+    ],
+    "May-25": [
+     5419.0,
+     6.1
+    ]
+   },
+   {
+    "name": "Commercial paper notes",
+    "cat": "Commercial paper",
+    "May-26": [
+     1468.0,
+     4.35
+    ],
+    "May-25": [
+     2294.0,
+     4.88
+    ]
+   },
+   {
+    "name": "Other borrowings due August 2025",
+    "cat": "Other",
+    "May-26": [
+     null,
+     null
+    ],
+    "May-25": [
+     113.0,
+     3.53
+    ]
+   }
+  ]
+ }
+}

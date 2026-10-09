@@ -1,0 +1,16 @@
+monarch_wv 2025-07-01 none
+monarch_wv 2025-08-31 218.16 4.54
+monarch_wv 2025-09-12 71.77 3.16
+monarch_wv 2025-10-05 181.29 3.55
+monarch_wv 2025-11-06 220.13 5.94
+monarch_wv 2025-12-01 none
+monarch_wv 2026-01-01 none
+monarch_wv 2026-02-01 none
+monarch_wv 2026-03-09 151.7 6.54
+monarch_wv 2026-04-08 119.28 5.87
+monarch_wv 2026-05-28 134.31 8.18
+monarch_wv 2026-06-02 226.91 10.24
+monarch_wv 2026-07-14 270.76 11.35
+monarch_wv 2026-08-25 167.8 15.15
+monarch_wv 2026-09-25 181.85 5.79
+monarch_wv 2026-10-01 none

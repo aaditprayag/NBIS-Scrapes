@@ -1,0 +1,168 @@
+                                                                                 Tripolis Park,
+                                                                                 Burgerweeshuispad 101,
+                                                                                 1076 ES Amsterdam
+
+
+
+
+Nebius to construct 310
+MW AI factory in Finland
+● New Lappeenranta facility will be one of Europe’s largest deployments of AI
+  compute
+
+● Contributes to Nebius’s 2026 target of securing more than 3 GW of contracted
+  power
+
+Amsterdam, March 31, 2026 — Nebius, the AI cloud company, today announced
+the construction of a new AI factory in the Finnish city of Lappeenranta with
+capacity of up to 310 MW.
+
+The first capacity from the Lappeenranta AI factory is expected to be available to
+customers in 2027, and it will be one of Europe’s largest dedicated AI factories
+when fully deployed.
+
+The construction of the Lappeenranta AI factory follows Nebius’s recent expansion
+of its first Finnish data center in Mäntsälä up to 75 MW, completed earlier this year.
+The company plans to expand further in Finland in future as it continues its global
+capacity build-out.
+
+Arkady Volozh, founder and CEO of Nebius, said:
+
+“We have been building in Finland for many years and are pleased to be
+expanding our presence here. Lappeenranta represents a significant addition to
+our global AI infrastructure build-out, and will make a significant contribution to
+achieving our capacity goals.”
+
+Nebius is building one of the largest footprints of purpose-built AI compute globally,
+and is targeting more than 3 GW of contracted power by the end of 2026. As part
+of this, the company recently secured approval for its first gigawatt-scale AI factory
+in Independence, Missouri.
+
+In the EMEA region, the company has already secured more than 750 MW of
+contracted power across its own sites and colocations. In addition to its Finnish
+locations, Nebius is building an AI factory near Lille, France, that will have capacity
+of 240 MW when fully deployed.
+
+
+                                                                                                          1
+As global demand for high-performance compute for AI training and inference
+continues to accelerate, Nebius’s AI factories will serve AI builders with the latest
+Blackwell and Rubin generations of NVIDIA accelerated compute. The Mäntsälä
+facility houses Europe’s first operational deployment of the NVIDIA GB300 NVL72
+platform, and Nebius intends to offer the NVIDIA Vera Rubin NVL72 platform
+starting later this year.
+
+The Lappeenranta AI factory is a multi-building campus on a ca. 100-acre
+industrial site, and will bring substantial economic and employment benefits to the
+South Karelia region of Finland. The construction phase is expected to create up to
+700 skilled construction jobs, mostly sourced in the Lappeenranta area, with
+around 100 permanent positions once the data center is operational, as well as
+hundreds of indirect employment opportunities for operations and maintenance.
+
+City of Lappeenranta Mayor Tuomo Sallinen welcomed the announcement:
+
+“Lappeenranta offers an increasingly attractive environment for innovation, with our
+universities playing a key role in developing top talent tailored to the needs of high-
+tech industries. The new data center will position our city at the forefront of
+Finland’s AI ecosystem and help meet Europe’s growing demand for artificial
+intelligence for decades to come. We’re proud that this project is being realized in
+Lappeenranta and in Finland, built sustainably on clean energy and driven largely
+by Finnish expertise.”
+
+Nebius is actively exploring partnerships with local academic institutions via Nebius
+Academy to upskill local residents in AI expertise, develop the talent pipeline, and
+support long-term innovation and economic development in the region.
+
+Sustainability will be a key design principle for the Lappeenranta AI factory,
+building on Nebius’s track record Mäntsälä, where its data center design ranks
+among the most energy-efficient facilities globally. Electricity sourcing will reflect
+Nebius’s predominantly low-carbon energy mix.
+
+Servers will be cooled using a closed-loop liquid cooling system, eliminating the
+need for the AI factory to rely on water intake from local supplies and thus keeping
+water consumption to a minimum. As in Mäntsälä, the cooling system will be
+designed to integrate a heat recovery system, opening the opportunity for excess
+server heat to be donated to the local district heating network. In Mäntsälä, this
+approach avoided approximately 4,000 tonnes of CO₂e emissions associated with
+heat production in 2025 and reduced heating costs for connected households by
+around 10%.
+
+
+
+
+                                                                                          2
+About Nebius
+Nebius, the AI cloud company, is building the full-stack platform for developers and
+companies to take charge of their AI future — from data and model training to
+production deployment. Founded on deep in-house technological expertise and
+operating at scale with a rapidly expanding global footprint, Nebius serves startups
+and enterprises building AI products, agents, and services worldwide.
+
+Nebius is listed on Nasdaq (NASDAQ: NBIS) and headquartered in Amsterdam.
+
+For more information please visit www.nebius.com
+
+
+
+Contacts
+Media relations: media@nebius.com
+
+Investor relations: askIR@nebius.com
+
+
+
+Disclaimer
+Forward-looking statements
+
+This press release contains forward-looking statements within the meaning of the
+Private Securities Litigation Reform Act of 1995, which involve risks and
+uncertainties. All statements contained in this press release other than statements
+of historical fact, including, without limitation, statements regarding our future
+financial and business performance, strategy, expected growth, planned
+investments and capital expenditures, capacity expansion plans, anticipated future
+financing transactions and expected financial results, are forward-looking
+statements. The words “anticipate, ” “believe, ” “continue, ” “estimate, ” “expect, ”
+“guide, ” “intend, ” “likely, ” “may, ” “will” and similar expressions and their
+negatives are intended to identify forward-looking statements.
+
+These forward-looking statements are subject to risks, uncertainties and
+assumptions, some of which are beyond our control. Actual results may differ
+materially from the results predicted or implied by such statements, and our
+reported results should not be considered as an indication of future performance.
+The potential risks and uncertainties that could cause actual results to differ from
+the results predicted or implied by such statements include, among others: market,
+macroeconomic and geopolitical conditions; our ability to build, operate and
+manage our businesses to the desired scale; competitive pressures; technological
+developments; our ability to secure and retain clients; our ability to secure
+additional capital to enable the growth of the business; our ability to develop,
+construct, operate and deliver data center capacity on a timely basis; the
+
+                                                                                        3
+availability of and authorization to use sufficient and reliable power; unpredictable
+sales cycles; and potential pricing pressures; as well as those risks and
+uncertainties related to our continuing businesses included under the captions
+“Risk Factors” and “Operating and Financial Review and Prospects” in our Annual
+Report on Form 20-F for the year ended December 31, 2024, filed with the SEC on
+April 30, 2025, which is available on our investor relations website at
+https://nebius.com/investor-hub and on the SEC website at www.sec.gov.
+
+All information in this press release is as of the date hereof (unless stated
+otherwise). Except as required by law, we undertake no obligation to update or
+revise publicly any forward-looking statements, whether as a result of new
+information, future events or otherwise, after the date on which the statements are
+made or to reflect the occurrence of unanticipated events.
+
+In addition, statements that “we believe” and similar statements reflect our beliefs
+and opinions on the relevant subject. These statements are based upon
+information available to us as of the date hereof and, while we believe such
+information forms a reasonable basis for such statements, such information may
+be limited or incomplete, and our statements should not be read to indicate that we
+have conducted an exhaustive inquiry into, or review of, all potentially available
+relevant information. These statements are inherently uncertain, and investors are
+cautioned not to unduly rely upon these statements.
+
+
+
+
+                                                                                        4
+

@@ -1,0 +1,159 @@
+provider,chip,config,pricing_type,term,quoted_price,quoted_unit,usd_per_gpu_hr,region,notes,source_url,retrieved_date
+Nebius,GB300 NVL72,NVIDIA GB300 NVL72,on-demand,hourly,Contact us,n/a,,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,B300,NVIDIA HGX B300,on-demand,hourly,9.5,$/GPU-hour,9.5,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,B300,NVIDIA HGX B300,"on-demand (superseded, prior column)",hourly,7.85,$/GPU-hour,7.85,Not stated,Prior column; excluded from stats.,https://nebius.com/prices,2026-10-08
+Nebius,GB200 NVL72,NVIDIA GB200 NVL72,on-demand,hourly,Contact us,n/a,,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,B200,NVIDIA HGX B200,on-demand,hourly,8.5,$/GPU-hour,8.5,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,B200,NVIDIA HGX B200,"on-demand (superseded, prior column)",hourly,7.15,$/GPU-hour,7.15,Not stated,Prior column; excluded from stats.,https://nebius.com/prices,2026-10-08
+Nebius,H200,NVIDIA HGX H200,on-demand,hourly,5.4,$/GPU-hour,5.4,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,H200,NVIDIA HGX H200,"on-demand (superseded, prior column)",hourly,4.5,$/GPU-hour,4.5,Not stated,Prior column; excluded from stats.,https://nebius.com/prices,2026-10-08
+Nebius,H100,NVIDIA HGX H100,on-demand,hourly,4.5,$/GPU-hour,4.5,Not stated,"Current = ""Effective Oct 1, 2026"" column",https://nebius.com/prices,2026-10-08
+Nebius,H100,NVIDIA HGX H100,"on-demand (superseded, prior column)",hourly,3.85,$/GPU-hour,3.85,Not stated,Prior column; excluded from stats.,https://nebius.com/prices,2026-10-08
+Nebius,B300,NVIDIA HGX B300 preemptible,spot/preemptible,dynamic,from $0.99,$/GPU-hour (floor),0.99,Not stated,Spot floor; dynamic.,https://nebius.com/prices,2026-10-08
+Nebius,B200,NVIDIA HGX B200 preemptible,spot/preemptible,dynamic,from $0.99,$/GPU-hour (floor),0.99,Not stated,Spot floor; dynamic.,https://nebius.com/prices,2026-10-08
+Nebius,H200,NVIDIA HGX H200 preemptible,spot/preemptible,dynamic,from $0.79,$/GPU-hour (floor),0.79,Not stated,Spot floor; dynamic.,https://nebius.com/prices,2026-10-08
+Nebius,H100,NVIDIA HGX H100 preemptible,spot/preemptible,dynamic,from $0.79,$/GPU-hour (floor),0.79,Not stated,Spot floor; dynamic.,https://nebius.com/prices,2026-10-08
+CoreWeave,GB300 NVL72,GB300 NVL72 instance (4 GPUs),on-demand,hourly,Contact sales,n/a,,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,GB200 NVL72,GB200 NVL72 instance (4 GPUs),on-demand,hourly,42.0,$/instance-hour (4 GPUs),10.5,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B300,HGX B300 instance (8 GPUs),on-demand,hourly,Contact sales,n/a,,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B300,HGX B300 instance (8 GPUs),spot/preemptible,hourly,35.84,$/instance-hour (8 GPUs),4.48,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B200,HGX B200 instance (8 GPUs),on-demand,hourly,68.8,$/instance-hour (8 GPUs),8.6,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B200,HGX B200 instance (8 GPUs),spot/preemptible,hourly,34.11,$/instance-hour (8 GPUs),4.2637,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H100,HGX H100 instance (8 GPUs),on-demand,hourly,49.24,$/instance-hour (8 GPUs),6.155,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H100,HGX H100 instance (8 GPUs),spot/preemptible,hourly,19.71,$/instance-hour (8 GPUs),2.4638,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H200,HGX H200 instance (8 GPUs),on-demand,hourly,50.44,$/instance-hour (8 GPUs),6.305,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H200,HGX H200 instance (8 GPUs),spot/preemptible,hourly,20.93,$/instance-hour (8 GPUs),2.6162,North America,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,GB300 NVL72,GB300 NVL72 instance (4 GPUs),on-demand,hourly,Contact sales,n/a,,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,GB200 NVL72,GB200 NVL72 instance (4 GPUs),on-demand,hourly,42.0,$/instance-hour (4 GPUs),10.5,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B300,HGX B300 instance (8 GPUs),on-demand,hourly,Contact sales,n/a,,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B300,HGX B300 instance (8 GPUs),spot/preemptible,hourly,36.7,$/instance-hour (8 GPUs),4.5875,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B200,HGX B200 instance (8 GPUs),on-demand,hourly,68.8,$/instance-hour (8 GPUs),8.6,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,B200,HGX B200 instance (8 GPUs),spot/preemptible,hourly,34.87,$/instance-hour (8 GPUs),4.3587,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H100,HGX H100 instance (8 GPUs),on-demand,hourly,49.24,$/instance-hour (8 GPUs),6.155,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H100,HGX H100 instance (8 GPUs),spot/preemptible,hourly,19.51,$/instance-hour (8 GPUs),2.4388,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H200,HGX H200 instance (8 GPUs),on-demand,hourly,50.44,$/instance-hour (8 GPUs),6.305,Europe,,https://www.coreweave.com/pricing,2026-10-08
+CoreWeave,H200,HGX H200 instance (8 GPUs),spot/preemptible,hourly,20.64,$/instance-hour (8 GPUs),2.58,Europe,,https://www.coreweave.com/pricing,2026-10-08
+Lambda,B200,B200 SXM6 instance (208 vCPU),on-demand,hourly,6.69,$/GPU-hour,6.69,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,H100 SXM instance (208 vCPU),on-demand,hourly,3.99,$/GPU-hour,3.99,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,B200 SXM6 instance (104 vCPU),on-demand,hourly,6.79,$/GPU-hour,6.79,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,H100 SXM instance (104 vCPU),on-demand,hourly,4.09,$/GPU-hour,4.09,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,B200 SXM6 instance (52 vCPU),on-demand,hourly,6.89,$/GPU-hour,6.89,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,H100 SXM instance (52 vCPU),on-demand,hourly,4.19,$/GPU-hour,4.19,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,B200 SXM6 instance (26 vCPU),on-demand,hourly,6.99,$/GPU-hour,6.99,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,H100 SXM instance (26 vCPU),on-demand,hourly,4.29,$/GPU-hour,4.29,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100 PCIe,H100 PCIe instance (26 vCPU),on-demand,hourly,3.29,$/GPU-hour,3.29,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,1-Click Cluster 16 GPUs,reserved/committed,2 weeks – 1 year,9.86,$/GPU-hour,9.86,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,1-Click Cluster 64 GPUs,reserved/committed,2 weeks – 1 year,9.36,$/GPU-hour,9.36,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,B200,1-Click Cluster 256+ GPUs,reserved/committed,2 weeks – 1 year,8.87,$/GPU-hour,8.87,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,1-Click Cluster 16 GPUs,reserved/committed,2 weeks – 1 year,6.16,$/GPU-hour,6.16,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,1-Click Cluster 64 GPUs,reserved/committed,2 weeks – 1 year,5.85,$/GPU-hour,5.85,Not stated,,https://lambda.ai/pricing,2026-10-08
+Lambda,H100,1-Click Cluster 256 GPUs,reserved/committed,2 weeks – 1 year,5.54,$/GPU-hour,5.54,Not stated,,https://lambda.ai/pricing,2026-10-08
+Crusoe,GB200 NVL72,GB200 186GB NVL72,on-demand,hourly,Contact sales,n/a,,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,B200,B200 180GB HGX,on-demand,hourly,Contact sales,n/a,,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,H200,H200 141GB HGX,on-demand,hourly,4.29,$/GPU-hour,4.29,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,H100,H100 80GB HGX,on-demand,hourly,3.9,$/GPU-hour,3.9,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,MI355X,MI355X 288GB,on-demand,hourly,Contact sales,n/a,,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,MI300X,MI300X 192GB,on-demand,hourly,3.45,$/GPU-hour,3.45,Not stated,Spot: Contact sales,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,H100,Managed Inference self-serve deployment,inference/dedicated endpoint,hourly,5.5,$/hour,5.5,Not stated,,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,H200,Managed Inference self-serve deployment,inference/dedicated endpoint,hourly,6.0,$/hour,6.0,Not stated,,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,B200,Managed Inference self-serve deployment,inference/dedicated endpoint,hourly,9.65,$/hour,9.65,Not stated,,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Crusoe,MI355X,Managed Inference self-serve deployment,inference/dedicated endpoint,hourly,7.4,$/hour,7.4,Not stated,,https://www.crusoe.ai/cloud/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,spot/preemptible,pay as you go,1.99,$/GPU-hour,1.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,on-demand,hourly,3.99,$/GPU-hour,3.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,reserved/committed,7-30 days,3.69,$/GPU-hour,3.69,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,reserved/committed,31-90 days,3.45,$/GPU-hour,3.45,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,reserved/committed,91-180 days,3.19,$/GPU-hour,3.19,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H100,GPU Clusters HGX H100,reserved/committed,181+ days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,spot/preemptible,pay as you go,2.99,$/GPU-hour,2.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,on-demand,hourly,5.99,$/GPU-hour,5.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,reserved/committed,7-30 days,4.99,$/GPU-hour,4.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,reserved/committed,31-90 days,4.15,$/GPU-hour,4.15,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,reserved/committed,91-180 days,3.99,$/GPU-hour,3.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,H200,GPU Clusters HGX H200,reserved/committed,181+ days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,spot/preemptible,pay as you go,4.09,$/GPU-hour,4.09,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,on-demand,hourly,8.19,$/GPU-hour,8.19,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,reserved/committed,7-30 days,7.99,$/GPU-hour,7.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,reserved/committed,31-90 days,7.79,$/GPU-hour,7.79,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,reserved/committed,91-180 days,6.79,$/GPU-hour,6.79,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B200,GPU Clusters HGX B200,reserved/committed,181+ days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB200 NVL72,GPU Clusters GB200 NVL72,spot/preemptible,pay as you go,—,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB200 NVL72,GPU Clusters GB200 NVL72,on-demand,hourly,—,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB200 NVL72,GPU Clusters GB200 NVL72,reserved/committed,7-30 days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB300 NVL72,GPU Clusters GB300 NVL72,spot/preemptible,pay as you go,—,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB300 NVL72,GPU Clusters GB300 NVL72,on-demand,hourly,—,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,GB300 NVL72,GPU Clusters GB300 NVL72,reserved/committed,7-30 days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B300,GPU Clusters HGX B300,spot/preemptible,pay as you go,4.99,$/GPU-hour,4.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B300,GPU Clusters HGX B300,on-demand,hourly,9.99,$/GPU-hour,9.99,Not stated,,https://www.together.ai/pricing,2026-10-08
+Together AI,B300,GPU Clusters HGX B300,reserved/committed,7-30 days,Contact us,n/a,,Not stated,,https://www.together.ai/pricing,2026-10-08
+RunPod,B300,Pod 1x B300,on-demand,per-second,7.89,$/hr (1 GPU),7.89,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+RunPod,H200,Pod 1x H200,on-demand,per-second,4.59,$/hr (1 GPU),4.59,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+RunPod,B200,Pod 1x B200,on-demand,per-second,6.79,$/hr (1 GPU),6.79,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+RunPod,H100 NVL,Pod 1x H100 NVL,on-demand,per-second,3.19,$/hr (1 GPU),3.19,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+RunPod,H100 PCIe,Pod 1x H100 PCIe,on-demand,per-second,2.89,$/hr (1 GPU),2.89,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+RunPod,H100,Pod 1x H100 SXM,on-demand,per-second,3.49,$/hr (1 GPU),3.49,31 regions,Community/Secure tab not disambiguated in static HTML.,https://www.runpod.io/pricing,2026-10-08
+AWS,GB200 NVL72,u-p6e-gb200x72 (72x B200),reserved/committed,Capacity Block,761.904,$/instance-hour (72 GPUs),10.582,US East (Dallas) Local Zone,first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,GB200 NVL72,u-p6e-gb200x36 (36x B200),reserved/committed,Capacity Block,380.952,$/instance-hour (36 GPUs),10.582,US East (Dallas) Local Zone,first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,B300,p6-b300.48xlarge (8x B300),reserved/committed,Capacity Block,129.168,$/instance-hour (8 GPUs),16.146,US West (Oregon),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,B300,p6-b300.48xlarge (8x B300),reserved/committed,Capacity Block,134.55,$/instance-hour (8 GPUs),16.819,AWS GovCloud (US-East),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,B200,p6-b200.48xlarge (8x B200),reserved/committed,Capacity Block,113.666,$/instance-hour (8 GPUs),14.208,US East (Ohio),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,B200,p6-b200.48xlarge (8x B200),reserved/committed,Capacity Block,118.404,$/instance-hour (8 GPUs),14.801,AWS GovCloud (US-West),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,H100,p5.48xlarge (8x H100),reserved/committed,Capacity Block,47.757,$/instance-hour (8 GPUs),5.97,US East (Atlanta) Local Zone,first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,H200,p5e.48xlarge (8x H200),reserved/committed,Capacity Block,54.924,$/instance-hour (8 GPUs),6.866,US East (Ohio),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,H200,p5en.48xlarge (8x H200),reserved/committed,Capacity Block,63.158,$/instance-hour (8 GPUs),7.895,US East (Ohio),first region listed at this rate,https://aws.amazon.com/ec2/capacityblocks/pricing/,2026-10-08
+AWS,H100,p5.48xlarge,on-demand,pay as you go,55.04,$/instance-hour (8 GPUs),6.88,US East (N. Virginia),Linux,https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20%28N.%20Virginia%29/Linux/index.json,2026-10-08
+AWS,B200,p6-b200.48xlarge,on-demand,pay as you go,113.9328,$/instance-hour (8 GPUs),14.2416,US East (N. Virginia),Linux,https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20%28N.%20Virginia%29/Linux/index.json,2026-10-08
+AWS,B300,p6-b300.48xlarge,on-demand,pay as you go,142.416,$/instance-hour (8 GPUs),17.802,US East (N. Virginia),Linux,https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20%28N.%20Virginia%29/Linux/index.json,2026-10-08
+AWS,H100,p5.4xlarge,on-demand,pay as you go,6.88,$/instance-hour (1 GPUs),6.88,US East (N. Virginia),Linux,https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20%28N.%20Virginia%29/Linux/index.json,2026-10-08
+AWS,H200,p5en.48xlarge,on-demand,pay as you go,63.296,$/instance-hour (8 GPUs),7.912,US East (N. Virginia),Linux,https://b0.p.awsstatic.com/pricing/2.0/meteredUnitMaps/ec2/USD/current/ec2-ondemand-without-sec-sel/US%20East%20%28N.%20Virginia%29/Linux/index.json,2026-10-08
+Azure,H100,Standard_ND96isr_H100_v5,on-demand,hourly,98.32,$/VM-hour (8 GPUs),12.29,eastus,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H100_v5%27,2026-10-08
+Azure,H100,Standard_ND96isr_H100_v5,reserved/committed,1 Year,551221.0,$ total per VM for term,7.8656,eastus,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H100_v5%27,2026-10-08
+Azure,H100,Standard_ND96isr_H100_v5,reserved/committed,3 Years,1134310.0,$ total per VM for term,5.3953,eastus,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H100_v5%27,2026-10-08
+Azure,H100,Standard_ND96isr_H100_v5,reserved/committed,5 Years,1722566.0,$ total per VM for term,4.916,eastus,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H100_v5%27,2026-10-08
+Azure,H100,Standard_ND96isr_H100_v5,spot/preemptible,hourly,18.169536,$/VM-hour (8 GPUs),2.2712,eastus,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H100_v5%27,2026-10-08
+Azure,H200,Standard_ND96isr_H200_v5,on-demand,hourly,84.8,$/VM-hour (8 GPUs),10.6,eastus2,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H200_v5%27,2026-10-08
+Azure,H200,Standard_ND96isr_H200_v5,reserved/committed,1 Year,407526.0,$ total per VM for term,5.8152,eastus2,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H200_v5%27,2026-10-08
+Azure,H200,Standard_ND96isr_H200_v5,reserved/committed,3 Years,1109592.0,$ total per VM for term,5.2777,eastus2,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H200_v5%27,2026-10-08
+Azure,H200,Standard_ND96isr_H200_v5,spot (anomalous meter = on-demand; excluded),hourly,84.8,$/VM-hour (8 GPUs),10.6,eastus2,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_H200_v5%27,2026-10-08
+Azure,GB200 NVL72,Standard_ND128isr_NDR_GB200_v6,spot (anomalous meter = on-demand; excluded),hourly,108.16,$/VM-hour (4 GPUs),27.04,eastus,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND128isr_NDR_GB200_v6%27,2026-10-08
+Azure,GB200 NVL72,Standard_ND128isr_NDR_GB200_v6,on-demand,hourly,108.16,$/VM-hour (4 GPUs),27.04,eastus,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND128isr_NDR_GB200_v6%27,2026-10-08
+Azure,GB200 NVL72,Standard_ND128isr_NDR_GB200_v6,reserved/committed,1 Year,606388.0,$ total per VM for term,17.3056,eastus,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND128isr_NDR_GB200_v6%27,2026-10-08
+Azure,GB200 NVL72,Standard_ND128isr_NDR_GB200_v6,reserved/committed,3 Years,1250676.0,$ total per VM for term,11.8976,eastus,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus%27%20and%20armSkuName%20eq%20%27Standard_ND128isr_NDR_GB200_v6%27,2026-10-08
+Azure,MI300X,Standard_ND96isr_MI300X_v5,spot/preemptible,hourly,8.8704,$/VM-hour (8 GPUs),1.1088,eastus2,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_MI300X_v5%27,2026-10-08
+Azure,MI300X,Standard_ND96isr_MI300X_v5,on-demand,hourly,48.0,$/VM-hour (8 GPUs),6.0,eastus2,,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_MI300X_v5%27,2026-10-08
+Azure,MI300X,Standard_ND96isr_MI300X_v5,reserved/committed,1 Year,269107.0,$ total per VM for term,3.84,eastus2,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_MI300X_v5%27,2026-10-08
+Azure,MI300X,Standard_ND96isr_MI300X_v5,reserved/committed,3 Years,553772.0,$ total per VM for term,2.634,eastus2,total/(8760*yrs)/GPUs,https://prices.azure.com/api/retail/prices?$filter=serviceName%20eq%20%27Virtual%20Machines%27%20and%20armRegionName%20eq%20%27eastus2%27%20and%20armSkuName%20eq%20%27Standard_ND96isr_MI300X_v5%27,2026-10-08
+Oracle OCI,MI300X,B109485 OCI - Compute - GPU - MI300X,on-demand,pay as you go,6,$/GPU-hour,6,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,H200,B110519 OCI - Compute - GPU - H200,on-demand,pay as you go,10,$/GPU-hour,10,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,B200,B110978 OCI - Compute - GPU - B200,on-demand,pay as you go,14,$/GPU-hour,14,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,GB200 NVL72,B110979 OCI - Compute - GPU - GB200,on-demand,pay as you go,16,$/GPU-hour,16,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,MI355X,B111758 OCI- Compute - GPU - MI355X,on-demand,pay as you go,8.6,$/GPU-hour,8.6,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,GB300 NVL72,B112140 OCI - Compute - GPU - GB300,on-demand,pay as you go,18,$/GPU-hour,18,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,B300,B112237 Oracle Cloud Infrastructure - Compute - GPU - B300,on-demand,pay as you go,15,$/GPU-hour,15,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Oracle OCI,H100,B98415 Oracle Cloud Infrastructure - Compute - GPU - H100,on-demand,pay as you go,10,$/GPU-hour,10,global list,,https://apexapps.oracle.com/pls/apex/cetools/api/v1/products/?currencyCode=USD,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),on-demand,pay as you go,N/A,n/a,,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),DWS flex-start,Flex-start,64.44,$/VM-hour (8 GPUs),8.055,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),reserved/committed,DWS Calendar mode,90.22,$/VM-hour (8 GPUs),11.2775,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),spot/preemptible,spot,39.6336,$/VM-hour (8 GPUs),4.9542,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),reserved/committed,1-yr CUD,88.9272,$/VM-hour (8 GPUs),11.1159,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,B200,a4-highgpu-8g (8 GPUs),reserved/committed,3-yr CUD,56.7072,$/VM-hour (8 GPUs),7.0884,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),on-demand,pay as you go,84.806908493,$/VM-hour (8 GPUs),10.6009,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),DWS flex-start,Flex-start,42.4,$/VM-hour (8 GPUs),5.3,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),reserved/committed,DWS Calendar mode,59.36,$/VM-hour (8 GPUs),7.42,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),spot/preemptible,spot,50.834997041,$/VM-hour (8 GPUs),6.3544,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),reserved/committed,1-yr CUD,58.471933151,$/VM-hour (8 GPUs),7.309,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H200,a3-ultragpu-8g (8 GPUs),reserved/committed,3-yr CUD,37.208420822,$/VM-hour (8 GPUs),4.6511,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),on-demand,pay as you go,93.400712807,$/VM-hour (8 GPUs),11.6751,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),DWS flex-start,Flex-start,40.32,$/VM-hour (8 GPUs),5.04,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),reserved/committed,DWS Calendar mode,44.0,$/VM-hour (8 GPUs),5.5,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),spot/preemptible,spot,53.099242521,$/VM-hour (8 GPUs),6.6374,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),reserved/committed,1-yr CUD,64.206558727,$/VM-hour (8 GPUs),8.0258,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-megagpu-8g (8 GPUs),reserved/committed,3-yr CUD,40.650103355,$/VM-hour (8 GPUs),5.0813,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),on-demand,pay as you go,88.490000119,$/VM-hour (8 GPUs),11.0613,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),DWS flex-start,Flex-start,38.32,$/VM-hour (8 GPUs),4.79,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),reserved/committed,DWS Calendar mode,41.6,$/VM-hour (8 GPUs),5.2,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),spot/preemptible,spot,50.315338521,$/VM-hour (8 GPUs),6.2894,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),reserved/committed,1-yr CUD,61.383674231,$/VM-hour (8 GPUs),7.673,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Google Cloud,H100,a3-highgpu-8g (8 GPUs),reserved/committed,3-yr CUD,38.864383195,$/VM-hour (8 GPUs),4.858,Not stated,,https://cloud.google.com/products/compute/pricing/accelerator-optimized,2026-10-08
+Vast.ai,H100,H100 SXM verified on-demand,on-demand,per-second,3.819,$/GPU-hour (median of live offers),3.8194,global,n=7 min 2.043 max 10.582,https://console.vast.ai/api/v0/bundles/,2026-10-08
+Vast.ai,H200,H200 verified on-demand,on-demand,per-second,5.12,$/GPU-hour (median of live offers),5.1195,global,n=10 min 5.001 max 7.304,https://console.vast.ai/api/v0/bundles/,2026-10-08
+Vast.ai,B200,B200 verified on-demand,on-demand,per-second,7.503,$/GPU-hour (median of live offers),7.5026,global,n=9 min 6.252 max 9.385,https://console.vast.ai/api/v0/bundles/,2026-10-08

@@ -1,0 +1,91 @@
+company,metric,value,period,source_url,note,tag
+Nebius,RPO,37490.6,2026-06-30,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm,"Note: Revenue - RPO $37,490.6M; 36% within 24 months",Reported
+Nebius,Contracted power (MW),3500,as of 2026-05-13,https://www.sec.gov/Archives/edgar/data/1513845/000110465926059872/tm2614392d1_ex99-2.htm,'Contracted capacity already exceeds 3.5 GW'; Q2 letter raises YE26 target to 5 GW (current figure not stated),Reported (floor)
+Nebius,YE26 contracted target / connected guidance,"5,000 MW / 800-1,000 MW",FY2026 guidance,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-2.htm,Connected 800MW-1GW reaffirmed on Q2 call: https://www.fool.com/earnings/call-transcripts/2026/08/19/nebius-nbis-q2-2026-earnings-call-transcript/,Guidance
+Nebius,Active power (MW),170,2025-12-31,https://www.sec.gov/Archives/edgar/data/1513845/000110465926013946/tm266173d1_ex99-2.htm,'~170 MW of active power' at YE25; no later actual disclosed,Reported (stale)
+Nebius,Revenue Q2'26,582.3,Q2 2026,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,,Reported
+Nebius,Revenue H1'26 / H1'25,981.3 / 156.0,H1,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,,Reported
+Nebius,Revenue FY2025,529.8,FY2025,https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/nbis-20251231x20f.htm,XBRL Revenues CY2025 (data.sec.gov companyfacts CIK0001513845),Reported
+Nebius,Revenue LTM,1355.1,LTM to 2026-06-30,derived,981.3 + 529.8 - 156.0,Derived
+Nebius,Revenue YoY Q2,454,Q2 2026,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,,Reported
+Nebius,Adj. EBITDA Q2'26 / H1'26 / H1'25,236.2 / 365.7 / -74.7,,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,,Reported
+Nebius,Adj. EBITDA FY2025,-64.9,FY2025,https://www.sec.gov/Archives/edgar/data/1513845/000110465926013946/tm266173d1_ex99-2.htm,Q4'25 letter table,Reported
+Nebius,Adj. EBITDA LTM,375.5,LTM,derived,365.7 + (-64.9 - -74.7),Derived
+Nebius,NTM adj. EBITDA consensus,5411.7,Q4'26-Q3'27,https://www.marketscreener.com/quote/stock/NEBIUS-GROUP-8037501/finances/,Sum of quarterly cons 670.7+1277+1581+1883 as captured in Skeptic sheet 2026-10-04,Estimate (consensus)
+Nebius,FY26 revenue guidance,"3,000-3,400",FY2026,https://www.tradingkey.com/news/transcripts/262106466-tradingkey,Reaffirmed Q2; adj. EBITDA margin ~40%,Guidance
+Nebius,Wtd effective cost of debt (%),5.09,2026-06-30,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm,Principal-weighted effective rates of 6 convert series (Note 12),Derived
+Nebius,Aug-26 converts 0.50% 2030 / 4.50% 2034,"3,450 / 2,300",2026-08-24,https://www.sec.gov/Archives/edgar/data/1513845/000110465926100347/tm2623863d1_ex99-1.htm,,Reported
+Nebius,Secured facility SOFR+2.50%,775,2026-07-10,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm,Subsequent events note,Reported
+Nebius,"Debt (current + non-current, carrying)",8545.7,2026-06-30,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,"46.7 + 8,499.0",Reported
+Nebius,Cash & equivalents,8042.1,2026-06-30,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,"Excl. restricted cash 1,056.0",Reported
+Nebius,Est. net proceeds Aug converts,5680,2026-08,https://www.sec.gov/Archives/edgar/data/1513845/000110465926098924/tm2623617d1_ex99-1.htm,Per Skeptic sheet (company estimate incl. option),Estimate (company)
+Nebius,Top customer % revenue,24,Q2 2026,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm,"Customer C 24%, D 21%, E 14% (unnamed)",Reported
+Nebius,Anchors Microsoft/Meta,,,https://www.sec.gov/Archives/edgar/data/1513845/000110465926059872/tm2614392d1_ex99-2.htm,"Q1 letter names Microsoft, Meta strategic contracts; Q2 letter names Reflection, Cohere",Reported
+Nebius,Shares outstanding,271.855218,2026-06-30,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094568/tm2622968d1_ex99-1.htm,,Reported
+Nebius,NVIDIA pre-funded warrant shares,21.065936,2026-03-11,https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm,Note 14; exercise price $0.0001,Reported
+Nebius,Exchange shares,15.8,2026-08-24,https://www.sec.gov/Archives/edgar/data/1513845/000110465926100347/tm2623863d1_ex99-1.htm,~15.8M Class A for $800M of 2029/2031 notes,Reported
+Nebius,Share price,242.81,2026-10-02 (close),https://query1.finance.yahoo.com/v8/finance/chart/NBIS?range=10d&interval=1d,Matches Skeptic sheet,Market
+Nebius,Aggregator EV,68710,2026-10-04,https://stockanalysis.com/stocks/nbis/statistics/,Via Skeptic sheet,Aggregator
+CoreWeave,RPO,103700,2026-06-30,https://data.sec.gov/api/xbrl/companyfacts/CIK0001769628.json,XBRL RevenueRemainingPerformanceObligation; PR 'revenue backlog' ~$104B ($104.2B deck),Reported
+CoreWeave,Contracted / active power (MW),"3,700 / 1,500",2026-06-30,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm,'approximately 3.7 GW' contracted; active 'reach 1.5 GW',Reported
+CoreWeave,Revenue Q2'26 / Q2'25,"2,575 / 1,212",Q2,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm,,Reported
+CoreWeave,Revenue FY2025,5131,FY2025,https://data.sec.gov/api/xbrl/companyfacts/CIK0001769628.json,,Reported
+CoreWeave,Revenue LTM,7590,LTM,derived,"5,131 - 2,194 + 4,653",Derived
+CoreWeave,Adj. EBITDA Q2 / H1'26 / H1'25,"1,510 / 2,667 / 1,360",,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm,,Reported
+CoreWeave,Adj. EBITDA FY2025,3093,FY2025,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000094/coreweave4q25earningspress.htm,,Reported
+CoreWeave,Adj. EBITDA LTM,4400,LTM,derived,"3,093 - 1,360 + 2,667",Derived
+CoreWeave,NTM adj. EBITDA (calendarized cons),14372,Oct-26-Sep-27,https://finance.yahoo.com/quote/CRWV/analysis/,"0.25 x FY26 7,569 + 0.75 x FY27 16,640 (Skeptic sheet; MarketScreener/Yahoo)",Estimate (consensus)
+CoreWeave,FY26 revenue guidance,"12,400-13,200",FY2026,https://s205.q4cdn.com/133937190/files/doc_financials/2026/q2/CRWV-US-CORRECTED-TRANSCRIPT-CoreWeave-Q2-2026-Earnings-Call-11August2026.pdf,,Guidance
+CoreWeave,Wtd effective cost of debt (%),8.41,2026-06-30,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm,"Principal-weighted effective rates, Note 10 debt table",Derived
+CoreWeave,Sep-26 2.875% converts 2033,4200,2026-09-22,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000432/crwv-20260917.htm,"$3.7B + $0.5B option exercised; net proceeds est. $3,644.5M/$4,137.0M; capped call $498.8M (base): https://www.sec.gov/Archives/edgar/data/1769628/000176962826000432/ex991pricing.htm",Reported
+CoreWeave,DDTL 5.5,2600,2026-08-10,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000357/ex991pr.htm,Delayed draw; excluded from pro forma,Reported
+CoreWeave,"Debt (carrying, recourse + non-recourse)",35068,2026-06-30,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm,"6,235+1,278+25,170+2,385; excl. finance leases 221",Reported
+CoreWeave,Cash + marketable securities,5539,2026-06-30,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm,"5,524 + 15; excl. restricted 1,380",Reported
+CoreWeave,Top customer % revenue,36,Q2 2026,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm,"A 36%, B 26%, C 10%; OpenAI & Meta orders named in risk factors",Reported
+CoreWeave,Shares (A+B),551.536602,2026-07-31,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm,"458,871,690 A + 92,664,912 B",Reported
+CoreWeave,Share price,89.62,2026-10-02 (close),https://query1.finance.yahoo.com/v8/finance/chart/CRWV?range=10d&interval=1d,,Market
+CoreWeave,Aggregator EV,95460,2026-10-02,https://stockanalysis.com/stocks/crwv/statistics/,Via Skeptic sheet; incl. leases,Aggregator
+IREN,RPO + contracted lease value,16600,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,RPO $5.1B + lease $11.4B,Reported
+IREN,Grid-connected power agreements (MW),5000,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,'approximately 5GW of total power capacity',Reported
+IREN,Operating capacity (MW),~380 BTC + ~40 AI,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,,Reported
+IREN,Revenue FY26 / Q4 FY26,707.0 / 137.2,FY26,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm,,Reported
+IREN,Revenue Q4 FY25,187.292,Q4 FY25,https://data.sec.gov/api/xbrl/companyfacts/CIK0001878848.json,FY25 501.023 - 9M FY25 313.731,Derived
+IREN,Adj. EBITDA FY26 / Q4,245.7 / 19.2,FY26,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm,,Reported
+IREN,Wtd effective cost of debt (%),1.85,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,"Principal-weighted effective rates, Note 23 (converts 0.37%-4.22%, DDTL 7.12%, USPP 7.05%)",Derived
+IREN,Microsoft GPU financing wtd rate (%),6.0,FY26,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm,USPP + DDTL excl. fees; Blue Owl/PIMCO $2.4B at 9.0% fixed,Reported
+IREN,Debt (carrying),7593.0,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm,"169.4 + 7,423.6; excl. finance leases 243.8",Reported
+IREN,Cash & equivalents,5895.6,2026-06-30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm,"Excl. restricted 1,724.0",Reported
+IREN,Anchors,,,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,"Microsoft $9.7B, NVIDIA $3.4B = substantial majority of contracted revenue; customer list: https://www.sec.gov/Archives/edgar/data/1878848/000114036126028871/ef20078253_ex99-1.htm",Reported
+IREN,Shares 6/30 / 8/14,380.19 / 394.06,,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm,,Reported
+IREN,Share price,41.76,2026-10-02 (close),https://query1.finance.yahoo.com/v8/finance/chart/IREN?range=10d&interval=1d,,Market
+Oracle,RPO,664000,2026-08-31,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm,13% within 12 months,Reported
+Oracle,Revenue Q1 FY27 / Q1 FY26 / FY26,"19,345 / 14,926 / 67,357",,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,,Reported
+Oracle,OCI revenue Q1FY27 / Q1FY26 / FY26,"7,388 / 3,347 / 18,101",,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,Cloud infrastructure line,Reported
+Oracle,Adj. EBITDA LTM (derived),38752,LTM to 2026-08-31,https://data.sec.gov/api/xbrl/companyfacts/CIK0001341439.json,"Op inc 23,057 + dep 9,428 + amort 1,453 + SBC 4,814 (FY26 - Q1FY26 + Q1FY27)",Derived
+Oracle,Adj. EBITDA Q1 FY27 (derived),11213,Q1 FY27,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,"6,728 + 3,156 + 202 + 1,127",Derived
+Oracle,Cost of debt (%),4.48,Q1 FY27,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,"Interest exp 1,428 x4 / avg debt (net of capitalized interest)",Derived
+Oracle,Feb-26 notes wtd fixed coupon (%),5.82,2026-02-04,https://www.sec.gov/Archives/edgar/data/1341439/000119312526037840/d23732d8k.htm,$25B issue: 4.55%-6.85% + FRN,Reported
+Oracle,Debt,125337,2026-08-31,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,"7,625 + 117,712",Reported
+Oracle,Cash + marketable securities,37077,2026-08-31,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,"36,369 + 708",Reported
+Oracle,Preferred (6.50% Series D mandatory convertible),4954,2026-08-31,https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm,,Reported
+Oracle,Shares,3023.736,2026-09-07,https://data.sec.gov/api/xbrl/companyfacts/CIK0001341439.json,dei:EntityCommonStockSharesOutstanding (10-Q cover),Reported
+Oracle,FY27 revenue guidance,90000,FY27,https://www.sec.gov/Archives/edgar/data/1341439/000119312526387905/orcl-ex99_1.htm,'at least $90 billion',Guidance
+Oracle,Share price,142.3,2026-10-02 (close),https://query1.finance.yahoo.com/v8/finance/chart/ORCL?range=10d&interval=1d,,Market
+Nscale,TCV,103400,2026-08-31,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,"TCV, not RPO; ~$2.6B active",Reported (S-1)
+Nscale,Active + contracted capacity (MW),1370,2026-08-31,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,"1 GW owned, 200 MW leased, 165 MW colo",Reported (S-1)
+Nscale,Revenue H1'26 / H1'25 / FY25,140.6 / 10.4 / 33.0,,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,,Reported (S-1)
+Nscale,Adj. EBITDA H1'26 / H1'25 / FY25,-199.2 / -15.3 / -81.7,,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,,Reported (S-1)
+Nscale,Largest customer % revenue,52,H1 2026,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,73% in FY25,Reported (S-1)
+Nscale,Debt / cash,"137.4 / 1,478.4",2026-06-30,https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm,,Reported (S-1)
+Nscale,Valuation (Series C),14600,2026-03-09,https://www.nscale.tech/press-releases/nscale-series-c,,Reported (company)
+Nscale,Pre-IPO convertible notes,3360,2026-09-25,https://www.prnewswire.com/news-releases/nscale-raises-3-36b-in-pre-ipo-convertible-financing-302890199.html,$2.36B funded + $1B NVIDIA (Nov),Reported (company)
+Crusoe,Post-money valuation,30900,2026-09-17,https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html,Series F initial close $3.9B,Reported (company)
+Crusoe,Contracted / operational capacity (MW),"6,000+ / ~1,000 (gross)",2026-09-17,https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html,,Reported (company)
+Crusoe,TCV,"140,000+",2026-09-17,https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html,,Reported (company)
+Crusoe,2026 revenue,"~2,000",2026E,https://www.newcomer.co/p/crusoe-is-on-track-for-2-billion,'on track for $2 billion' (financials obtained by Newcomer),Estimate (press)
+Crusoe,Anchors,,,https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation,"OpenAI, Microsoft, Meta",Press
+Lambda,Post-money valuation,5900,2025-11,https://techfundingnews.com/lambda-eyes-12b-valuation-with-3b-pre-ipo-raise-as-ai-cloud-race-heats-up/,Series E $1.5B; PitchBook cites $5.43B; talks at $12B+: https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round,Press
+Lambda,2026 revenue expectation,"1,500+",2026E,https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round,Bloomberg-reported,Estimate (press)
+Lambda,ARR end-2025,760,2025-12,https://sacra.com/research/no-side-quests-for-lambda/,Sacra estimate,Estimate (third party)
+Lambda,Debt financings,,2026,https://lambda.ai/blog/lambda-closes-1-billion-senior-secured-fixed-rate-financing,$1B IG DDTL (Oct-26); ~$1B BSL (Aug-26); rates/total not disclosed,Reported (company)
+Lambda,Anchors,,,https://www.datacenterdynamics.com/en/news/microsoft-signs-multi-billion-dollar-cloud-capacity-deal-with-lambda/,Microsoft multi-billion deal; NVIDIA ~$1.5B leaseback,Press

@@ -1,0 +1,738 @@
+                   February 12, 2026
+
+
+
+
+Nebius Group
+Letter to shareholders
+Q4 2025
+                                                                                                                                 2025: A breakout year driven by execution
+
+
+
+
+YE’25 ARR well above guidance                                             YE’26 ARR guidance up ~7x YoY                              Raising capacity guidance for YE’26
+
+
+      2025 ARR*
+      guidance
+                                                 $1.25B                       Annualized                         $7B–$9B               2026 contracted
+                                                                                                                                       power guidance
+                                                                                                                                                                        >3.0 GW
+                                                                              run-rate revenue
+                                      $900M–
+                                       $1.1B
+                                                                                                         ~7x
+                                                                                                                                                            >2.5 GW
+
+
+                                                                                                        $1.25B
+
+                                                                                       ~14x
+                                                                                                                                         >1.0 GW
+         October        December      November                                     $90M                               Guidance             August           November
+          2024            2024          2025            Actual                         2024              2025           2026                2025              2025            Current
+
+
+
+Scaling capacity to seize a leading global AI cloud position
+
+
+      Contracted capacity expansion plan                                               Existing sites
+                                                                                       New owned sites
+      Most capacity from our new                                                                                                           Iceland                              Finland
+                                                                                       ­N ew colocations
+      locations will come from
+                                                                                       Sites >100 MW
+      owned data centers
+      Continued global expansion                      16 sites                                                                                              UK
+                                                                                        Minnesota                                                                 Amsterdam HQ
+      with focus on the US
+
+                                                                                  Kansas City
+                                                                                                                                                         France
+                                  7 sites                                                         Missouri       New Jersey
+
+                                                       Current                                      Alabama
+              2 sites                                 guidance                         Oklahoma                                                                                Israel
+                2024                2025              YE 2026
+
+
+
+Q4 financial highlights
+
+
+      Q4 group revenue                                                        Core AI infrastructure business                          Improving efficiency as we grow
+
+
+                                                                              24% adj. EBITDA                                          Positive adj. EBITDA
+      Up 547% YoY                                                             margin in Q4                                             at Group level for the first time in Q4
+
+
+
+      to $228M
+                                                                                                                        24%
+
+                                                                                                           19%                         Strong cash position at YE’25
+
+
+      Core AI business revenue                                                         10%                                             $3.7B cash
+      up 802% YoY to $214M                                                                                                             including $834M in positive operating
+                                                                                                                                       cash flow in Q4
+                                                                                       Q2’25             Q3’25         Q4’25
+
+
+
+Product — Expanding and deepening our platform                                                                                       Other businesses and stakes
+
+
+      Token Factory                                                           Tavily: agentic search
+      Launched in Q4 2025                                                     Recently acquired Feb 2026                               Launched commercial        Revenue growth of 88%
+                                                                                                                                       robotaxi service           YoY in 2025 driven
+      Production-scale inference and post-training                            Built for agent-native workflows                         in December                by strong customer
+      Early product market fit with AI-native                                 New surface area for AI developers                                                  acquisition and program
+                                                                                                                                       Strategic investment       enhancements
+      and Cloud-native customers                                                                                                       from Uber
+
+
+
+      AI Cloud 3.1 “Aether”                                                   2026 roadmap                                             Strategic equity stakes
+
+
+      Faster performance                                                      Optimizing AI infrastructure at scale
+      Stronger controls                                                       Providing choice, flexibility, and speed for
+                                                                                                                                       Reported valuation         Data solutions
+      Enterprise-grade security                                               every AI builder                                         of $15B in January         business backed
+                                                                              Building enterprise readiness                            2026 funding round         by Bezos Expeditions
+
+
+
+
+*
+    Сalculated by taking revenue from the last month of the quarter multiplied by 12                                                                                                        2
+Dear
+shareholders,
+
+2025 was our first full year of operations, a year with exception-
+al growth and execution. We delivered extremely strong financial
+results for the year and dramatically scaled up our capacity foot-
+print, paving the way for significant continued growth in 2026                                             Arkady Volozh,
+and beyond.                                                                                                Founder and CEO
+
+Our unrelenting focus on execution in 2025 delivered:
+
+•   Strong financial results
+
+    ARR 1 as of year-end was $1.25 billion, ahead of our most
+    recent guidance of $900 million to $1.1 billion. During 2025
+                                                                                   “We enter 2026 with strong
+    we significantly diversified our AI cloud customer portfolio                   momentum, high operational
+    by adding several large startup and enterprise logos.
+                                                                                   confidence, and a scalable
+    Group Adjusted EBITDA turned positive in Q4, reflecting
+    operating leverage from scale and cost discipline through-
+                                                                                   platform built for the world’s
+    out the year.                                                                  most demanding AI workloads.
+•   Rapid expansion of our infrastructure footprint                                We are on track to end the year
+    We deployed five new locations globally and have secured                       with ARR1 of $7 billion to $9
+    another nine, thanks to outstanding execution by our infra-
+    structure team.
+                                                                                   billion. To achieve this we will
+•   Capacity delivery ahead of plan
+                                                                                   focus on four key strategic
+    We ended the year with ~170 MW of active power, vs our tar-
+                                                                                   areas: scaling capacity
+    get of 100 MW.                                                                 with discipline; executing
+•   Significant build-out of our AI cloud platform                                 on our customer commitments;
+    The release of Nebius AI Cloud Aether 3.0 and 3.1 further                      advancing our AI Cloud
+    differentiated our offering, driving improved speed, relia-
+    bility, security, and flexibility for our customers. Aether has
+                                                                                   platform; and raising capital
+    expanded our total addressable market by opening up new                        strategically.”
+    opportunities in the enterprise.
+
+    The launch of our managed inference platform, Nebius Token
+    Factory, expanded our value proposition and is generating
+    strong interest.
+
+As a result, we enter 2026 with strong momentum, high operation-              •    We have already secured more than 2 GW of contracted pow-
+al confidence, and a scalable platform built for the world’s most                  er, putting us well ahead of the target we set in November
+demanding AI workloads.                                                            of more than 2.5 GW by the end of 2026. As a result,
+                                                                                   we now expect to have more than 3 GW of contracted pow-
+We are on track to end the year with ARR1 of $7 billion to $9 bil-
+                                                                                   er by year-end.
+lion. To achieve this we will focus on four key strategic areas:
+scaling capacity with discipline; executing on our customer com-              •    The vast majority of this new capacity will come from owned
+mitments; advancing our AI Cloud platform; and raising capital                     data centers, reinforcing our capital-efficient model with
+strategically.                                                                     attractive long-term unit economics.
+
+Scaling capacity with discipline                                              •    We also remain well on track to reach 800 MW to 1 GW of con-
+                                                                                   nected power by the end of 2026.
+•   Capacity remains the enabler of our strategy, and the indus-
+    try’s most persistent constraint. We are expanding our global             Reliable execution on customer commitments
+    footprint with nine new sites across seven locations in the US
+                                                                              •    Our customer wins in 2025 reflect the execution standards
+    (Missouri, Alabama, Oklahoma and Minnesota) and EMEA
+                                                                                   we set internally and are increasingly recognized by custom-
+    (France, Israel, UK), bringing our global total number of sites
+                                                                                   ers and partners.
+    to 16 and broadening our geographical diversification.
+
+
+
+
+(1) Annualized run-rate revenue (ARR) is calculated by taking revenue from the last month of the quarter multiplied by 12.                   3
+•   We delivered the first tranche of capacity to Microsoft on time           Raising capital strategically
+    in November 2025, and are well on track to deliver the remain-
+                                                                              •    We are very pleased with our healthy balance sheet, includ-
+    ing capacity on schedule.
+                                                                                   ing $3.7 billion of cash, which places us in a great position for
+•   We delivered both contracted tranches to Meta on time                          implementing our 2026 and future growth plans.
+    and are now fully in the servicing stage.
+                                                                              •    Achieving our first quarter of positive operating cash flow
+•   Demand from enterprises and AI native customers contin-                        in Q4 further boosted liquidity.
+    ues to outpace supply, allowing us to sell future capacity
+                                                                              •    Cash inflows from our larger contracts throughout 2026 fur-
+    well in advance.
+                                                                                   ther underpin our growth plans.
+•   We will continue to invest in scaling our go-to-market motion
+                                                                              •    We will maintain a disciplined approach to raising capital.
+    with new industry verticals, expanded global coverage,
+                                                                                   We see strong appetite from financing partners and investors
+    and a dedicated enterprise sales team.
+                                                                                   and have a broad range of financing options available for 2026
+Advancing our AI сloud platform                                                    and beyond, including corporate debt, asset-backed financ-
+                                                                                   ing, and our unused at-the-market equity program.
+•   Our AI cloud platform is fundamental to our business,
+    and is a key competitive differentiator. We are very focused              In conclusion, 2025 demonstrated our ability to execute, and set
+    on investing resources to continue expanding our capabilities             us up for a strong 2026. We remain laser focused on execution,
+    in 2026 both organically and through targeted acquisitions                long-term value creation, and scaling through the next phase
+    that can enhance and accelerate the development of our                    of growth across our full-stack platform.
+    platform.
+                                                                              Thank you for your continued trust and support. We are extreme-
+•   The acquisition of Tavily, announced earlier this week, is just           ly excited for 2026 and will continue to deliver.
+    one example. Tavily extends Nebius’s cloud platform capabili-
+    ties into the enablement layer of the tech stack with real-time
+    search infrastructure for AI agents.                                      Arkady Volozh
+
+
+
+
+(1) Annualized run-rate revenue (ARR) is calculated by taking revenue from the last month of the quarter multiplied by 12.                        4
+Group Q4 update
+
+
+
+
+Scaling our infrastructure                                            Expanding and diversifying our
+globally                                                              customer base
+In this section, we discuss three forms of power:                     Our multi-year deals with Microsoft and Meta demonstrate
+(1) contracted power, or power secured by contracts;                  the confidence that the world’s leading tech companies have
+(2) connected power, or power connected into data centers;            in Nebius’s ability to deliver capacity at scale.
+(3) active power, or power being consumed by IT equipment.
+                                                                      •   Microsoft: We delivered the first tranche of capacity
+In Q4, we continued to expand our global infrastructure footprint         to Microsoft on time in November 2025, and are well on track
+and bring active power to our platform. We ended the year with            to deliver the remaining capacity on schedule.
+~170 MW of active power, significantly exceeding our 100 MW
+                                                                      •   Meta: Both contracted tranches related to Meta were
+target.
+                                                                          successfully delivered on time, and we are now fully
+We have made a strong start to our 2026 capacity plans, with              in the servicing stage.
+today’s announcement of 9 new sites across the US and EMEA,
+                                                                      We also believe that we may enter into significant long-term deals,
+already giving us a total of more than 2 GW of contracted power.
+                                                                      provided they come with favorable unit economics. In parallel,
+A majority of this capacity will be delivered through our owned
+                                                                      we will continue to scale our core AI business, building the AI
+data centers, reinforcing a capital-efficient model with attrac-
+                                                                      cloud platform for all customers.
+tive long-term unit economics.
+                                                                      Nebius intends to be the AI cloud partner of choice for both
+With our head start in securing power, we now expect to have
+                                                                      cutting-edge startups and larger enterprises. We help solve
+more than 3 GW of contracted power by the end of 2026, up from
+                                                                      the biggest problems our customers face by delivering reliable
+our previous >2.5 GW target.
+                                                                      capacity at scale, providing a comprehensive, full-stack AI cloud
+As we work to bring this capacity online, we also enter 2026          platform, and consistently expanding our offering with new prod-
+with strengthened conviction in achieving our 800 MW to 1 GW          ucts and services to meet customer needs.
+of connected power by the end of this year.
+                                                                      Our ability to deliver AI compute and cloud services quick-
+We continue to have a strong pipeline of additional projects across   ly and efficiently has won the trust of the leading AI-native
+various stages and geographies, which will further diversify our      start-ups.
+portfolio and de-risk our dependence on any one location. We are
+                                                                      Our enterprise-ready solutions, which meet the unique securi-
+also proactively engaging with local communities to ensure that
+                                                                      ty and compliance requirements of complex organizations, are
+we are building mutually beneficial long-term relationships.
+                                                                      increasingly being selected by larger enterprises.
+Our new sites further our ability to bring next-generation com-
+                                                                      Our focus on high-potential industry verticals is gaining trac-
+pute capacity to market. We started deploying NVIDIA B300
+                                                                      tion from our ability to optimally configure leading-edge compute
+and NVIDIA GB300 NVL72 systems in 2025, and in 2026 we will
+                                                                      performance, networking, and storage, all in a fast and conven-
+be among the first AI cloud providers worldwide to deploy NVIDIA
+                                                                      ient out-of-the-box package based on specific customer needs.
+Vera Rubin NVL72 systems, at locations in the US and EMEA.
+
+
+
+
+                                                                                                                                       5
+We have already gained strong traction in healthcare and life             Optimizing AI infrastructure at scale
+sciences, where training, storage, and HIPAA compliance are par-
+amount. Innovative early-stage businesses like Genesis Molecular          We aim to offer the most advanced physical and virtual infrastruc-
+AI, is building their AI solutions on Nebius.                             ture in the industry, enabling users to scale their capacity, without
+                                                                          compromising efficiency.
+Companies at the cutting edge of physical AI and robotics
+are leveraging Nebius as they work to bridge the gap between              In November 2025, Nebius was the first provider in Europe
+the world around us and AI. These customers need training                 to deploy NVIDIA HGX B300 Blackwell Ultra systems in produc-
+compute power to create simulated environments, and a sig-                tion, with NVIDIA Quantum-X800 InfiniBand. In the same month,
+nificant amount of storage. Nebius can flex its offering to resize        we achieved Gold status in the SemiAnalysis ClusterMAX 2.0
+and reconfigure our solutions to meet these unique needs.                 ranking, outperforming most hyperscalers.
+
+We are working with World Labs, which is building the next fron-
+tier of generative AI where models can understand and interact            Providing choice, flexibility, and speed for every AI
+with the world, and we are helping a stealth frontier research lab        builder
+building an advanced robotics foundation model.
+                                                                          Through our MLOps offering, our goal is to make it easier for
+Customers in media and entertainment need high-performance
+                                                                          developers to build AI apps faster and more efficiently with better
+compute and large-scale storage for model creation and infer-
+                                                                          tools and visibility, and go from prototype to production without
+ence to support media creation from still images through to full
+                                                                          the need for DevOps or IT.
+frame video. Recent examples include Higgsfield AI, which lever-
+ages Nebius to deliver stylized video content with true cinematic         In November 2025 we launched Token Factory, our produc-
+control, while Photoroom automates AI product visual creation             tion-scale managed inference solution, to enable organizations
+for businesses.                                                           to serve and fine-tune open source AI models at scale. Token
+                                                                          Factory provides choice for organizations that have started with
+To capture the vast opportunity ahead, we are building a world-
+                                                                          commercial AI models for inference and need more cost-efficien-
+class sales and GTM team. In 2026, we will:
+                                                                          cy and control over performance and post-training workflows.
+•   Focus on key enterprise industry verticals, includ-
+    ing healthcare and life sciences, physical AI, and media
+                                                                          Building enterprise readiness
+    and entertainment, as mentioned above. We are also grow-
+    ing our footprint across the retail/e-commerce, and financial
+                                                                          We aim to make it easier for enterprises to adopt AI at scale,
+    services verticals. These end-markets are seeing early trac-
+                                                                          with features that enable easier integration into enterprise
+    tion in AI adoption and we believe they will drive substantial
+                                                                          environments, deliver security and compliance, and enable
+    demand for our AI cloud, creating significant long-term mar-
+                                                                          cross-functional operations.
+    ket potential.
+                                                                          The release of Nebius AI Cloud Aether 3.1 in December 2025
+•   Expand our GTM leadership team and organization to better
+                                                                          built on our Aether 3.0 release by adding more transparen-
+    capture the immense global demand in front of us.
+                                                                          cy, greater controls, and enhanced enterprise-grade security.
+•   Enhance our engagement with the developer community                   In 2026, we have a robust pipeline of new enterprise-focused
+    through an expanded and engaged partnership network.                  products, including seamless integration with on-prem and mul-
+                                                                          ti-cloud offerings, enhanced security and compliance features,
+                                                                          and enablement of operations across various teams within any
+                                                                          organization.
+Advancing our full-stack AI cloud
+                                                                          We will also develop specific AI cloud solutions and products for
+platform                                                                  our five target verticals: healthcare and life sciences, physical
+                                                                          AI, media and entertainment, retail and e-commerce, and finan-
+Our AI cloud platform was a key part of our evolution in 2025.
+                                                                          cial services.
+The releases of Aether 3.1 and Nebius Token Factory demon-
+strated the extensibility of our platform, further differentiating
+Nebius as a unified end-to-end offering for AI builders.                  Acquisition of Tavily, an agentic search provider
+In 2026, we will continue to build out a best-in-class AI cloud
+                                                                          In addition to our organic roadmap, we take a product-led
+stack as we look to meet customers across every step of their AI
+                                                                          approach to expanding our tech stack and tech talent with M&A.
+journey, irrespective of scale. Our goal is to provide the flexibility,
+                                                                          The acquisition of Tavily, announced this week, expands our AI
+control, and efficiency that large-scale enterprises and research
+                                                                          platform with market-leading agentic search capabilities. This
+organizations demand, while also delivering speed and choice for
+                                                                          gives Nebius customers the critical infrastructure they need
+nimble AI startups and scale-ups.
+                                                                          to build autonomous agents that can navigate the web, verify
+To achieve this, our product roadmap focuses on three key                 facts, and execute complex real-world tasks, while eliminating
+elements:                                                                 the need for developers to patch together disparate vendors.
+
+
+
+
+                                                                                                                                             6
+Avride                                                               TripleTen
+Avride, our autonomous vehicle and robot delivery business,          TripleTen, our edtech business, delivered solid revenue growth
+delivered several significant commercial and operational             in 2025 driven by new student acquisitions and a broadening
+achievements in 2025.                                                global footprint
+
+The successful commercial launch of robotaxi services                •   TripleTen delivered revenue growth of 88% year over
+on the Uber platform in Dallas, Texas, in December confirms              year in 2025, supported by higher student enrollments,
+the capability of Avride’s technology and our product readiness          and an increase in average fees per student.
+to deliver safe, reliable ride-hailing services.
+                                                                     •   For the full-year, overall enrollments increased by 55%
+•   Avride is one of only two autonomous vehicle partners                year over year driven by growth in each of our key regions,
+    on the Uber platform, a testament to the team’s ability              and a notable acceleration in Latin America and Brazil.
+    to develop, build, and bring to market autonomous technology.
+                                                                     •   New student growth in Q4 was approximately 5,800.
+The strategic partnership with Uber supports Avride’s strate-
+                                                                     TripleTen launched new technology courses and several prod-
+gic plan and long-term value proposition. Under the agreement,
+                                                                     uct enhancements in 2025.
+which was signed in October, both Uber and Nebius will make
+strategic investments and other commitments of up to $375            •   During 2025, TripleTen introduced several new programs
+million in Avride. This investment accelerates Avride’s capacity         including Cybersecurity, Web Development, and Artificial
+to advance its autonomous technology, continue building its fleet        Intelligence which provides students with the technology
+of vehicles, and expand its coverage map.                                skills that are in high demand in today’s economy.
+
+•   As part of Uber’s market-leading ecosystem, this partner-        •   Nebius Academy launched in September and is gaining
+    ship helps Avride seize the demand opportunity and expand            traction as a B2B solution that helps companies and large
+    Avride’s total serviceable market                                    organizations educate their workforces.
+
+Avride’s partnership with Hyundai helps the team to meaningful-      TripleTen continues to utilize AI to drive further operational
+ly scale its fleet through Ioniq 5 vehicles, to service the demand   efficiency.
+garnered by the Uber partnership. Avride now has 80 cars in ser-
+                                                                     •   TripleTen is now leveraging AI for a variety of operational
+vice and plans to grow this fleet substantially in 2026.
+                                                                         functions including student services, like resume building,
+Avride is uniquely positioned to capitalize on robodelivery              and coaching, as well as student acquisition.
+expansion in new cities and campuses.
+                                                                     •   Additionally, TripleTen continues to incorporate AI in aug-
+•   Avride’s US robot delivery business achieved significant             menting the classroom experience through the generation
+    growth in 2025, surpassing 316,000 deliveries for the year.          of supporting content and materials.
+    In Q4, Avride’s US robots delivered nearly 3x as many deliv-
+    eries per day vs. Q3.
+
+•   During the year, Avride expanded delivery zones in Jersey        Equity stakes: Toloka
+    City, Dallas, and Austin, and expects further growth in cover-
+    age maps and number of cities served in 2026.
+                                                                     and ClickHouse
+•   Campus operations are running very well at The Ohio State        In addition to our non-core businesses, we own equity stakes
+    University in Columbus, and at the University of Arizona         in both Toloka and ClickHouse.
+    in Tucson. The successful build-out strategy will be extend-
+                                                                     Toloka is a leading data provider for LLM and GenAI develop-
+    ed to additional campuses in the coming months.
+                                                                     ers, delivering scalable, high-quality data solutions for all stages
+•   Core to the growth and distribution strategy is expanding        of AI development. During Q4, the company continued to diversi-
+    Avride’s list of partners. During 2025, Avride onboarded some    fy its customer base among leading foundational model builders.
+    of America’s favorite restaurant chains including Shake Shack,
+                                                                     As of Q2’25 we no longer hold voting control of Toloka. However,
+    Wendy’s, and White Castle, and signed key commercial agree-
+                                                                     we maintain a majority economic interest and are encouraged
+    ments with Uber Eats and GrubHub to utilize those powerful
+                                                                     by the growing investor interest in the AI data provider market.
+    distribution platforms.
+                                                                     ClickHouse is an open-source database management system
+•   Additionally, Avride continues to expand its presence beyond
+                                                                     built for real-time data processing and analytics.
+    campuses with service through GrubHub in Jersey City,
+    and with H-E-B, where they are testing new applications for      In January 2026, it was reported that ClickHouse raised $400M
+    Avride’s robots in supermarkets.                                 in a Series D financing at a valuation of approximately $15B.
+                                                                     Following this financing, Nebius continues to own a significant
+                                                                     minority equity stake in ClickHouse.
+
+
+
+
+                                                                                                                                       7
+Financial update
+Revenue
+In USD $ millions                                   Three months ended December 31                      Twelve months ended December 31
+
+
+                                                    2024             2025              Change           2024            2025      Change
+
+
+Revenues                                            35.2             227.7             547%             91.5            529.8     479%
+
+
+
+Nebius once again delivered on its financial goals. Q4 group                  •    Annualized run-rate revenue (ARR) 1 of $1.25 billion
+revenue of $227.7 million came in consistent with our out-                         as of the end of December 2025 exceeded our outlook for
+look, up 547% year-over-year, and up 56% compared to Q3.                           $900 million to $1.1 billion, and more than doubled from $551
+The strong growth was driven primarily by continued robust                         million reported as of the end of September.
+demand for compute capacity across customer types
+                                                                              •    Demand again exceeded capacity in our core AI cloud busi-
+and regions.
+                                                                                   ness. We operated at peak utilization during the quarter
+•     Core AI cloud revenue was $214.2 million in Q4’25, a more                    and were sold out of capacity in Q4.
+      than 800% increase year-over-year from Q4’24. Our core
+                                                                              •    Beyond our core AI cloud business, TripleTen contributed
+      AI cloud business accounted for approximately 94% of total
+                                                                                   approximately 6% of group revenue in Q4. Avride’s revenue
+      group revenue during the quarter.
+                                                                                   contribution in Q4 and full year 2025 was immaterial.
+
+
+
+
+Operating expense
+In USD $ millions                                   Three months ended December 31                      Twelve months ended December 31
+
+
+Expense category                                    2024             2025            Change             2024            2025      Change
+
+
+Cost of revenues                                    21.1             68.5            225%               43.7            166.2     280%
+
+
+    as a percentage of revenues                     60%              30%                                48%             31%
+
+
+Product development                                 31.9             53.1            66%                114.8           177.3     54%
+
+
+    as a percentage of revenues                     91%              23%                                125%            33%
+
+
+Sales, general and administrative                   85.4             159.9           87%                255.5           378.5     48%
+
+
+    as a percentage of revenues                     243%             70%                                279%            71%
+
+
+Depreciation and amortization                       33.3             180.7           443%               77.1            404.0     424%
+
+
+    as a percentage of revenues                     95%              79%                                84%             76%
+
+
+Total operating costs and expenses                  171.7            462.2           169%               491.1           1,126.0   129%
+
+
+    as a percentage of revenues                     488%             203%                               537%            213%
+
+
+
+
+Note: Toloka results have been reclassified to discontinued operations in the current and prior-year periods.
+(1) Annualized run-rate revenue (ARR) is calculated by taking revenue from the last month of the quarter multiplied by 12.                    8
+Cost of revenue was $68.5 million in Q4’25, representing                      •    The increase was partially driven by higher personnel
+an increase of 225% compared to the same period in 2024.                           expenses and professional service fees, as well as growth
+                                                                                   in marketing and advertising spend. The increase also
+•    The increase was due to the expansion of our core AI cloud
+                                                                                   includes a one-time, non-recurring expense of $43.6 million.
+     business, primarily from expenses incurred for co-location
+     and operating lease agreements, as well as the hiring to sup-            •    SG&A as a percentage of revenues declined to 70% from
+     port our growing data-center operations.                                      243% in the fourth quarter of 2024, also driven by operat-
+                                                                                   ing leverage.
+•    As a percentage of revenue, cost of revenue was 30%
+     in Q4’25, down from 60% in Q4’24, primarily reflecting oper-             Depreciation and amortization expenses (“D&A”) were $180.7
+     ating leverage as we scaled capacity.                                    million in Q4’25, representing an increase of 443% compared
+                                                                              to the same period in 2024.
+Product development expenses were $53.1 million in Q4’25,
+representing an increase of 66% compared to the same period                   •    The primary driver of the dollar increase in D&A expenses was
+in 2024.                                                                           the continued investments in GPU-related capital expendi-
+                                                                                   tures and related data center hardware for the core AI cloud
+•    The increase in product development expenses was primar-
+                                                                                   business.
+     ily driven by investment in our engineering and development
+     teams to build and enhance our product offerings.                        •    For the periods presented, we depreciated our server
+                                                                                   and network equipment over a four-year period.
+•    As a percentage of revenue, product development expens-
+     es decreased to 23% from 91% in the prior year period owing              •    D&A as a percentage of revenue declined to 79% from 95%
+     to scale benefits.                                                            as revenue grew faster than D&A.
+
+Sales, general and administrative expenses (“SG&A”) were
+$159.9 million in Q4’25, representing an increase of 87% com-
+pared to $85.4 million in the same period in 2024.
+
+
+
+
+Adjusted EBITDA
+In USD $ millions                                   Three months ended December 31                      Twelve months ended December 31
+
+
+                                                    2024             2025            Change             2024            2025     Change
+
+
+Adjusted EBITDA / (loss)                            (63.9)           15.0            n/m                (226.3)         (64.9)   -71%
+
+
+    as a percentage of revenues                     -182%            7%                                 -247%           -12%
+
+
+Group adjusted EBITDA of $15.0 million in Q4 improved by $78.9                     which generated adjusted EBITDA of $51.8 million and adjust-
+million year over year, as we achieved our first quarter of positive               ed EBITDA margin of 24%.
+adjusted EBITDA at the Group level.
+                                                                              •    We achieved positive Q4 group adjusted EBITDA despite
+•    The continued improvement in Adjusted EBITDA was driven                       Avride and TripleTen recording adjusted EBITDA losses
+     primarily by the strong growth in our core AI cloud business,                 in the quarter.
+
+
+
+
+Capital expenditures                                                          Subsequent events
+In Q4’25, capital expenditures were approximately $2.1 billion, pri-          Following a review process conducted by the Audit Committee
+marily driven by purchases of GPUs and GPU-related hardware,                  of the Board of Directors, the company plans to recom-
+and our data center expansion activities including investments                mend that our shareholders approve the engagement
+in planned greenfield sites. We are confident in our ability                  of Deloitte & Touche LLP as the company’s independent
+to deliver on our increased target for greater than 3 GW of con-              registered public accounting firm for the financial year end-
+tracted power by the end of 2026, having already secured more                 ing December 31, 2026 at its upcoming annual meeting.
+than 2 GW of contracted power to date.
+
+
+
+
+Note: Toloka results have been reclassified to discontinued operations in the current and prior-year periods.
+(1) Annualized run-rate revenue (ARR) is calculated by taking revenue from the last month of the quarter multiplied by 12.                    9
+                                                                           ments should not be read to indicate that we have conducted
+Guidance                                                                   an exhaustive inquiry into, or review of, all potentially available
+                                                                           relevant information. These statements are inherently uncer-
+The company will share a detailed view of guidance on its earn-
+                                                                           tain, and investors are cautioned not to unduly rely upon these
+ings call and webcast.
+                                                                           statements.
+
+                                                                           Disclaimer
+
+Earnings webcast                                                           Links to third-party websites are provided for informational pur-
+                                                                           poses only; Nebius is not responsible for the content contained
+Nebius Group will host a conference call and earnings webcast              on or accessible through the linked sites.
+at 5:00 a.m. Pacific time/8:00 a.m. Eastern time/2:00 p.m. Central
+European Time on February 12, 2026 to discuss these financial
+results. To register to participate in the conference call, or to listen
+to the live audio webcast, please visit Nebius’s Investor Relations
+                                                                           Use of Non-GAAP financial
+website at group.nebius.com/investor-hub.                                  measures
+A replay will be available on the same website following the call.
+                                                                           To supplement the financial information prepared and presented
+                                                                           in accordance with U.S. GAAP, we present the following non-
+                                                                           GAAP financial measures: Adjusted EBITDA/(loss) and Adjusted
+Forward-looking statements                                                 net income/(loss). The presentation of these financial measures
+                                                                           is not intended to be considered in isolation or as a substitute for,
+This document contains forward-looking statements that involve             or superior to, the financial information prepared and present-
+risks and uncertainties. All statements contained or implied other         ed in accordance with U.S. GAAP. For more information on these
+than statements of historical facts, including, without limitation,        non-GAAP financial measures, please see the tables captioned
+statements regarding our business plans, market opportuni-                 “Reconciliations of non-GAAP financial measures to the nearest
+ties, capital expenditure requirements, financing requirements             comparable U.S. GAAP measures”, included following the accom-
+and projected financial performance, are forward-looking state-            panying financial tables. We define the various non-GAAP
+ments. In some cases, these forward-looking statements can                 financial measures we use as follows:
+be identified by words or phrases such as “may,” “will,” “expect,”
+                                                                           •   Adjusted EBITDA/(loss) means U.S. GAAP net income/(loss)
+“anticipate,” “aim,” “estimate,” “intend,” “plan,” “believe,” “poten-
+                                                                               from continuing operations plus (1) depreciation and amor-
+tial,” “continue,” “is/are likely to” or other similar expressions.
+                                                                               tization, (2) certain SBC expense, (3) interest expense,
+In addition, these forward-looking statements reflect our cur-
+                                                                               (4) income tax expense/(benefit), (5) one-off restructur-
+rent views with respect to future events and are not a guarantee
+                                                                               ing and other expenses, less (1) interest income, (2) other
+of future performance. The potential risks and uncertainties that
+                                                                               income/(loss), net, (3) income/(loss) from equity method
+could cause actual results to differ from the results predicted
+                                                                               investments and (4) gain from revaluation of investments
+or implied by such statements include, among others, our ability
+                                                                               in equity securities.
+to successfully compete in our sector; to implement our business
+plans; to continue to successfully capture customers; to continue          •   Adjusted net income/(loss) means U.S. GAAP net income/
+to successfully obtain required supplies of hardware on accept-                (loss) from continuing operations plus (1) certain SBC
+able terms; and to obtain further debt or equity financing that                expense, (2) one-off restructuring and other expenses, (3)
+may be necessary to achieve our objectives on acceptable terms.                amortization of debt discount and issuance costs, net of inter-
+Many of these risks and uncertainties depend on the actions                    est expense capitalized less (1) foreign exchange (gains)/
+of third parties and are largely outside of our control. We also con-          losses and (2) gain from revaluation of investments in equity
+tinue to be subject to many of the risks and uncertainties included            securities. Tax effects related to the listed adjustments are
+under the captions “Risk Factors” and “Operating and Financial                 excluded from adjusted net income.
+Review and Prospects” in our Annual Report on Form 20-F for
+                                                                           These non-GAAP financial measures are used by management
+the year ended December 31, 2024 filed with the U.S. Securities
+                                                                           for evaluating financial performance as well as decision-making.
+and Exchange Commission (“SEC”) on April 30, 2025, which
+                                                                           Management believes that these metrics reflect the organic, core
+is available on our investor relations website at https://group.nebi-
+                                                                           operating performance of the company, and therefore are useful
+us.com and on the SEC website at www.sec.gov. All information
+                                                                           to analysts and investors in providing supplemental information
+in this document is as of the date hereof, and the Company under-
+                                                                           that helps them understand, model and forecast the evolution
+takes no duty to update this information unless required by law.
+                                                                           of our operating business.
+In addition, statements that “we believe” and similar state-
+                                                                           Although our management uses these non-GAAP finan-
+ments reflect our beliefs and opinions on the relevant subject.
+                                                                           cial measures for operational decision-making and considers
+These statements are based upon information available to us
+                                                                           these financial measures to be useful for analysts and inves-
+as of the date of this document, and while we believe such infor-
+                                                                           tors, we recognize that there are a number of limitations related
+mation forms a reasonable basis for such statements, such
+                                                                           to such measures. In particular, it should be noted that sever-
+information may be limited or incomplete, and our state-
+                                                                           al of these measures exclude some recurring costs, particularly
+
+
+
+                                                                                                                                             10
+certain share-based compensation. In addition, the components         Amortization of debt discount and issuance costs, net of inter-
+of the costs that we exclude in our calculation of the measures       est expense capitalized
+described above may differ from the components that our peer
+                                                                      We also adjust net income/(loss) for interest expense represent-
+companies exclude when they report their results of operations.
+                                                                      ing amortization of the debt discount and issuance costs related
+Below we describe why we make particular adjustments to cer-          to our convertible senior notes, net of interest expense capital-
+tain U.S. GAAP financial measures:                                    ized into cost of our property, plant and equipment. Debt discount
+                                                                      represents the accretion of the nominal amount of notes payable
+Net income/(loss) from discontinued operations
+                                                                      at maturity, unless the relevant notes have been earlier repur-
+We present Adjusted EBITDA/(loss) and Adjusted net income /           chased, redeemed or converted in accordance with their terms.
+(loss) exсluding any effects of our discontinued operations.          We adjust net income/(loss) for the interest expense recog-
+                                                                      nized from amortization of the debt discount and issuance costs
+Information on our discontinued operations is disclosed in our
+                                                                      due to the significantly different timing of payment in relation
+Annual Report on Form 20-F for the year ended December 31,
+                                                                      to the operating results.
+2024 filed with the U.S. Securities and Exchange Commission
+(“SEC”) on April 30, 2025. In Q2 2025, following the comple-
+tion of the investment transaction in Toloka, an AI development
+platform, Nebius ceased to hold majority voting power in Toloka
+and no longer includes Toloka’s results in Nebius’ consolidat-
+ed financial statements and reports its stake as equity method
+investment. Toloka’s results for prior periods were reclassified
+to discontinued operations.
+
+Certain SBC expense
+
+SBC (Stock-Based Compensation) is a significant expense item
+and an important part of our compensation and incentive pro-
+grams. As it is highly dependent on our share price at the time
+of equity award grants, we believe that it is useful for inves-
+tors and analysts to see certain financial measures excluding
+the impact of these charges in order to obtain a clearer picture
+of our operating performance. However, because we settled some
+RSU equity awards of our employees granted before 2022 in cash
+during 2024, a portion of stock-based compensation expense for
+2024 was included in Adjusted EBITDA/(loss).
+
+Foreign exchange gains/(losses)
+
+The functional currency of Nebius Group N.V. is the United States
+Dollar, which is also the Group’s current reporting currency.
+Foreign exchange gain/(loss) dynamics reflect changes in the U.S.
+dollar value of monetary assets and liabilities that are denom-
+inated in other currencies, as well as changes in the functional
+currencies of foreign subsidiaries’ monetary assets and liabilities
+that are denominated in currencies different from their respec-
+tive local currencies. Because foreign exchange fluctuations are
+outside of our operational control, we believe that it is useful
+to present Adjusted EBITDA/(loss), adjusted net income/(loss)
+and related margin measures excluding these effects, in order
+to provide greater clarity regarding our operating performance.
+
+One-off restructuring and other expenses
+
+We believe that it is useful to present Adjusted net income/(loss),
+Adjusted EBITDA/(loss) and related margin measures exclud-
+ing impacts not related to our operating activities. Adjusted net
+income/(loss) and Adjusted EBITDA/(loss) exclude certain expens-
+es related to the restructuring and other similar one-off expenses.
+
+
+
+
+                                                                                                                                      11
+Contact investor relations:
+askIR@nebius.com
+

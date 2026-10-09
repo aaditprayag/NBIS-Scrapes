@@ -1,0 +1,17 @@
+site,date,scene,crop_ha,roof_white_ha,roof_grey_ha,bare_ha,ndvi_mean,png
+bethune_fr,2023-02-14,S2A_31UDS_20230214_0_L2A,26.0,0.41,3.15,0.6,0.238,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2023-02-14_crop.png
+bethune_fr,2023-06-04,S2A_31UDR_20230604_0_L2A,26.0,2.15,2.66,1.34,0.285,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2023-06-04_crop.png
+bethune_fr,2023-09-07,S2B_31UDR_20230907_0_L2A,26.0,1.85,3.09,0.58,0.291,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2023-09-07_crop.png
+bethune_fr,2023-10-07,S2B_31UDR_20231007_0_L2A,26.0,1.94,3.88,0.62,0.271,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2023-10-07_crop.png
+bethune_fr,2024-01-10,S2A_31UDS_20240110_0_L2A,26.0,0.81,4.58,0.56,0.238,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2024-01-10_crop.png
+bethune_fr,2024-06-26,S2B_31UDR_20240626_0_L2A,26.0,1.92,1.81,1.64,0.292,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2024-06-26_crop.png
+bethune_fr,2024-09-19,S2A_31UDR_20240919_0_L2A,26.0,1.49,3.26,0.95,0.271,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2024-09-19_crop.png
+bethune_fr,2024-10-24,S2B_31UDS_20241024_0_L2A,26.0,0.98,3.12,0.68,0.305,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2024-10-24_crop.png
+bethune_fr,2025-03-20,S2B_31UDR_20250320_0_L2A,26.0,1.23,3.4,1.05,0.26,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2025-03-20_crop.png
+bethune_fr,2025-04-29,S2A_31UDR_20250429_1_L2A,26.0,2.11,2.66,1.17,0.297,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2025-04-29_crop.png
+bethune_fr,2025-08-12,S2C_31UDR_20250812_0_L2A,26.0,2.22,2.86,1.62,0.26,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2025-08-12_crop.png
+bethune_fr,2025-12-25,S2B_31UDS_20251225_0_L2A,26.0,2.99,4.42,0.21,0.236,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2025-12-25_crop.png
+bethune_fr,2026-03-18,S2B_31UDR_20260318_0_L2A,26.0,4.25,2.31,0.8,0.298,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2026-03-18_crop.png
+bethune_fr,2026-05-01,S2A_31UDR_20260501_0_L2A,26.0,5.28,1.8,1.36,0.29,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2026-05-01_crop.png
+bethune_fr,2026-08-12,S2B_31UDR_20260812_0_L2A,26.0,6.5,1.9,3.6,0.171,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2026-08-12_crop.png
+bethune_fr,2026-10-04,S2B_31UDR_20261004_0_L2A,26.0,5.97,2.15,0.57,0.262,/workspace/nebius/capacity/altdata/imagery/bethune_fr/detail/bethune_fr_2026-10-04_crop.png

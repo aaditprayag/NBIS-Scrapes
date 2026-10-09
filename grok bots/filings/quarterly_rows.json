@@ -1,0 +1,2868 @@
+{
+  "rows": {
+    "Revenue - group (continuing ops, latest restated basis, $M)": [
+      [
+        9.7,
+        "Derived",
+        "Q2PR25",
+        "H1 24.2 - Q2 14.5",
+        "restated ex-Toloka; orig. reported incl. Toloka 11.4"
+      ],
+      [
+        14.5,
+        "Reported",
+        "Q2PR25",
+        "comparative",
+        ""
+      ],
+      [
+        32.1,
+        "Reported",
+        "Q3PR25",
+        "comparative",
+        "orig. 43.3 incl. Toloka"
+      ],
+      [
+        35.2,
+        "Reported",
+        "Q4PR",
+        "comparative",
+        "orig. 37.9 incl. Toloka"
+      ],
+      [
+        50.9,
+        "Reported",
+        "Q1PR",
+        "comparative",
+        "orig. 55.3 incl. Toloka"
+      ],
+      [
+        105.1,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        146.1,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        227.7,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        399.0,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        582.3,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Revenue - as originally reported (incl. Toloka through Q1-25, $M)": [
+      [
+        11.4,
+        "Derived",
+        "Q2PR24",
+        "H1 36.3 - Q2 24.9",
+        "matches Q1 2025 PR comparative"
+      ],
+      [
+        24.9,
+        "Reported",
+        "Q2PR24",
+        "",
+        ""
+      ],
+      [
+        43.3,
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        37.9,
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        55.3,
+        "Reported",
+        "Q1PR25",
+        "",
+        ""
+      ],
+      [
+        105.1,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        146.1,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        227.7,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        399.0,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        582.3,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Segment revenue - Nebius AI cloud ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 17.4 (H1FS25); quarterly split not disclosed"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 17.4"
+      ],
+      [
+        27.1,
+        "Derived",
+        "Q3FS25",
+        "9M 44.5 - H1 17.4; also reported Q3 comparative",
+        "reported 27.1"
+      ],
+      [
+        23.8,
+        "Derived",
+        "20F25",
+        "FY24 68.3 - 9M 44.5",
+        ""
+      ],
+      [
+        41.4,
+        "Reported",
+        "Q1FS",
+        "Note segments",
+        ""
+      ],
+      [
+        93.7,
+        "Reported",
+        "Q2FS",
+        "Note 15",
+        ""
+      ],
+      [
+        131.1,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        214.1,
+        "Derived",
+        "20F25",
+        "FY25 480.3 - 9M 266.2",
+        ""
+      ],
+      [
+        389.7,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        574.9,
+        "Reported",
+        "Q2FS",
+        "Note 15",
+        ""
+      ]
+    ],
+    "Segment revenue - Avride ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 0.1"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 0.1"
+      ],
+      [
+        0.1,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        0.1,
+        "Derived",
+        "20F25",
+        "FY 0.3 - 9M 0.2",
+        ""
+      ],
+      [
+        0.2,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        0.2,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        0.2,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        0.7,
+        "Derived",
+        "20F25",
+        "FY 1.3 - 9M 0.6",
+        ""
+      ],
+      [
+        0.9,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        1.0,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Segment revenue - TripleTen ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 10.2"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total 10.2"
+      ],
+      [
+        6.3,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        12.3,
+        "Derived",
+        "20F25",
+        "FY 28.8 - 9M 16.5",
+        ""
+      ],
+      [
+        10.5,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        12.3,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        16.2,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        15.1,
+        "Derived",
+        "20F25",
+        "FY 54.1 - 9M 39.0",
+        ""
+      ],
+      [
+        11.6,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        10.0,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Segment revenue - Eliminations ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total -3.5"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total -3.5"
+      ],
+      [
+        -1.4,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -1.0,
+        "Derived",
+        "20F25",
+        "FY -5.9 - 9M -4.9",
+        ""
+      ],
+      [
+        -1.2,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -1.1,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        -1.4,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -2.2,
+        "Derived",
+        "20F25",
+        "FY -5.9 - 9M -3.7",
+        ""
+      ],
+      [
+        -3.2,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -3.6,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Segment revenue - Toloka": [
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ],
+      [
+        "not disclosed (discontinued ops; reclassified)",
+        "Not disclosed",
+        "20F25",
+        "",
+        "Toloka deconsolidated Q2 2025; prior periods in discontinued ops"
+      ]
+    ],
+    "ARR - Nebius AI cloud, as stated ($M)": [
+      [
+        32,
+        "Reported",
+        "PRES24",
+        "ARR chart (1Q24)",
+        "investor presentation"
+      ],
+      [
+        45,
+        "Reported",
+        "PRES24",
+        "ARR chart (2Q24)",
+        "Q2-24 PR: \">$80M as of July 2024\""
+      ],
+      [
+        121,
+        "Reported",
+        "PRES24",
+        "ARR chart (3Q24)",
+        "Q3-24 PR: \"surpassing $120M as of September 2024\""
+      ],
+      [
+        90,
+        "Reported",
+        "Q4PR24",
+        "highlights",
+        "\"December 2024 ARR ... $90 million, below previous guidance\""
+      ],
+      [
+        249,
+        "Reported",
+        "Q1LTR25",
+        "",
+        ""
+      ],
+      [
+        430,
+        "Reported",
+        "Q2PR25",
+        "highlights",
+        ""
+      ],
+      [
+        551,
+        "Reported",
+        "Q3LTR25",
+        "\"approximately $551 million\"",
+        ""
+      ],
+      [
+        1250,
+        "Reported",
+        "Q4LTR",
+        "",
+        ""
+      ],
+      [
+        1920,
+        "Reported",
+        "Q1LTR",
+        "p.9 ($1.92B)",
+        ""
+      ],
+      [
+        3000,
+        "Reported",
+        "Q2LTR",
+        "p.9",
+        ""
+      ]
+    ],
+    "ARR guidance outstanding at quarter end (as stated)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "$170-190M (Dec-24)",
+        "Reported",
+        "PRES24",
+        "",
+        ""
+      ],
+      [
+        "$750M-1B (Dec-25)",
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        "$750M-1B (Dec-25)",
+        "Reported",
+        "Q1LTR25",
+        "",
+        ""
+      ],
+      [
+        "$900M-1.1B (Dec-25)",
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        "$900M-1.1B (Dec-25)",
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        "$7-9B (Dec-26)",
+        "Reported",
+        "Q4LTR",
+        "",
+        ""
+      ],
+      [
+        "$7-9B (Dec-26)",
+        "Reported",
+        "Q1LTR",
+        "p.2",
+        ""
+      ],
+      [
+        "$7-9B (Dec-26)",
+        "Reported",
+        "CALL",
+        "",
+        ""
+      ]
+    ],
+    "Adjusted EBITDA - group ($M)": [
+      [
+        -58.4,
+        "Derived",
+        "Q2PR25",
+        "H1 -116.5 - Q2 -58.1",
+        "restated basis"
+      ],
+      [
+        -58.1,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        -45.9,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        -63.9,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        -53.7,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        -21.0,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        -5.2,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        15.0,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        129.5,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        236.2,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Adjusted EBITDA - Nebius AI cloud segment ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total -68.5"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 total -68.5"
+      ],
+      [
+        -21.5,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -38.5,
+        "Derived",
+        "20F25",
+        "FY -128.5 - 9M -90.0",
+        ""
+      ],
+      [
+        -27.4,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        9.5,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        25.1,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        51.8,
+        "Derived",
+        "20F25",
+        "FY 59.0 - 9M 7.2",
+        ""
+      ],
+      [
+        174.0,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        285.7,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Adjusted EBITDA - Avride ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 -34.4"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 -34.4"
+      ],
+      [
+        -15.4,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -17.2,
+        "Derived",
+        "20F25",
+        "FY -67.0 - 9M -49.8",
+        ""
+      ],
+      [
+        -16.9,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -17.3,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        -20.8,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -27.7,
+        "Derived",
+        "20F25",
+        "FY -82.7 - 9M -55.0",
+        ""
+      ],
+      [
+        -34.1,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -40.1,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Adjusted EBITDA - TripleTen ($M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 -13.6"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "H1FS25",
+        "",
+        "H1-24 -13.6"
+      ],
+      [
+        -9.0,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -8.2,
+        "Derived",
+        "20F25",
+        "FY -30.8 - 9M -22.6",
+        ""
+      ],
+      [
+        -9.4,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -13.2,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ],
+      [
+        -9.5,
+        "Reported",
+        "Q3FS25",
+        "",
+        ""
+      ],
+      [
+        -9.1,
+        "Derived",
+        "20F25",
+        "FY -41.2 - 9M -32.1",
+        ""
+      ],
+      [
+        -10.4,
+        "Reported",
+        "Q1FS",
+        "",
+        ""
+      ],
+      [
+        -9.4,
+        "Reported",
+        "Q2FS",
+        "",
+        ""
+      ]
+    ],
+    "Net income/(loss) - continuing ops ($M)": [
+      [
+        -68.6,
+        "Derived",
+        "Q2PR25",
+        "H1 -185.5 - Q2 -116.9",
+        ""
+      ],
+      [
+        -116.9,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        -43.6,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        -122.9,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        -104.3,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        502.5,
+        "Reported",
+        "Q2PR25",
+        "",
+        "incl. $597.4M equity revaluation gain"
+      ],
+      [
+        -119.6,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        -249.6,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        621.2,
+        "Reported",
+        "Q1PR",
+        "",
+        "incl. $780.6M equity revaluation gain"
+      ],
+      [
+        -190.4,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Net income/(loss) - total ($M)": [
+      [
+        -316.5,
+        "Derived",
+        "Q2PR25",
+        "H1 -414.0 - Q2 -97.5",
+        "matches Q1-25 PR comparative"
+      ],
+      [
+        -97.5,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        -94.2,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        -133.2,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        -113.5,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        584.4,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        -119.6,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        -249.6,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        621.2,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        -190.4,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Depreciation & amortization ($M)": [
+      [
+        8.9,
+        "Derived",
+        "Q2PR25",
+        "H1 20.3 - Q2 11.4",
+        "Q1-25 PR comparative also 8.9"
+      ],
+      [
+        11.4,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        23.5,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        33.3,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        49.1,
+        "Reported",
+        "Q1PR",
+        "",
+        "Q1-25 PR originally 49.2"
+      ],
+      [
+        75.2,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        99.0,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        180.7,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        212.0,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        259.7,
+        "Reported",
+        "Q2PR",
+        "",
+        "4->5yr life change cut Q2 depreciation by $43.0M"
+      ]
+    ],
+    "Capex - purchases of PP&E and intangibles ($M)": [
+      [
+        58.9,
+        "Derived",
+        "Q2PR25",
+        "H1 217.9 - Q2 159.0",
+        ""
+      ],
+      [
+        159.0,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        172.1,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        417.5,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        543.9,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        510.6,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        955.5,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        2056.0,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        2472.9,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        5657.4,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "PP&E, net (end of period, $M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        "pre-divestiture (Yandex N.V.) balance sheet not comparable"
+      ],
+      [
+        328.3,
+        "Reported",
+        "Q2PR24",
+        "BS",
+        "as reported Aug-24 (incl. Toloka)"
+      ],
+      [
+        475.3,
+        "Reported",
+        "Q3PR24",
+        "BS",
+        "as reported"
+      ],
+      [
+        846.7,
+        "Reported",
+        "Q4PR",
+        "BS comparative",
+        "orig. 849.3 (Q4-24 PR)"
+      ],
+      [
+        1334.1,
+        "Reported",
+        "Q1PR25",
+        "BS",
+        "as reported (incl. Toloka)"
+      ],
+      [
+        1789.4,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        3314.4,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        5553.3,
+        "Reported",
+        "Q2PR",
+        "BS comparative",
+        "Q4-25 PR originally 5,572.5"
+      ],
+      [
+        7131.7,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        13045.2,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Cash & cash equivalents (end of period, $M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        "pre-divestiture balance sheet not comparable"
+      ],
+      [
+        2325.5,
+        "Reported",
+        "Q2PR24",
+        "BS",
+        "as reported (incl. Toloka)"
+      ],
+      [
+        2288.2,
+        "Reported",
+        "Q3PR24",
+        "BS",
+        "continuing ops 2,277.8 per Q3-25 PR"
+      ],
+      [
+        2434.7,
+        "Reported",
+        "Q4PR",
+        "BS comparative",
+        "orig. 2,449.6 incl. Toloka"
+      ],
+      [
+        1447.0,
+        "Reported",
+        "Q1PR25",
+        "BS",
+        "continuing ops 1,439.7 per Q1-26 PR"
+      ],
+      [
+        1679.3,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        4794.8,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        3678.1,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        9298.2,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        8042.1,
+        "Reported",
+        "Q2PR",
+        "",
+        "restricted cash +1,056.0"
+      ]
+    ],
+    "Total debt (current + non-current, carrying, $M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        "pre-divestiture"
+      ],
+      [
+        6.5,
+        "Reported",
+        "Q2PR24",
+        "BS current portion",
+        "non-current not shown"
+      ],
+      [
+        6.2,
+        "Reported",
+        "Q3PR24",
+        "BS current portion",
+        ""
+      ],
+      [
+        6.1,
+        "Reported",
+        "Q4PR",
+        "BS",
+        ""
+      ],
+      [
+        6.2,
+        "Reported",
+        "Q1PR25",
+        "BS current portion",
+        ""
+      ],
+      [
+        986.2,
+        "Derived",
+        "Q2PR25",
+        "8.0 + 978.2",
+        "June-25 converts"
+      ],
+      [
+        4106.8,
+        "Derived",
+        "Q3PR25",
+        "16.0 + 4,090.8",
+        ""
+      ],
+      [
+        4127.7,
+        "Derived",
+        "Q4PR",
+        "24.5 + 4,103.2",
+        ""
+      ],
+      [
+        8450.4,
+        "Derived",
+        "Q1PR",
+        "18.4 + 8,432.0",
+        ""
+      ],
+      [
+        8545.7,
+        "Derived",
+        "Q2PR",
+        "46.7 + 8,499.0",
+        ""
+      ]
+    ],
+    "Shares outstanding - total (period end)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        "Yandex N.V. pre-divestiture"
+      ],
+      [
+        293850159,
+        "Reported",
+        "Q2PR24",
+        "",
+        "before final divestiture closing/treasury"
+      ],
+      [
+        199340118,
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        235753600,
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        238108831,
+        "Reported",
+        "Q1PR25",
+        "",
+        ""
+      ],
+      [
+        238705092,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        251807222,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        253016971,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        253898194,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        271855218,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Shares outstanding - Class A": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        258151485,
+        "Reported",
+        "Q2PR24",
+        "",
+        ""
+      ],
+      [
+        163641444,
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        200054926,
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        202410157,
+        "Reported",
+        "Q1PR25",
+        "",
+        ""
+      ],
+      [
+        203006418,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        218158548,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        219465088,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        220406311,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        238400165,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Shares outstanding - Class B": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        35698674,
+        "Reported",
+        "Q2PR24",
+        "",
+        ""
+      ],
+      [
+        35698674,
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        35698674,
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        35698674,
+        "Reported",
+        "Q1PR25",
+        "",
+        ""
+      ],
+      [
+        35698674,
+        "Reported",
+        "Q2PR25",
+        "",
+        ""
+      ],
+      [
+        33648674,
+        "Reported",
+        "Q3PR25",
+        "",
+        ""
+      ],
+      [
+        33551883,
+        "Reported",
+        "Q4PR",
+        "",
+        ""
+      ],
+      [
+        33491883,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        33455053,
+        "Reported",
+        "Q2PR",
+        "",
+        ""
+      ]
+    ],
+    "Weighted avg shares - basic": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "20F24",
+        "",
+        "not disclosed quarterly (Yandex N.V. pre-divestiture; no EPS table in PR). FY2024 basic = 281,005,226 (20-F FY24)"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "20F24",
+        "",
+        "not disclosed quarterly; FY2024 basic = 281,005,226; period-end Q2-24 count 293,850,159 is pre-Second Completion"
+      ],
+      [
+        246595139,
+        "Estimated",
+        "Q3PR24",
+        "avg(293,850,159 Q2-end; 199,340,118 Q3-end)",
+        "ESTIMATE only: weighted count not disclosed; 94.9M treasury shares received 12-Jul-2024 so true average is lower than simple avg"
+      ],
+      [
+        217546859,
+        "Estimated",
+        "Q4PR24",
+        "avg(199,340,118; 235,753,600)",
+        "ESTIMATE only: not disclosed; 33.3M placement shares issued Dec-2024 so true average is closer to Q3-end count"
+      ],
+      [
+        237916047,
+        "Reported",
+        "Q1PR",
+        "comparative",
+        ""
+      ],
+      [
+        238520244,
+        "Reported",
+        "Q2PR",
+        "comparative",
+        ""
+      ],
+      [
+        245256157,
+        "Estimated",
+        "Q3PR25",
+        "avg(238,705,092; 251,807,222)",
+        "ESTIMATE only: not disclosed in Q3-25 PR/OFR. Cross-check: FY25 basic 242,531,291 x4 - Q1 - Q2 = 493,688,873 implied H2 sum vs estimate sum 497,668,254 (+0.8%)"
+      ],
+      [
+        252412097,
+        "Estimated",
+        "Q4PR",
+        "avg(251,807,222; 253,016,971)",
+        "ESTIMATE only: not disclosed; see Q3-25 cross-check"
+      ],
+      [
+        258298911,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        280381615,
+        "Reported",
+        "Q2PR",
+        "",
+        "includes 21,065,936 NVIDIA pre-funded warrant shares; excludes 2,743,655 unvested Eigen AI shares"
+      ]
+    ],
+    "Weighted avg shares - diluted": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        "20F24",
+        "",
+        "not disclosed quarterly; FY2024 diluted = 281,005,226 (net loss)"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "20F24",
+        "",
+        "not disclosed quarterly; FY2024 diluted = 281,005,226"
+      ],
+      [
+        246595139,
+        "Estimated",
+        "Q3PR24",
+        "= basic estimate (net loss quarter -> anti-dilutive)",
+        "ESTIMATE only"
+      ],
+      [
+        217546859,
+        "Estimated",
+        "Q4PR24",
+        "= basic estimate (net loss)",
+        "ESTIMATE only"
+      ],
+      [
+        237916047,
+        "Reported",
+        "Q1PR",
+        "comparative",
+        ""
+      ],
+      [
+        247266034,
+        "Reported",
+        "Q2PR",
+        "comparative",
+        ""
+      ],
+      [
+        245256157,
+        "Estimated",
+        "Q3PR25",
+        "= basic estimate (net loss from continuing ops)",
+        "ESTIMATE only; FY25 diluted 247,679,946 per 20-F"
+      ],
+      [
+        252412097,
+        "Estimated",
+        "Q4PR",
+        "= basic estimate (net loss)",
+        "ESTIMATE only"
+      ],
+      [
+        308971701,
+        "Reported",
+        "Q1PR",
+        "",
+        ""
+      ],
+      [
+        280381615,
+        "Reported",
+        "Q2PR",
+        "",
+        "net loss -> diluted = basic; 65,416,804 weighted if-converted shares excluded as anti-dilutive (Q2FS Note 1)"
+      ]
+    ],
+    "Deferred revenue, total (end of period, $M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        16.3,
+        "Reported",
+        "Q2PR25",
+        "Balance sheet Deferred revenue (Dec 31, 2024 comparative)",
+        "Restated vs FY24 20-F $16.5; confirmed in FY25 20-F BS"
+      ],
+      [
+        19.0,
+        "Reported",
+        "Q1PR25",
+        "Balance sheet Deferred revenue (Mar 31, 2025)",
+        "As originally reported; YE24 comparative in that PR was $16.5 (later restated to $16.3). No subsequent filing restates the Mar-31-2025 deferred balance."
+      ],
+      [
+        19.3,
+        "Reported",
+        "Q2PR25",
+        "Balance sheet Deferred revenue (Jun 30, 2025)",
+        "Current line only; no non-current deferred revenue presented"
+      ],
+      [
+        15.6,
+        "Reported",
+        "Q3PR25",
+        "Balance sheet Deferred revenue (Sep 30, 2025)",
+        "Current line only; no non-current presented"
+      ],
+      [
+        1577.5,
+        "Reported",
+        "Q2FS",
+        "Note 1",
+        ""
+      ],
+      [
+        4778.1,
+        "Reported",
+        "Q1FS",
+        "Note 1",
+        ""
+      ],
+      [
+        5975.2,
+        "Reported",
+        "Q2FS",
+        "Note 1",
+        ""
+      ]
+    ],
+    "RPO (end of period, $M)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        21333.0,
+        "Reported",
+        "20F25",
+        "Note (revenue)",
+        ""
+      ],
+      [
+        33585.3,
+        "Reported",
+        "Q1FS",
+        "Note 1",
+        ""
+      ],
+      [
+        37490.6,
+        "Reported",
+        "Q2FS",
+        "Note 1",
+        ""
+      ]
+    ],
+    "Active power (MW)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "~170",
+        "Reported",
+        "Q4LTR",
+        "highlights",
+        "vs 100MW target"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "Q1LTR",
+        "",
+        "Q1-26 letter defines active power but gives no figure"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "Q2LTR",
+        "",
+        ""
+      ]
+    ],
+    "Connected power (MW) / target": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "target 220 MW by YE25",
+        "Reported",
+        "Q2LTR25",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "Q4LTR",
+        "",
+        "target 800MW-1GW by YE26"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "Q1LTR",
+        "",
+        "target 800MW-1GW by YE26"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        "CALL",
+        "",
+        "target 800MW-1GW by YE26 (call)"
+      ]
+    ],
+    "Contracted power (as stated)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "Finland expansion to 75 MW (target)",
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        "Kansas City 5MW initial (exp. to 40MW)",
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "NJ 200 MW contracted in construction; Finland ~75MW",
+        "Reported",
+        "Q2LTR25",
+        "",
+        ""
+      ],
+      [
+        ">1 GW (Aug-25 per chart); target >2.5 GW YE26",
+        "Reported",
+        "Q1LTR",
+        "p.2 chart",
+        ""
+      ],
+      [
+        ">2 GW secured; target >3 GW",
+        "Reported",
+        "Q4LTR",
+        "",
+        ""
+      ],
+      [
+        ">3.5 GW (>75% owned); target >4 GW",
+        "Reported",
+        "Q1LTR",
+        "p.3, p.6",
+        ""
+      ],
+      [
+        "target 5 GW YE26",
+        "Reported",
+        "Q2LTR",
+        "p.3, p.5",
+        ""
+      ]
+    ],
+    "GPU count (as stated)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "Finland site capacity up to 60,000 GPUs (potential)",
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        "intends to deploy >22,000 NVIDIA Blackwell GPUs (US)",
+        "Reported",
+        "Q4PR24",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ]
+    ],
+    "Headcount": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "500+ employees (~400 engineers) - Nebius core",
+        "Reported",
+        "PRES24",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "~1,500 employees (31-Dec-25)",
+        "Reported",
+        "20F25",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ]
+    ],
+    "Managed customers (as stated)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        ">30 managed clients",
+        "Reported",
+        "Q2PR24",
+        "",
+        ""
+      ],
+      [
+        ">40 managed clients",
+        "Reported",
+        "Q3PR24",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ]
+    ],
+    "Customer concentration (>10% of revenue, quarter)": [
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "FY24: A 27%, C 11%",
+        "Reported",
+        "20F25",
+        "Note Significant Customers (years ended Dec 31)",
+        "Annual, not quarterly; Customer B <10% in 2024"
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "A 39%, B 15%",
+        "Reported",
+        "Q2FS",
+        "Note 1",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "FY25: A 25%, B 15%",
+        "Reported",
+        "20F25",
+        "",
+        ""
+      ],
+      [
+        "not disclosed",
+        "Not disclosed",
+        null,
+        "",
+        ""
+      ],
+      [
+        "C 24%, D 21%, E 14%",
+        "Reported",
+        "Q2FS",
+        "Note 1",
+        ""
+      ]
+    ]
+  },
+  "S": {
+    "Q2PR": [
+      "6-K",
+      "2026-08-12",
+      "0001104659-26-094568",
+      "tm2622968d1_ex99-1.htm",
+      "Q2 2026 results press release (Ex.99.1)"
+    ],
+    "Q2LTR": [
+      "6-K",
+      "2026-08-12",
+      "0001104659-26-094568",
+      "tm2622968d1_ex99-2.htm",
+      "Q2 2026 shareholder letter (Ex.99.2)"
+    ],
+    "Q2FS": [
+      "6-K",
+      "2026-08-12",
+      "0001104659-26-094844",
+      "nbis-20260812xex99d2.htm",
+      "Q2 2026 unaudited interim financial statements (Ex.99.2)"
+    ],
+    "Q2MDA": [
+      "6-K",
+      "2026-08-12",
+      "0001104659-26-094844",
+      "nbis-20260812xex99d1.htm",
+      "Q2 2026 interim MD&A/OFR (Ex.99.1)"
+    ],
+    "Q1PR": [
+      "6-K",
+      "2026-05-13",
+      "0001104659-26-059872",
+      "tm2614392d1_ex99-1.htm",
+      "Q1 2026 results press release (Ex.99.1)"
+    ],
+    "Q1LTR": [
+      "6-K",
+      "2026-05-13",
+      "0001104659-26-059872",
+      "tm2614392d1_ex99-2.htm",
+      "Q1 2026 shareholder letter (Ex.99.2)"
+    ],
+    "Q1FS": [
+      "6-K",
+      "2026-05-20",
+      "0001104659-26-064092",
+      "nbis-20260331xex99d2.htm",
+      "Q1 2026 unaudited interim financial statements (Ex.99.2)"
+    ],
+    "Q4PR": [
+      "6-K",
+      "2026-02-12",
+      "0001104659-26-013946",
+      "tm266173d1_ex99-1.htm",
+      "Q4/FY2025 results press release (Ex.99.1)"
+    ],
+    "Q4LTR": [
+      "6-K",
+      "2026-02-12",
+      "0001104659-26-013946",
+      "tm266173d1_ex99-2.htm",
+      "Q4 2025 shareholder letter (Ex.99.2)"
+    ],
+    "20F25": [
+      "20-F",
+      "2026-04-30",
+      "0001104659-26-052948",
+      "nbis-20251231x20f.htm",
+      "Annual report FY2025"
+    ],
+    "20FA25": [
+      "20-F/A",
+      "2026-05-22",
+      "0001104659-26-065681",
+      "nbis-20251231x20fa.htm",
+      "Amendment to FY2025 20-F"
+    ],
+    "Q3PR25": [
+      "6-K",
+      "2025-11-12",
+      "0001104659-25-109806",
+      "tm2530882d1_ex99-1.htm",
+      "Q3 2025 results press release (Ex.99.1)"
+    ],
+    "Q3LTR25": [
+      "6-K",
+      "2025-11-12",
+      "0001104659-25-109806",
+      "tm2530882d1_ex99-2.htm",
+      "Q3 2025 shareholder letter (Ex.99.2)"
+    ],
+    "Q3FS25": [
+      "6-K",
+      "2025-11-13",
+      "0001104659-25-110831",
+      "tm2531034d1_ex99-1.htm",
+      "Q3 2025 interim OFR/financial info (Ex.99.1)"
+    ],
+    "Q2PR25": [
+      "6-K",
+      "2025-08-07",
+      "0001104659-25-075028",
+      "tm2522866d1_ex99-1.htm",
+      "Q2 2025 results press release (Ex.99.1)"
+    ],
+    "Q2LTR25": [
+      "6-K",
+      "2025-08-07",
+      "0001104659-25-075028",
+      "tm2522866d1_ex99-2.htm",
+      "Q2 2025 shareholder letter (Ex.99.2)"
+    ],
+    "H1FS25": [
+      "6-K",
+      "2025-09-10",
+      "0001104659-25-088860",
+      "tm2525580d2_ex99-1.htm",
+      "H1 2025 interim OFR/financial info (Ex.99.1)"
+    ],
+    "Q1PR25": [
+      "6-K",
+      "2025-05-20",
+      "0001104659-25-050975",
+      "tm2515580d1_ex99-1.htm",
+      "Q1 2025 results press release (Ex.99.1)"
+    ],
+    "Q1LTR25": [
+      "6-K",
+      "2025-05-20",
+      "0001104659-25-050975",
+      "tm2515580d1_ex99-2.htm",
+      "Q1 2025 shareholder letter (Ex.99.2)"
+    ],
+    "Q4PR24": [
+      "6-K",
+      "2025-02-20",
+      "0001104659-25-015480",
+      "tm257185d1_ex99-1.htm",
+      "Q4/FY2024 results press release (Ex.99.1)"
+    ],
+    "20F24": [
+      "20-F",
+      "2025-04-30",
+      "0001558370-25-005991",
+      "nbis-20241231x20f.htm",
+      "Annual report FY2024"
+    ],
+    "Q3PR24": [
+      "6-K",
+      "2024-10-31",
+      "0001104659-24-112875",
+      "tm2427209d1_ex99-1.htm",
+      "Q3 2024 results press release (Ex.99.1)"
+    ],
+    "PRES24": [
+      "6-K",
+      "2024-10-18",
+      "0001104659-24-109850",
+      "tm2426436d1_ex99-1.htm",
+      "Investor presentation Oct 2024 (Ex.99.1)"
+    ],
+    "Q2PR24": [
+      "6-K",
+      "2024-08-01",
+      "0001513845-24-000024",
+      "tmb-20240630xex99d1.htm",
+      "Q2 2024 results press release (Ex.99.1)"
+    ],
+    "JUN25": [
+      "6-K",
+      "2025-06-02",
+      "0001104659-25-055197",
+      "tm2516825d1_ex99-1.htm",
+      "June 2025 $1B convertible notes PR (Ex.99.1)"
+    ],
+    "SEP25P": [
+      "6-K",
+      "2025-09-12",
+      "0001410578-25-002149",
+      "tm2525503d8_ex99-2.htm",
+      "Sept 2025 convert pricing PR (Ex.99.2)"
+    ],
+    "SEP25C": [
+      "6-K",
+      "2025-09-15",
+      "0001104659-25-089969",
+      "tm2525580d4_ex99-1.htm",
+      "Sept 2025 convert/equity closing PR (Ex.99.1)"
+    ],
+    "MAR26P": [
+      "6-K",
+      "2026-03-18",
+      "0001104659-26-029863",
+      "tm268409d3_ex99-1.htm",
+      "Mar 2026 convert pricing PR (Ex.99.1)"
+    ],
+    "MAR26C": [
+      "6-K",
+      "2026-03-20",
+      "0001104659-26-032735",
+      "tm268409d4_ex99-1.htm",
+      "Mar 2026 convert closing PR (Ex.99.1); indentures Ex.4.1/4.3"
+    ],
+    "AUG26L": [
+      "6-K",
+      "2026-08-19",
+      "0001104659-26-098590",
+      "tm2623513d1_ex99-1.htm",
+      "Aug 2026 convert launch PR (Ex.99.1)"
+    ],
+    "AUG26P": [
+      "6-K",
+      "2026-08-20",
+      "0001104659-26-098924",
+      "tm2623617d1_ex99-1.htm",
+      "Aug 2026 convert pricing + exchange PR (Ex.99.1)"
+    ],
+    "AUG26C": [
+      "6-K",
+      "2026-08-24",
+      "0001104659-26-100347",
+      "tm2623863d1_ex99-1.htm",
+      "Aug 2026 convert closing PR (Ex.99.1); indentures Ex.4.1 (2030), Ex.4.3 (2034), exchange agmt Ex.4.5"
+    ],
+    "ABL": [
+      "6-K/A",
+      "2026-07-17",
+      "0001104659-26-084606",
+      "tm2620779d1_6ka.htm",
+      "Senior secured facility ($775M) 6-K/A + PR Ex.99.1"
+    ],
+    "MSFT": [
+      "6-K",
+      "2025-09-08",
+      "0001104659-25-088312",
+      "tm2525580d1_6k.htm",
+      "Microsoft commercial agreement 6-K"
+    ],
+    "META26": [
+      "6-K",
+      "2026-03-16",
+      "0001104659-26-027886",
+      "tm268879d1_ex99-1.htm",
+      "Meta $27B agreement PR (Ex.99.1)"
+    ],
+    "META25": [
+      "6-K",
+      "2025-11-12",
+      "0001104659-25-109803",
+      "tm2530882d2_6k.htm",
+      "Meta commercial agreement 6-K (Nov 2025)"
+    ],
+    "META26K": [
+      "6-K",
+      "2026-03-16",
+      "0001104659-26-027886",
+      "tm268879d1_6k.htm",
+      "Meta $27B agreement 6-K body"
+    ],
+    "NVDA": [
+      "6-K",
+      "2026-03-11",
+      "0001104659-26-026163",
+      "tm268532d1_ex99-1.htm",
+      "NVIDIA partnership / $2B investment PR (Ex.99.1)"
+    ],
+    "NVDA13G": [
+      "SC 13G",
+      "2026-07-20",
+      "0001045810-26-000062",
+      "primary_doc.xml",
+      "NVIDIA Schedule 13G on NBIS"
+    ],
+    "AGM": [
+      "6-K",
+      "2026-08-26",
+      "0001104659-26-101076",
+      "tm2624077d1_ex99-1.htm",
+      "AGM results (share counts at record date)"
+    ],
+    "PLTR": [
+      "6-K",
+      "2026-09-08",
+      "0001104659-26-105749",
+      "tm2624958d1_ex99-1.htm",
+      "Palantir partnership PR"
+    ],
+    "INFZ": [
+      "6-K",
+      "2026-10-01",
+      "0001104659-26-112824",
+      "tm2626792d1_ex99-1.htm",
+      "Inferize acquisition PR"
+    ],
+    "CALL": [
+      "Transcript",
+      "2026-08-12",
+      "n/a",
+      "fool.com",
+      "Q2 2026 earnings call transcript (Motley Fool, 3rd party)"
+    ],
+    "PP24": [
+      "6-K",
+      "2024-12-02",
+      "0001104659-24-124570",
+      "tm2429858d1_ex99-1.htm",
+      "Dec 2024 $700M private placement PR (Ex.99.1)"
+    ],
+    "SEP25G": [
+      "6-K",
+      "2025-09-22",
+      "0001104659-25-091939",
+      "tm2526625d1_ex99-1.htm",
+      "Sept 2025 equity offering greenshoe exercise PR (Ex.99.1)"
+    ],
+    "IND29": [
+      "6-K",
+      "2025-06-02",
+      "0001104659-25-055197",
+      "tm2516825d1_ex99-4.htm",
+      "Indenture - 2.00% notes due 2029 (Ex.99.4)"
+    ],
+    "IND31": [
+      "6-K",
+      "2025-06-02",
+      "0001104659-25-055197",
+      "tm2516825d1_ex99-5.htm",
+      "Indenture - 3.00% notes due 2031 (Ex.99.5)"
+    ],
+    "IND30S": [
+      "6-K",
+      "2025-09-15",
+      "0001104659-25-089969",
+      "tm2525580d4_ex4-1.htm",
+      "Indenture - 1.00% notes due Sep-2030 (Ex.4.1)"
+    ],
+    "IND32": [
+      "6-K",
+      "2025-09-15",
+      "0001104659-25-089969",
+      "tm2525580d4_ex4-3.htm",
+      "Indenture - 2.75% notes due Sep-2032 (Ex.4.3)"
+    ],
+    "IND31M": [
+      "6-K",
+      "2026-03-20",
+      "0001104659-26-032735",
+      "tm268409d4_ex4-1.htm",
+      "Indenture - 1.25% notes due Mar-2031 (Ex.4.1)"
+    ],
+    "IND33": [
+      "6-K",
+      "2026-03-20",
+      "0001104659-26-032735",
+      "tm268409d4_ex4-3.htm",
+      "Indenture - 2.625% notes due Mar-2033 (Ex.4.3)"
+    ],
+    "IND30F": [
+      "6-K",
+      "2026-08-24",
+      "0001104659-26-100347",
+      "tm2623863d1_ex4-1.htm",
+      "Indenture - 0.50% notes due Feb-2030 (Ex.4.1)"
+    ],
+    "IND34": [
+      "6-K",
+      "2026-08-24",
+      "0001104659-26-100347",
+      "tm2623863d1_ex4-3.htm",
+      "Indenture - 4.50% notes due Feb-2034 (Ex.4.3)"
+    ],
+    "EXAG": [
+      "6-K",
+      "2026-08-24",
+      "0001104659-26-100347",
+      "tm2623863d1_ex4-5.htm",
+      "Form of exchange agreement, 2029/2031 notes for shares (Ex.4.5)"
+    ],
+    "ABLPR": [
+      "6-K/A",
+      "2026-07-17",
+      "0001104659-26-084606",
+      "tm2620779d1_ex99-1.htm",
+      "Senior secured facility PR (Ex.99.1)"
+    ],
+    "TOLOKA6K": [
+      "6-K",
+      "2025-05-07",
+      "0001104659-25-045373",
+      "tm2514304d1_ex99-1.htm",
+      "Toloka strategic investment led by Bezos Expeditions PR (Ex.99.1)"
+    ],
+    "AVRIDE6K": [
+      "6-K",
+      "2025-10-22",
+      "0001104659-25-101520",
+      "tm2529289d1_ex99-1.htm",
+      "Avride up to $375M Uber/Nebius investment PR (Ex.99.1)"
+    ],
+    "Q1MDA": [
+      "6-K",
+      "2026-05-20",
+      "0001104659-26-064092",
+      "nbis-20260331xex99d1.htm",
+      "Q1 2026 interim MD&A/OFR (Ex.99.1)"
+    ],
+    "20F23": [
+      "20-F",
+      "2024-04-26",
+      "0001558370-24-005891",
+      "yndx-20231231x20f.htm",
+      "Annual report FY2023 (Yandex N.V.)"
+    ]
+  },
+  "ND": "not disclosed"
+}

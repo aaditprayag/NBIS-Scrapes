@@ -1,0 +1,16 @@
+birmingham_al 2023-01-07 42.75 2.55
+birmingham_al 2023-04-19 26.75 4.25
+birmingham_al 2023-09-29 21.3 3.79
+birmingham_al 2023-12-28 32.41 3.27
+birmingham_al 2024-02-06 37.99 3.73
+birmingham_al 2024-04-13 26.8 4.63
+birmingham_al 2024-08-24 22.4 6.4
+birmingham_al 2024-10-25 35.36 7.34
+birmingham_al 2025-01-03 40.89 3.69
+birmingham_al 2025-04-16 25.24 5.27
+birmingham_al 2025-09-10 26.23 5.11
+birmingham_al 2025-11-14 39.9 3.78
+birmingham_al 2026-01-16 43.59 3.32
+birmingham_al 2026-04-20 43.09 5.82
+birmingham_al 2026-09-20 49.88 3.9
+birmingham_al 2026-10-01 none

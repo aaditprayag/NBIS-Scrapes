@@ -1,0 +1,7 @@
+Company,Annualized Q revenue ($M),Active MW,Revenue per active MW ($M/MW),Basis,Source
+CoreWeave (period-end MW),10300,1500,6.87,Q2'26 rev x4 / 1.5 GW active at 6/30 (understates: MW ramped ~1.0->1.5 GW in Q2),https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm
+CoreWeave (avg Q2 MW est.),10300,1250,8.24,ESTIMATE: avg of ~1.0 GW (1.5 GW less 'nearly 500 MW' added) and 1.5 GW,https://www.sec.gov/Archives/edgar/data/1769628/000176962826000362/coreweave2q26earningspress.htm
+IREN - AI Cloud only,282.0,40,7.05,Q4 FY26 AI Cloud rev x4 / ~40 MW operating AI capacity at 6/30,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm
+IREN - total,548.8,420,1.31,Includes Bitcoin mining (~380 MW); not comparable,https://www.sec.gov/Archives/edgar/data/1878848/000187884826000051/irenreportsfy26results.htm
+Nebius (stale MW),2329.2,170,13.7,Q2'26 rev x4 / ~170 MW active at YE2025 (latest disclosed) -> OVERSTATES; Q2 active MW not disclosed,https://www.sec.gov/Archives/edgar/data/1513845/000110465926013946/tm266173d1_ex99-2.htm
+Crusoe (estimate),2000,1000,2.0,ESTIMATE: 2026E $2B (press) / ~1 GW gross operational; gross not IT MW,https://www.globenewswire.com/news-release/2026/09/17/3364326/0/en/crusoe-raises-3-9-billion-series-f-for-its-vertically-integrated-ai-infrastructure-platform.html

@@ -1,0 +1,14 @@
+site,date,scene,crop_ha,roof_white_ha,roof_grey_ha,bare_ha,ndvi_mean,png
+mantsala_fi,2023-04-22,S2B_35VLH_20230422_0_L2A,90.4,4.57,4.37,3.56,0.371,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2023-04-22_crop.png
+mantsala_fi,2023-08-07,S2B_35VLH_20230807_0_L2A,90.4,4.46,6.18,2.48,0.484,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2023-08-07_crop.png
+mantsala_fi,2023-10-29,S2B_35VLH_20231029_0_L2A,90.4,2.96,5.25,0.63,0.453,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2023-10-29_crop.png
+mantsala_fi,2024-05-18,S2A_35VLH_20240518_0_L2A,90.4,4.45,4.84,3.63,0.425,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2024-05-18_crop.png
+mantsala_fi,2024-09-05,S2A_35VLH_20240905_0_L2A,90.4,4.2,7.41,1.14,0.52,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2024-09-05_crop.png
+mantsala_fi,2024-11-17,S2C_35VMH_20241117_1_L2A,90.4,2.74,8.36,0.43,0.404,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2024-11-17_crop.png
+mantsala_fi,2025-03-19,S2A_35VLH_20250319_1_L2A,90.4,4.09,1.92,7.81,0.396,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2025-03-19_crop.png
+mantsala_fi,2025-05-11,S2B_35VMH_20250511_0_L2A,90.4,4.49,12.55,2.15,0.382,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2025-05-11_crop.png
+mantsala_fi,2025-07-24,S2A_35VMH_20250724_1_L2A,90.4,4.77,10.7,2.1,0.559,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2025-07-24_crop.png
+mantsala_fi,2025-10-18,S2B_35VLH_20251018_1_L2A,90.4,2.2,3.55,0.95,0.537,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2025-10-18_crop.png
+mantsala_fi,2026-03-24,S2B_35VMH_20260324_1_L2A,90.4,4.52,7.31,4.11,0.407,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2026-03-24_crop.png
+mantsala_fi,2026-05-30,S2A_35VMH_20260530_1_L2A,90.4,5.73,11.05,2.26,0.522,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2026-05-30_crop.png
+mantsala_fi,2026-09-27,S2A_35VMH_20260927_1_L2A,90.4,3.9,6.18,1.61,0.532,/workspace/nebius/capacity/altdata/imagery/mantsala_fi/detail/mantsala_fi_2026-09-27_crop.png

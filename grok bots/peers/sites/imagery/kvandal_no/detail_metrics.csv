@@ -1,0 +1,14 @@
+site,date,scene,crop_ha,roof_white_ha,roof_grey_ha,bare_ha,ndvi_mean,png
+kvandal_no,2023-06-26,S2B_33WWS_20230626_0_L2A,213.4,0.11,7.9,4.2,0.695,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2023-06-26_crop.png
+kvandal_no,2023-07-01,S2A_33WXS_20230701_0_L2A,213.4,3.06,4.72,13.11,0.712,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2023-07-01_crop.png
+kvandal_no,2024-07-15,S2A_33WXS_20240715_1_L2A,213.4,4.16,7.68,8.61,0.743,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2024-07-15_crop.png
+kvandal_no,2024-10-19,S2A_33WWS_20241019_0_L2A,213.4,0.01,19.03,0.01,0.376,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2024-10-19_crop.png
+kvandal_no,2025-07-18,S2B_33WWS_20250718_0_L2A,213.4,3.4,6.58,8.57,0.768,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2025-07-18_crop.png
+kvandal_no,2025-08-29,S2C_33WWS_20250829_0_L2A,213.4,0.52,5.18,5.99,0.78,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2025-08-29_crop.png
+kvandal_no,2025-09-09,S2B_33WWS_20250909_1_L2A,213.4,0.53,6.71,3.9,0.752,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2025-09-09_crop.png
+kvandal_no,2025-10-04,S2C_33WXS_20251004_0_L2A,213.4,0.7,5.53,4.07,0.552,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2025-10-04_crop.png
+kvandal_no,2026-05-31,S2A_33WWS_20260531_1_L2A,213.4,5.09,23.09,3.57,0.518,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2026-05-31_crop.png
+kvandal_no,2026-06-10,S2A_33WWS_20260610_1_L2A,213.4,12.16,5.3,17.27,0.637,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2026-06-10_crop.png
+kvandal_no,2026-08-06,S2A_33WWS_20260806_0_L2A,213.4,3.04,12.13,5.75,0.667,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2026-08-06_crop.png
+kvandal_no,2026-09-11,S2A_33WXS_20260911_1_L2A,213.4,2.03,7.2,4.66,0.6,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2026-09-11_crop.png
+kvandal_no,2026-10-03,S2C_33WWS_20261003_0_L2A,213.4,1.19,5.26,1.74,0.541,/workspace/nebius/peers/sites/imagery/kvandal_no/detail/kvandal_no_2026-10-03_crop.png

@@ -1,0 +1,1733 @@
+{
+ "vals": {
+  "N01": 140.6,
+  "N02": 10.4,
+  "N03": 33.0,
+  "N04": 19.1,
+  "N06": 2600,
+  "N08": -199.2,
+  "N09": 174.0,
+  "N10": 77.9,
+  "N11": 3230.1,
+  "N12": 621.4,
+  "N13": 5846.9,
+  "N14": 981.8,
+  "N15": 4160.0,
+  "N16": 680.3,
+  "N17": 5727.5,
+  "N18": 1306.5,
+  "N22": 1370,
+  "N24": 10000,
+  "N25": 1370,
+  "N60": 460,
+  "N61": 0,
+  "N63": "Yellow (460 H1'28) / Yellow-Red (1.37 GW)",
+  "N26": 25000,
+  "N27": 461000,
+  "N28": 5.7,
+  "N29": 23,
+  "N30": 56.4,
+  "N31": 34.5,
+  "N32": 16,
+  "N33": 103.4,
+  "N34": 43.8,
+  "N35": 44.6,
+  "N36": 1.2,
+  "N38": 52,
+  "N39": 73,
+  "N40": 137.4,
+  "N41": 78.9,
+  "N42": 12.0,
+  "N43": 0,
+  "N44": 11.3,
+  "N45": 22.74,
+  "N46": 5.5,
+  "N47": 1100,
+  "N49": 2000,
+  "N50": 3300,
+  "N51": 3360,
+  "N52": 14600,
+  "N53": 35000,
+  "N56": 5,
+  "N57": "IT",
+  "N58": null,
+  "N59": 1478.4,
+  "L01": 140,
+  "L02": 250,
+  "L03": 114,
+  "L04": 425,
+  "L05": 760,
+  "L06": 1500,
+  "L08": 50,
+  "L09": 47,
+  "L10": 3000,
+  "L11": 24,
+  "L12": 350,
+  "L13": 51,
+  "L14": null,
+  "L15": 25000,
+  "L16": 10000,
+  "L17": 15,
+  "L18": 1.5,
+  "L20": null,
+  "L21": 35,
+  "L23": 50,
+  "L24": 320.0,
+  "L25": 480,
+  "L26": 1500,
+  "L27": 5430,
+  "L28": 12000,
+  "L29": 6.78,
+  "L32": null,
+  "L33": null,
+  "L34": null,
+  "L35": 2.99,
+  "L37": 14500,
+  "L38": 50,
+  "L39": 15,
+  "L36": "none filed",
+  "C01": 250,
+  "C02": 500,
+  "C03": 2000,
+  "C04": 100,
+  "C05": 20,
+  "C06": 1000,
+  "C09": 6000,
+  "C10": 4900,
+  "C11": 45000,
+  "C12": 1200,
+  "C37": 618,
+  "C13": 900,
+  "C14": 1600,
+  "C15": 140,
+  "C17": 13,
+  "C19": "Oracle/OpenAI, Microsoft, Meta (press), Jane Street (press)",
+  "C20": null,
+  "C21": 3108.5,
+  "C22": 1027.4,
+  "C23": 685.7,
+  "C24": 595.9,
+  "C26": 30900,
+  "C29": 6,
+  "C34": null,
+  "C35": null,
+  "C36": 3.9,
+  "N05": 281.2,
+  "N07": 456.140350877193,
+  "N19": 1686.8999999999996,
+  "N20": 301.5,
+  "N21": 81,
+  "N23": 1289,
+  "N62": 16.15942028985507,
+  "N37": 85.49323017408123,
+  "N48": 1758.3,
+  "N54": 6711.9,
+  "N55": 6.245,
+  "NK01": 3.471604938271605,
+  "NK01b": 5.631362356508555,
+  "NK03": 0.20525547445255474,
+  "NK03b": 13.241132027148161,
+  "NK03c": 75.47445255474453,
+  "NK04": 16.91358024691358,
+  "NK05": -4.9185185185185185,
+  "NK06": 11.248,
+  "NK07": 1.294659300184162,
+  "NK07b": 2.0828326524072738,
+  "NK07c": 4.492009349635244,
+  "NK14": 70.70987654320987,
+  "NK15": 20.825925925925922,
+  "NK15b": 52.26,
+  "NK17": 15.670891168778923,
+  "NK18": 6.381258023106545,
+  "NK19": 123.7553342816501,
+  "NK23": 200.56899004267427,
+  "NK28": 18.72684133915575,
+  "NK35": 35.08005822416303,
+  "NK36": 22.19140083217753,
+  "NK38": 0.1374,
+  "NK39": 0.0024361702127659573,
+  "NK40": 0.0,
+  "L07": 560,
+  "L19": 3.7100456621004567,
+  "L22": 16.666666666666664,
+  "L30": 6.986279069767442,
+  "L31": 2934,
+  "LK01": 9.702127659574469,
+  "LK01b": 11.914893617021276,
+  "LK06": 18.24,
+  "LK07": 2.087912087912088,
+  "LK08": 2.99,
+  "LK09": 69.82983571612334,
+  "C07": 0.7466666666666667,
+  "C08": 746.6666666666667,
+  "C16": 23.333333333333332,
+  "C18": 2.6,
+  "C25": 4821.599999999999,
+  "C27": 15.45,
+  "C28": 9.102142857142859,
+  "C30": 1150,
+  "C31": 9400,
+  "C32": 12.5,
+  "C33": 11.16504854368932,
+  "CK01": 2.0,
+  "CK01b": 2.6785714285714284,
+  "CK03": 0.3333333333333333,
+  "CK04": 6.0
+ },
+ "summary": {
+  "Nscale|I01": [
+   140.6,
+   "2026-06-30",
+   "R",
+   "Revenue, H1'26 (six months)",
+   "$M"
+  ],
+  "Lambda|I01": [
+   140,
+   "2025-06-30",
+   "P",
+   "Revenue, Q2'25 (total incl. legacy hardware)",
+   "$M"
+  ],
+  "Crusoe|I01": [
+   250,
+   "2024-12-31",
+   "P",
+   "Revenue, FY24",
+   "$M"
+  ],
+  "Nscale|PX01": [
+   281.2,
+   "2026-06-30",
+   "D",
+   "Annualized revenue run-rate (H1'26 x 2)",
+   "$M/yr"
+  ],
+  "Lambda|PX01": [
+   1500,
+   "2026-12-31",
+   "P",
+   "Expected 2026 revenue (press)",
+   "$M"
+  ],
+  "Crusoe|PX01": [
+   2000,
+   "2026-12-31",
+   "P",
+   "Revenue, FY26 ('on track for $2 billion')",
+   "$M"
+  ],
+  "Nscale|I02": [
+   -199.2,
+   "2026-06-30",
+   "R",
+   "Adjusted EBITDA (company non-GAAP), H1'26",
+   "$M"
+  ],
+  "Lambda|I02": [
+   50,
+   "2025-06-30",
+   "P",
+   "Gross margin H1'25 (blended; 61% ex non-cloud)",
+   "%"
+  ],
+  "Crusoe|I02": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M or %"
+  ],
+  "Nscale|I03": [
+   174.0,
+   "2026-06-30",
+   "R",
+   "Depreciation & amortization (total), H1'26",
+   "$M"
+  ],
+  "Lambda|I03": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I03": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I04": [
+   3230.1,
+   "2026-06-30",
+   "R",
+   "Cash capex (purchases of property & equipment), H1'26",
+   "$M"
+  ],
+  "Lambda|I04": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I04": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I05": [
+   5846.9,
+   "2026-06-30",
+   "R",
+   "Gross property & equipment (EoP)",
+   "$M"
+  ],
+  "Lambda|I05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I06": [
+   4160.0,
+   "2026-06-30",
+   "R",
+   "Construction in progress (EoP)",
+   "$M"
+  ],
+  "Lambda|I06": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I06": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I07": [
+   5727.5,
+   "2026-06-30",
+   "R",
+   "Property & equipment, net (EoP)",
+   "$M"
+  ],
+  "Lambda|I07": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I07": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I08": [
+   1306.5,
+   "2026-06-30",
+   "R",
+   "Technology equipment, gross (EoP)",
+   "$M"
+  ],
+  "Lambda|I08": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I08": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I09": [
+   81,
+   "2026-08-31",
+   "D",
+   "Active IT MW (sum of contracted IT MW at the 5 active sites)",
+   "IT MW"
+  ],
+  "Lambda|I09": [
+   47,
+   "2025-06-30",
+   "P",
+   "Active (operating) capacity, Q2'25",
+   "MW"
+  ],
+  "Crusoe|I09": [
+   1000,
+   "2026-09-17",
+   "R",
+   "Delivered & operational capacity (gross)",
+   "gross MW"
+  ],
+  "Nscale|I10": [
+   1370,
+   "2026-08-31",
+   "R",
+   "Active + contracted IT MW",
+   "IT MW"
+  ],
+  "Lambda|I10": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Contracted / announced MW (company total)",
+   "MW"
+  ],
+  "Crusoe|I10": [
+   6000,
+   "2026-09-17",
+   "R",
+   "Gross contracted capacity",
+   "gross MW"
+  ],
+  "Nscale|PX02": [
+   10000,
+   "2026-08-31",
+   "R",
+   "Potential power capacity (line of sight)",
+   "MW"
+  ],
+  "Lambda|PX02": [
+   3000,
+   "2025-09-05",
+   "P",
+   "Capacity target 2030",
+   "MW"
+  ],
+  "Crusoe|PX02": [
+   45000,
+   "2025-10-24",
+   "R",
+   "Power / development pipeline",
+   "MW"
+  ],
+  "Nscale|PX03": [
+   "IT",
+   "2026-08-31",
+   "R",
+   "MW basis",
+   "text"
+  ],
+  "Lambda|PX03": [
+   null,
+   null,
+   "n/d",
+   "Basis never stated",
+   ""
+  ],
+  "Crusoe|PX03": [
+   0.7466666666666667,
+   "2026-03-27",
+   "D",
+   "IT/gross ratio (Microsoft Abilene design: 672 IT / 900 MW)",
+   "x"
+  ],
+  "Nscale|I11": [
+   25000,
+   "2026-08-31",
+   "R",
+   "Active GPUs",
+   "GPUs"
+  ],
+  "Lambda|I11": [
+   25000,
+   "2025-02-24",
+   "R",
+   "GPUs on cloud platform",
+   "GPUs"
+  ],
+  "Crusoe|I11": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "GPU count (Crusoe Cloud fleet)",
+   "GPUs"
+  ],
+  "Nscale|PX04": [
+   461000,
+   "2026-08-31",
+   "R",
+   "Active + contracted GPUs",
+   "GPUs"
+  ],
+  "Lambda|PX04": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "GPUs"
+  ],
+  "Crusoe|PX04": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "GPUs"
+  ],
+  "Nscale|I12": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "GPU list price (on-demand)",
+   "$/GPU-hr"
+  ],
+  "Lambda|I12": [
+   2.99,
+   "2025-06-16",
+   "R",
+   "H100 SXM on-demand list, Q2'25",
+   "$/GPU-hr"
+  ],
+  "Crusoe|I12": [
+   3.9,
+   "2026-10-04",
+   "R",
+   "H100 SXM on-demand list",
+   "$/GPU-hr"
+  ],
+  "Nscale|I14": [
+   56.4,
+   "2026-06-30",
+   "R",
+   "RPO (ASC 606, EoP)",
+   "$B"
+  ],
+  "Lambda|I14": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "RPO / backlog",
+   "$B"
+  ],
+  "Crusoe|I14": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$B"
+  ],
+  "Nscale|I15": [
+   103.4,
+   "2026-08-31",
+   "R",
+   "Total contract value, active + contracted (company metric)",
+   "$B"
+  ],
+  "Lambda|I15": [
+   50,
+   "2026-09-30",
+   "P",
+   "Backlog (company metric, investor letter), Sep-2026",
+   "$B"
+  ],
+  "Crusoe|I15": [
+   140,
+   "2026-09-17",
+   "R",
+   "Total contracted value (company metric)",
+   "$B"
+  ],
+  "Nscale|I16": [
+   16,
+   "2025-12-31",
+   "R",
+   "RPO % expected within 24 months (YE25)",
+   "%"
+  ],
+  "Lambda|I16": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|I16": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|PX05": [
+   5.7,
+   "2026-08-31",
+   "R",
+   "Weighted average contract life",
+   "years"
+  ],
+  "Lambda|PX05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Crusoe|PX05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Nscale|I17": [
+   52,
+   "2026-06-30",
+   "R",
+   "Largest customer, % of revenue (H1'26)",
+   "%"
+  ],
+  "Lambda|I17": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed (press: NVIDIA largest after 2025 leaseback)",
+   "%"
+  ],
+  "Crusoe|I17": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|PX12": [
+   44.6,
+   "2026-08-25",
+   "R",
+   "Anthropic GPU Services Agreements (Monarch, Vera Rubin NVL72)",
+   "$B"
+  ],
+  "Lambda|PX12": [
+   35,
+   "2026-09-01",
+   "P",
+   "Anthropic cloud contract (six years, ~350 MW)",
+   "$B"
+  ],
+  "Crusoe|PX12": [
+   13,
+   "2026-09-04",
+   "P",
+   "Jane Street Crusoe Cloud contract (five years)",
+   "$B"
+  ],
+  "Nscale|I21": [
+   12.0,
+   "2026-06-30",
+   "R",
+   "Interest expense on debt, H1'26",
+   "$M"
+  ],
+  "Lambda|I21": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I21": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I22": [
+   0,
+   "2026-06-30",
+   "R",
+   "Capitalized interest, H1'26",
+   "$M"
+  ],
+  "Lambda|I22": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Crusoe|I22": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M"
+  ],
+  "Nscale|I23": [
+   137.4,
+   "2026-06-30",
+   "R",
+   "Total debt, carrying value (EoP)",
+   "$M"
+  ],
+  "Lambda|I23": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Total debt outstanding",
+   "$M"
+  ],
+  "Crusoe|I23": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Total debt outstanding",
+   "$M"
+  ],
+  "Nscale|I27": [
+   5,
+   "2026-08-31",
+   "R",
+   "Data center sites (active)",
+   "#"
+  ],
+  "Lambda|I27": [
+   15,
+   "2026-01-09",
+   "P",
+   "US data centers",
+   "#"
+  ],
+  "Crusoe|I27": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "#"
+  ],
+  "Nscale|PX06": [
+   3360,
+   "2026-09-25",
+   "R",
+   "Pre-IPO convertible loan notes",
+   "$M"
+  ],
+  "Lambda|PX06": [
+   1500,
+   "2025-11-18",
+   "R",
+   "Series E equity",
+   "$M"
+  ],
+  "Crusoe|PX06": [
+   3108.5,
+   "2026-09-17",
+   "R",
+   "Series F equity (Form D amount sold)",
+   "$M"
+  ],
+  "Nscale|PX07": [
+   14600,
+   "2026-03-09",
+   "R",
+   "Post-money valuation, Series C",
+   "$M"
+  ],
+  "Lambda|PX07": [
+   5430,
+   "2025-11-18",
+   "P",
+   "Post-money valuation, Series E (PitchBook)",
+   "$M"
+  ],
+  "Crusoe|PX07": [
+   30900,
+   "2026-09-17",
+   "R",
+   "Post-money valuation, Series F",
+   "$M"
+  ],
+  "Nscale|PX08": [
+   6711.9,
+   "2026-09-04",
+   "D",
+   "Debt & lease-financing commitments signed after 6/30/26 (sum)",
+   "$M"
+  ],
+  "Lambda|PX08": [
+   2934,
+   "2026-10-01",
+   "D",
+   "2026 debt facilities announced (sum of commitments)",
+   "$M"
+  ],
+  "Crusoe|PX08": [
+   1150,
+   "2025-06-11",
+   "D (inputs R/E)",
+   "Corporate facilities (Brookfield 750 + Upper90 225 + Victory Park 175)",
+   "$M"
+  ],
+  "Nscale|PX09": [
+   6.245,
+   "2026-08-31",
+   "E",
+   "Marginal secured GPU debt (NC / Ward County, floating), all-in estimate",
+   "%"
+  ],
+  "Lambda|PX09": [
+   6.78,
+   "2026-10-01",
+   "R",
+   "IG fixed-rate DDTL coupon",
+   "%"
+  ],
+  "Crusoe|PX09": [
+   9.102142857142859,
+   "2026-09-10",
+   "E (inputs P)",
+   "Iceland GPU DDTL all-in estimate (price talk midpoint)",
+   "%"
+  ],
+  "Nscale|K01": [
+   3.471604938271605,
+   "2026-06-30",
+   "D",
+   "Revenue per active MW (H1'26 x2 / active-site MW)",
+   "$M/MW-yr"
+  ],
+  "Lambda|K01": [
+   9.702127659574469,
+   "2025-06-30",
+   "D (inputs P)",
+   "Cloud revenue per active MW (Q2'25 x4 / 47 MW)",
+   "$M/MW-yr"
+  ],
+  "Crusoe|K01": [
+   2.0,
+   "2026-09-17",
+   "E (inputs P/R)",
+   "FY26E revenue per delivered gross MW",
+   "$M/MW-yr"
+  ],
+  "Nscale|K02": [
+   null,
+   null,
+   "n/d",
+   "Single MW point (Aug-26)",
+   "$M/MW-yr"
+  ],
+  "Lambda|K02": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW-yr"
+  ],
+  "Crusoe|K02": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW-yr"
+  ],
+  "Nscale|K03": [
+   0.20525547445255474,
+   "2026-08-31",
+   "D",
+   "Revenue per contracted MW (H1'26 x2 / 1,370 MW)",
+   "$M/MW-yr"
+  ],
+  "Lambda|K03": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW-yr"
+  ],
+  "Crusoe|K03": [
+   0.3333333333333333,
+   "2026-09-17",
+   "E (inputs P/R)",
+   "FY26E revenue per gross contracted MW",
+   "$M/MW-yr"
+  ],
+  "Nscale|PX10": [
+   13.241132027148161,
+   "2026-08-31",
+   "E",
+   "Contracted ACV per contracted MW (TCV / 5.7 yrs / 1,370 MW)",
+   "$M/MW-yr"
+  ],
+  "Lambda|PX10": [
+   16.666666666666664,
+   "2026-09-01",
+   "D (inputs P)",
+   "Anthropic contract ACV per MW",
+   "$M/MW-yr"
+  ],
+  "Crusoe|PX10": [
+   null,
+   null,
+   "n/d",
+   "TCV term not disclosed",
+   "$M/MW-yr"
+  ],
+  "Nscale|PX11": [
+   75.47445255474453,
+   "2026-08-31",
+   "D",
+   "TCV per active+contracted MW",
+   "$M/MW"
+  ],
+  "Lambda|PX11": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|PX11": [
+   23.333333333333332,
+   "2026-09-17",
+   "D",
+   "TCV per gross contracted MW",
+   "$M/MW"
+  ],
+  "Nscale|K04": [
+   16.91358024691358,
+   "2026-08-31",
+   "D",
+   "Contracted (active+contracted) / active MW",
+   "x"
+  ],
+  "Lambda|K04": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "x"
+  ],
+  "Crusoe|K04": [
+   6.0,
+   "2026-09-17",
+   "D",
+   "Gross contracted / delivered MW",
+   "x"
+  ],
+  "Nscale|K05": [
+   -4.9185185185185185,
+   "2026-06-30",
+   "D",
+   "Adj. EBITDA per active MW",
+   "$M/MW-yr"
+  ],
+  "Lambda|K05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW-yr"
+  ],
+  "Crusoe|K05": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW-yr"
+  ],
+  "Nscale|K06": [
+   11.248,
+   "2026-06-30",
+   "E",
+   "Revenue per GPU (H1'26 x2 / Aug-26 active GPUs)",
+   "$K/GPU-yr"
+  ],
+  "Lambda|K06": [
+   18.24,
+   "2025-06-30",
+   "E (inputs P/R)",
+   "Cloud revenue per GPU (Q2'25 x4 / 25,000 GPUs)",
+   "$K/GPU-yr"
+  ],
+  "Crusoe|K06": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$K/GPU-yr"
+  ],
+  "Nscale|K07": [
+   1.294659300184162,
+   "2026-06-30",
+   "E",
+   "Implied blended $/GPU-hr (H1'26)",
+   "$/GPU-hr"
+  ],
+  "Lambda|K07": [
+   2.087912087912088,
+   "2025-06-30",
+   "E (inputs P/R)",
+   "Implied blended cloud $/GPU-hr (Q2'25)",
+   "$/GPU-hr"
+  ],
+  "Crusoe|K07": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$/GPU-hr"
+  ],
+  "Nscale|PX13": [
+   4.492009349635244,
+   "2026-08-31",
+   "E",
+   "Contracted TCV per GPU-hour (TCV / 461k GPUs / 5.7 yrs)",
+   "$/GPU-hr"
+  ],
+  "Lambda|PX13": [
+   3.7100456621004567,
+   "2025-09-08",
+   "D (inputs P)",
+   "Implied price, NVIDIA $1.3B / 10,000-GPU / 4-yr contract",
+   "$/GPU-hr"
+  ],
+  "Crusoe|PX13": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$/GPU-hr"
+  ],
+  "Nscale|K08": [
+   null,
+   null,
+   "n/d",
+   "No public list price",
+   "$/GPU-hr"
+  ],
+  "Lambda|K08": [
+   2.99,
+   "2025-06-16",
+   "R",
+   "List price proxy (H100 SXM on-demand, Q2'25)",
+   "$/GPU-hr"
+  ],
+  "Crusoe|K08": [
+   3.9,
+   "2026-10-04",
+   "R",
+   "H100 SXM on-demand list",
+   "$/GPU-hr"
+  ],
+  "Nscale|K09": [
+   null,
+   null,
+   "n/d",
+   "No public list price",
+   "%"
+  ],
+  "Lambda|K09": [
+   69.82983571612334,
+   "2025-06-30",
+   "E (inputs P/R)",
+   "Implied utilization (realized / list)",
+   "%"
+  ],
+  "Crusoe|K09": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K10": [
+   null,
+   null,
+   "n/d",
+   "No MW history",
+   "$M/MW"
+  ],
+  "Lambda|K10": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K10": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Nscale|K11": [
+   null,
+   null,
+   "n/d",
+   "No MW history",
+   "$M/MW"
+  ],
+  "Lambda|K11": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K11": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Nscale|K12": [
+   null,
+   null,
+   "n/d",
+   "No MW history",
+   "$M/MW"
+  ],
+  "Lambda|K12": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K12": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Nscale|K13": [
+   null,
+   null,
+   "n/d",
+   "No MW history",
+   "$M/MW"
+  ],
+  "Lambda|K13": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K13": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Nscale|K14": [
+   70.70987654320987,
+   "2026-06-30",
+   "D",
+   "Net PP&E per active MW",
+   "$M/MW"
+  ],
+  "Lambda|K14": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K14": [
+   12.5,
+   "2025-05-21",
+   "D",
+   "Abilene JV total cost per MW (shell + power, ex-GPU)",
+   "$M/MW"
+  ],
+  "Nscale|K15": [
+   20.825925925925922,
+   "2026-06-30",
+   "D",
+   "Gross in-service PP&E per active MW",
+   "$M/MW"
+  ],
+  "Lambda|K15": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Crusoe|K15": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$M/MW"
+  ],
+  "Nscale|K16": [
+   5.5,
+   "2026-06-30",
+   "R",
+   "Useful life - technology equipment (midpoint of 5-6)",
+   "years"
+  ],
+  "Lambda|K16": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Useful life - GPUs",
+   "years"
+  ],
+  "Crusoe|K16": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Useful life - GPUs",
+   "years"
+  ],
+  "Nscale|K17": [
+   15.670891168778923,
+   "2026-06-30",
+   "D",
+   "Depreciation yield (PP&E depreciation x2 / avg in-service gross PP&E)",
+   "%"
+  ],
+  "Lambda|K17": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K17": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K18": [
+   6.381258023106545,
+   "2026-06-30",
+   "D",
+   "Implied average depreciable life (1/yield)",
+   "years"
+  ],
+  "Lambda|K18": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Crusoe|K18": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Nscale|K19": [
+   123.7553342816501,
+   "2026-06-30",
+   "D",
+   "D&A as % of revenue (H1'26)",
+   "%"
+  ],
+  "Lambda|K19": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K19": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K20": [
+   56.4,
+   "2026-06-30",
+   "R",
+   "RPO (ASC 606, EoP)",
+   "$B"
+  ],
+  "Lambda|K20": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "RPO / backlog",
+   "$B"
+  ],
+  "Crusoe|K20": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "$B"
+  ],
+  "Nscale|K21": [
+   103.4,
+   "2026-08-31",
+   "R",
+   "Total contract value, active + contracted (company metric)",
+   "$B"
+  ],
+  "Lambda|K21": [
+   50,
+   "2026-09-30",
+   "P",
+   "Backlog (company metric, investor letter), Sep-2026",
+   "$B"
+  ],
+  "Crusoe|K21": [
+   140,
+   "2026-09-17",
+   "R",
+   "Total contracted value (company metric)",
+   "$B"
+  ],
+  "Nscale|K22": [
+   16,
+   "2025-12-31",
+   "R",
+   "RPO % expected within 24 months (YE25)",
+   "%"
+  ],
+  "Lambda|K22": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K22": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K23": [
+   200.56899004267427,
+   "2026-06-30",
+   "D",
+   "RPO / annualized revenue",
+   "years"
+  ],
+  "Lambda|K23": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Crusoe|K23": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "years"
+  ],
+  "Nscale|K24": [
+   52,
+   "2026-06-30",
+   "R",
+   "Largest customer, % of revenue (H1'26)",
+   "%"
+  ],
+  "Lambda|K24": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K24": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K25": [
+   null,
+   null,
+   "n/d",
+   "Only largest customer disclosed",
+   "%"
+  ],
+  "Lambda|K25": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K25": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K26": [
+   null,
+   null,
+   "n/d",
+   "Only largest customer disclosed",
+   "%"
+  ],
+  "Lambda|K26": [
+   50,
+   "2025-06-30",
+   "P",
+   "Amazon + Microsoft share of cloud revenue, Q2'25",
+   "%"
+  ],
+  "Crusoe|K26": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K27": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "#"
+  ],
+  "Lambda|K27": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "#"
+  ],
+  "Crusoe|K27": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "#"
+  ],
+  "Nscale|K28": [
+   18.72684133915575,
+   "2026-06-30",
+   "D",
+   "Weighted effective cost of debt (6/30/26)",
+   "%"
+  ],
+  "Lambda|K28": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K28": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K29": [
+   11.3,
+   "2026-06-30",
+   "R",
+   "GPU Financing Facility effective interest rate",
+   "%"
+  ],
+  "Lambda|K29": [
+   6.78,
+   "2026-10-01",
+   "R",
+   "IG fixed-rate DDTL coupon",
+   "%"
+  ],
+  "Crusoe|K29": [
+   9.102142857142859,
+   "2026-09-10",
+   "E (inputs P)",
+   "Iceland GPU DDTL all-in estimate (price talk midpoint)",
+   "%"
+  ],
+  "Nscale|K30": [
+   null,
+   null,
+   "n/d",
+   "None outstanding",
+   "%"
+  ],
+  "Lambda|K30": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K30": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K31": [
+   null,
+   null,
+   "n/d",
+   "Converts post-period",
+   "%"
+  ],
+  "Lambda|K31": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K31": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K32": [
+   null,
+   null,
+   "n/d",
+   "Dell DFS leases post-period",
+   "%"
+  ],
+  "Lambda|K32": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K32": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K33": [
+   null,
+   null,
+   "n/d",
+   "Revolver undrawn at 6/30",
+   "%"
+  ],
+  "Lambda|K33": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K33": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K34": [
+   22.74,
+   "2026-06-30",
+   "R",
+   "Macquarie Senior Credit Facility effective interest rate",
+   "%"
+  ],
+  "Lambda|K34": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K34": [
+   6,
+   "2026-02-20",
+   "P",
+   "AMD-backstopped Goldman GPU loan rate",
+   "%"
+  ],
+  "Nscale|K35": [
+   35.08005822416303,
+   "2026-06-30",
+   "D",
+   "GPU-backed share of debt",
+   "%"
+  ],
+  "Lambda|K35": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K35": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K36": [
+   22.19140083217753,
+   "2026-06-30",
+   "D",
+   "Interest on debt x2 / avg debt",
+   "%"
+  ],
+  "Lambda|K36": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K36": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K37": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Lambda|K37": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K37": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|K38": [
+   0.1374,
+   "2026-06-30",
+   "D",
+   "Total debt (EoP)",
+   "$B"
+  ],
+  "Lambda|K38": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Total debt outstanding",
+   "$M"
+  ],
+  "Crusoe|K38": [
+   null,
+   "2026-10-04",
+   "n/d",
+   "Total debt outstanding",
+   "$M"
+  ],
+  "Nscale|K39": [
+   0.0024361702127659573,
+   "2026-06-30",
+   "D",
+   "Debt / RPO",
+   "x"
+  ],
+  "Lambda|K39": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "x"
+  ],
+  "Crusoe|K39": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "x"
+  ],
+  "Nscale|K40": [
+   0.0,
+   "2026-06-30",
+   "D",
+   "Capitalized interest % of interest (H1'26)",
+   "%"
+  ],
+  "Lambda|K40": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Crusoe|K40": [
+   null,
+   null,
+   "n/d",
+   "Not disclosed",
+   "%"
+  ],
+  "Nscale|PX14": [
+   null,
+   null,
+   "n/d",
+   "No IPO price range yet (press: ~$35B target vs $281M run-rate)",
+   "x"
+  ],
+  "Lambda|PX14": [
+   null,
+   null,
+   "n/d",
+   "Not computed (no reliable current revenue; Sacra ARR $760M vs $5.43B Series E = 7.1x)",
+   "x"
+  ],
+  "Crusoe|PX14": [
+   15.45,
+   "2026-09-17",
+   "E (inputs P)",
+   "Valuation / FY26E revenue",
+   "x"
+  ]
+ }
+}
