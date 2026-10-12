@@ -1,6 +1,4 @@
-# Nebius power data — design note, 6 Oct 2026
-
-The README is the page to read. This file is the design note from before the tables were built.
+# Nebius power alt data
 
 Date: 2026-10-06. Status: approved, then extended with a demand proxy and a campus map before the repo was created.
 

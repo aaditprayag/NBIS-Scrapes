@@ -1,7 +1,7 @@
 [project]
 name = "nbis-scrapes"
 version = "0.1.0"
-description = "Public Nebius (NBIS) evidence: campus power, GPU list prices, nearby competitor megawatts, and whether a chip is available."
+description = "Nebius campus power, GPU list prices, nearby megawatts, and marketplace availability."
 requires-python = ">=3.11"
 readme = "README.md"
 

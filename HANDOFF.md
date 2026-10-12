@@ -1,6 +1,6 @@
 # Checking a number
 
-The README is the page to hand someone. This note is the one to use when a cell looks wrong: what the column means, which file it came from, and what the rebuild will and will not do.
+The README has the short version. This is the note for when a cell looks wrong: which column, which file, and what a rebuild will change.
 
 The files were assembled on 7 Oct 2026. The site ledger was copied from a capacity workbook dated 5 Oct 2026, sheet `Quarterly MW`. `scripts/seed_ledger.py` only re-reads that workbook. It does not scrape site power.
 
@@ -80,7 +80,7 @@ python scripts/build_neighbors.py
 
 Fingrid's open-data API returned 401 without a key. energy-charts.info was not used. Its license bars redistributing the series.
 
-## What this repo does not contain
+## Gaps
 
 `src/nbis_scrapes/edgar.py` pulls sentences that mention contracted, connected, or active power out of a saved letter. It does not walk the EDGAR index, and it does not write a new quarter into the panel. A campus announced after 30 Sep 2026 will not appear until the ledger is edited.
 
@@ -88,7 +88,7 @@ There is no bridge from billing megawatts to revenue, capex, and cash. The GPU-h
 
 Vast.ai's own market-metrics API needs a host key in `VAST_API_KEY` and an active host machine. That feed was not pulled. The availability file uses other public reads instead: 500.farm's Vast history, Akash, RunPod as gpuhunt recorded it, archived Shadeform, and a hand-read Silicon Data chart. The 15-minute Nebius spot price is only in the console. Token Factory has no public price history before 19 Jul 2026.
 
-Also in the repo, and written up next to the README:
+The later notes:
 
 - `docs/third-party-gpu-prices.md` — gpuhunt, SkyPilot, and other trackers, checked against Nebius's list. They never set the price.
 - `docs/console-catalog.md` — the 6 Oct 2026 console price list, 2,401 SKUs. No token is stored.

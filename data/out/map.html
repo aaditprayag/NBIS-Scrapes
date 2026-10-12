@@ -47,10 +47,10 @@
 <div class="layout">
   <aside>
     <h1>Nebius campuses</h1>
-    <p class="lead">Circle size is contracted megawatts: land and a power commitment, or the announced figure when that quarter has no contract yet. Green means the site model has megawatts energized in the quarter you picked. Amber means the capacity is booked and the model has nothing on.</p>
+    <p class="lead">Circle size is contracted MW, or the announced figure when that quarter has no contract yet. Green means the model has energized MW in the quarter selected. Amber means the capacity is booked and energized MW is zero.</p>
     <div class="toggle">
-      <button id="btn-hist" class="on" type="button">Q2 2026, latest quarter on file</button>
-      <button id="btn-fwd" type="button">Q4 2026, model path</button>
+      <button id="btn-hist" class="on" type="button">Q2 2026</button>
+      <button id="btn-fwd" type="button">Q4 2026 path</button>
     </div>
     <div class="legend">
       <span><i class="swatch" style="background:#0f6e56"></i>Energized</span>
@@ -62,11 +62,11 @@
     <h2>Not pinned</h2>
     <p class="note" id="unmapped"></p>
     <h2>GPUs listed for sale, by region</h2>
-    <p class="note">Chips Nebius lists for sale, by region id. A region id is not a building.</p>
+    <p class="note">From the public docs, not a map of the buildings. A region id is not a campus.</p>
     <table id="regions"></table>
   </aside>
   <div id="map"></div>
-  <div class="footer">Green and amber pins are Nebius. Tan pins are other data centers within 60 km. Open the Satellite layer for the aerial photo. A megawatt on a tan pin is an Epoch AI estimate or a PeeringDB note, not a utility meter. Pins are the town, not a surveyed parcel. Tiles load from CARTO and Esri.</div>
+  <div class="footer">Green and amber pins are Nebius. Tan pins are other data centers within 60 km. The Satellite layer is the aerial photo. MW on a tan pin is an Epoch estimate or a PeeringDB note, not a meter. Pins are the town. Tiles from CARTO and Esri.</div>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
