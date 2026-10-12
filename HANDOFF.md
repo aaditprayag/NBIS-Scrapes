@@ -94,5 +94,6 @@ The later notes:
 - `docs/console-catalog.md` — the 6 Oct 2026 console price list, 2,401 SKUs. No token is stored.
 - `docs/competitor-capacity.md` — other projects within 200 km, by phase and quarter. Do not add campuses together.
 - `docs/gpu-availability.md` — whether a chip was free on Vast, RunPod, Akash, and Shadeform. A blank day is a day nobody looked.
+- `docs/open-model-ceo.md` — CEO comments, 2025 and 2026, on open models. The rows are `data/out/open_model_ceo.csv`. Chesky is the production case. Huang's shares are startups and an unnamed token series, not a Fortune 500 workload.
 
 Two Lambda archive pages failed to download, July 2021 and August 2023. The monthly series still runs from July 2022.

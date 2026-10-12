@@ -69,6 +69,10 @@ Nebius does not publish a fill rate for the self-serve cloud. CoreWeave, Lambda,
 
 The chart is 62% on 1 Jan 2026 and under 1% by mid-March. Silicon Data does not say which clouds are in it. A reading is good to about a point. On Vast, the share of listed B200s that were free goes from 43% in January 2026 to 7% in September, and the median price of a rented B200 goes from $2.87 in February to $8.03 in October. RunPod's in-stock B200 offers go from about 5 data centers a day in February to almost none in April. `data/out/wide/gpu_availability_b200.csv`. H100, H200, B300, and the holes in the history are in `docs/gpu-availability.md`.
 
+## Open models
+
+`docs/open-model-ceo.md` and `data/out/open_model_ceo.csv`. Remarks from 2025 and 2026. Brian Chesky is the one who says Airbnb is mostly running open models, including Qwen in production as of an October 2025 Bloomberg interview reported second-hand. Jensen Huang's 70/30 token line and his 80 percent figures are about startups and an unnamed series, not a count of Fortune 500 workloads. On 8 Sep 2026 Arkady Volozh, in the Palantir release, said commercial clients could run optimized open models on Nebius. Nobody in the file describes a date for turning a closed-model vendor off.
+
 ## Sources
 
 - FY2025 Form 20-F, filed 30 Apr 2026: <https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/nbis-20251231x20f.htm>
