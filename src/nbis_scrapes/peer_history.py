@@ -1,4 +1,4 @@
-"""Wayback on-demand prices for CoreWeave, Crusoe, and Lambda.
+"""Archived on-demand prices for CoreWeave, Crusoe, and Lambda.
 
 Each capture is one published card. The first dollar after a GPU name is the
 on-demand rate. A price on an 8-GPU line that is large is a node price and is

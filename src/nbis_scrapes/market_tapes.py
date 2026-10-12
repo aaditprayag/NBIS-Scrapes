@@ -1,10 +1,10 @@
-"""Neocloud on-demand prices and wholesale power cost.
+"""Published on-demand GPU-hour prices, and the wholesale electricity cost of one GPU-hour.
 
-The price tape reads the published GPU-hour cards for Nebius, CoreWeave,
+The price tables read the published GPU-hour cards for Nebius, CoreWeave,
 Crusoe, and Lambda. CoreWeave quotes a node, so the per-GPU figure divides
 that node price by the GPU count printed next to it.
 
-The power tape is the cost of electricity under the sites that can bill
+The power table is the cost of electricity under the sites that can bill
 inside a year. Finland, France, the UK, Spain, and Estonia are Ember's
 monthly load-weighted day-ahead prices, averaged to a quarter. PJM West is
 the EIA reprint of ICE peak prices, averaged across the days in the quarter.

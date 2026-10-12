@@ -1,4 +1,4 @@
-"""Download unique Wayback copies of nebius.com/prices and write a price history.
+"""Download archived copies of nebius.com/prices and write the price history.
 
 Usage:
   python scripts/fetch_wayback_prices.py

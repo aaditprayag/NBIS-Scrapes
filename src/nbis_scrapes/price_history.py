@@ -1,4 +1,4 @@
-"""Historical Nebius list prices from archived copies of nebius.com/prices.
+"""Nebius list prices from archived copies of nebius.com/prices.
 
 The live page only shows the current card. The Internet Archive has the
 older cards. Layouts changed:

@@ -1,8 +1,14 @@
-# Nebius quarterly power panel
+# Nebius quarterly power
 
-History runs through Q2 2026. Later quarters are the capacity model's forward path.
-Reported active power is blank in every quarter except Q4 2025.
-Connected figures are a target or an estimate. Nebius has not printed a connected-power actual.
+Megawatts. A dash means Nebius did not print a number. It does not mean zero.
+
+**Reported active** is equipment the company said was on. The only print in this table is 170 MW in Q4 2025.
+
+**Connected** is a finished hall, and in this table it is a target or an estimate. Nebius has not printed a connected-power actual. The year-end 2025 target was 220 MW. The year-end 2026 guide is 800 MW to 1 GW. The 941 in Q4 2026 is the site model's estimate.
+
+**Contracted** is land plus a power commitment. `reported_floor` means the company said "more than" this figure. `target` means a guide. `estimated` means the site model, not a filing.
+
+**Energized base** and **Billing** are the site model's estimates of power it treats as live and power it treats as able to bill. History runs through Q2 2026. A row marked `forward` is the model's path, dated from a workbook of 5 Oct 2026.
 
 | Quarter | History | Energized base | Reported active | Connected | Tag | Contracted | Tag | Billing |
 |---|---|---:|---:|---:|---|---:|---|---:|
@@ -33,6 +39,7 @@ Connected figures are a target or an estimate. Nebius has not printed a connecte
 
 ## How to read energized base
 
-Identified energized base is the sum of the site ledger. It is an estimate of power the model treats as live.
-It is the closest series to active power. It is not active power, except at Q4 2025 where the company printed about 170 MW and the identified sum is allowed to differ by the plug for undisclosed sites.
+Energized base is the sum of the site ledger. It is the model's estimate of power that is live, and it is the closest series to active power.
+
+It is not active power. The exception is Q4 2025, where the company printed about 170 MW and the identified sum is allowed to differ by a plug for sites the company has not named.
 

@@ -1,4 +1,4 @@
-"""Pull Wayback on-demand NVIDIA prices for CoreWeave, Crusoe, and Lambda.
+"""Download archived on-demand GPU prices for CoreWeave, Crusoe, and Lambda.
 
 Usage:
   python scripts/fetch_peer_prices.py

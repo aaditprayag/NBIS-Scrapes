@@ -1,4 +1,4 @@
-"""Build the quarterly power panel from the tagged site ledger."""
+"""Build the quarterly megawatt tables from the site ledger."""
 
 from __future__ import annotations
 

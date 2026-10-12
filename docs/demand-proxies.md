@@ -1,6 +1,6 @@
-# Short-term compute demand
+# Prices and availability that move faster than a filing
 
-Nebius sells two different products into two different clocks. The Microsoft and Meta contracts are multi-year and show up in contracted megawatts and remaining performance obligations. Short-term demand is the other book: GPUs a customer can turn on this week, and tokens Nebius is willing to serve tonight. Those move in days. Filings move in quarters.
+Nebius sells into two clocks. The Microsoft and Meta contracts are multi-year. They show up as contracted megawatts and remaining performance obligations, and the power tables cover that book. This note is the other one: a GPU a customer can turn on this week, and a token Nebius will serve tonight. Those move in days. Filings move in quarters.
 
 A useful proxy has to be public, repeatable, and closer to a stockout than to a press release. Five sources, in the order they earn their keep.
 

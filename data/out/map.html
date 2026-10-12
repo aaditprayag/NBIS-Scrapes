@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Nebius campuses — capacity and power pulling</title>
+<title>Nebius campuses</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
   :root {
@@ -47,26 +47,26 @@
 <div class="layout">
   <aside>
     <h1>Nebius campuses</h1>
-    <p class="lead">Circle area is contracted megawatts, or the announced figure when the quarter has no contract yet. Green means the model has energized megawatts in the selected quarter. Amber means capacity is on the books and nothing is modeled as pulling power.</p>
+    <p class="lead">Circle size is contracted megawatts: land and a power commitment, or the announced figure when that quarter has no contract yet. Green means the site model has megawatts energized in the quarter you picked. Amber means the capacity is booked and the model has nothing on.</p>
     <div class="toggle">
-      <button id="btn-hist" class="on" type="button">Q2 2026 pulling</button>
-      <button id="btn-fwd" type="button">Q4 2026 path</button>
+      <button id="btn-hist" class="on" type="button">Q2 2026, latest quarter on file</button>
+      <button id="btn-fwd" type="button">Q4 2026, model path</button>
     </div>
     <div class="legend">
-      <span><i class="swatch" style="background:#0f6e56"></i>Pulling</span>
-      <span><i class="swatch" style="background:#e2b657"></i>Contracted, not pulling</span>
-      <span><i class="swatch" style="background:#c8c2b8"></i>Unconfirmed lead</span>
+      <span><i class="swatch" style="background:#0f6e56"></i>Energized</span>
+      <span><i class="swatch" style="background:#e2b657"></i>Booked, not on</span>
+      <span><i class="swatch" style="background:#c8c2b8"></i>Town not confirmed</span>
     </div>
     <p class="note" id="totals"></p>
     <ul class="sites" id="list"></ul>
     <h2>Not pinned</h2>
     <p class="note" id="unmapped"></p>
     <h2>GPUs listed for sale, by region</h2>
-    <p class="note">This is the public docs matrix, not a map of buildings. A region id is not a campus.</p>
+    <p class="note">Chips Nebius lists for sale, by region id. A region id is not a building.</p>
     <table id="regions"></table>
   </aside>
   <div id="map"></div>
-  <div class="footer">Green and amber pins are Nebius. Tan pins are other data centers within 60 km. Use the Satellite layer for the aerial photo. Power on a tan pin is an Epoch estimate or a PeeringDB note, not a meter. Tiles load from CARTO and Esri.</div>
+  <div class="footer">Green and amber pins are Nebius. Tan pins are other data centers within 60 km. Open the Satellite layer for the aerial photo. A megawatt on a tan pin is an Epoch AI estimate or a PeeringDB note, not a utility meter. Pins are the town, not a surveyed parcel. Tiles load from CARTO and Esri.</div>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
@@ -128,10 +128,10 @@ function popup(props) {
   return "<strong>" + esc(props.name) + "</strong><br>"
     + esc(props.country) + " · " + esc(props.ownership) + "<br>"
     + esc(q) + "<br>"
-    + "Pulling (energized base): " + fmt(pullOf(props)) + " MW<br>"
-    + "Capacity: " + fmt(capOf(props)) + " MW<br>"
+    + "Energized, model estimate: " + fmt(pullOf(props)) + " MW<br>"
+    + "Booked: " + fmt(capOf(props)) + " MW<br>"
     + "Customer: " + esc(props.customer) + "<br>"
-    + "Pin: " + esc(props.geo_precision) + (props.confirmed ? "" : " · unconfirmed lead") + "<br>"
+    + "Pin: " + esc(props.geo_precision) + (props.confirmed ? "" : " · town not confirmed") + "<br>"
     + "<span style='color:#5e584f'>" + esc(props.note) + "</span>";
 }
 
@@ -167,8 +167,8 @@ function renderList() {
     capSum += num(capOf(props));
     const li = document.createElement("li");
     li.innerHTML = "<strong>" + esc(props.name) + "</strong><span>"
-      + esc(props.country) + " · pulling " + fmt(pullOf(props))
-      + " MW · capacity " + fmt(capOf(props)) + " MW</span>";
+      + esc(props.country) + " · energized " + fmt(pullOf(props))
+      + " MW · booked " + fmt(capOf(props)) + " MW</span>";
     li.addEventListener("click", function () {
       const feature = mapData.features.find(function (item) { return item.properties.id === props.id; });
       if (feature && feature._marker) {
@@ -180,7 +180,7 @@ function renderList() {
   });
   const q = mode === "history" ? mapData.history_quarter : mapData.forward_quarter;
   document.getElementById("totals").textContent =
-    q + " pinned sites: " + fmt(pullSum) + " MW modeled as pulling, " + fmt(capSum) + " MW of capacity on the pin. Unlocated sites are excluded from both sums.";
+    q + " pinned sites: " + fmt(pullSum) + " MW the model treats as energized, " + fmt(capSum) + " MW booked. Sites with no public town are left out of both sums.";
 }
 document.getElementById("btn-hist").addEventListener("click", function () { mode = "history"; redraw(); });
 document.getElementById("btn-fwd").addEventListener("click", function () { mode = "forward"; redraw(); });

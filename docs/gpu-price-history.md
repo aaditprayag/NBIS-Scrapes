@@ -1,4 +1,6 @@
-# Nebius GPU list-price history
+# Nebius GPU list prices
+
+This is the dollar path. The tables are in `data/out/`. A list price is what the page printed for one GPU-hour with no commitment. It is not the Microsoft or Meta contract, and it is not the 15-minute spot price in the Nebius console.
 
 ## Official rate card
 

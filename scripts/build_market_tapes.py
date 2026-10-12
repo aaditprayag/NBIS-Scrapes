@@ -1,4 +1,4 @@
-"""Build the neocloud price tape and the wholesale power-cost tape.
+"""Build the peer GPU-price tables and the wholesale power-cost table.
 
 Usage:
   python scripts/build_market_tapes.py

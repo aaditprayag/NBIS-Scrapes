@@ -1,4 +1,6 @@
-# Nebius power alt data
+# Nebius power data — design note, 6 Oct 2026
+
+The README is the page to read. This file is the design note from before the tables were built.
 
 Date: 2026-10-06. Status: approved, then extended with a demand proxy and a campus map before the repo was created.
 
@@ -72,7 +74,7 @@ Parsers are tested on fixtures. A failed live fetch is stored as an error and do
 
 ## Out of scope
 
-Sell-side PDFs, the Point72 pitch documents, satellite imagery, and an authenticated console scrape. The ledger can be re-seeded from the workbook with `python scripts/seed_ledger.py` if that file is on disk. openpyxl is required for the seed and is not required to rebuild the panel.
+Sell-side PDFs, the pitch documents, satellite imagery, and an authenticated console scrape. The ledger can be re-seeded from the workbook with `python scripts/seed_ledger.py PATH` if that file is on disk. openpyxl is required for the seed and is not required to rebuild the panel.
 
 ## How to run
 

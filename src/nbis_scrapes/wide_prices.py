@@ -1,4 +1,4 @@
-"""Turn the long price histories into wide CSVs.
+"""Turn the long price histories into one CSV per series.
 
 Each file is one series. The series names run down the rows. Each date is a
 column. The row above the dates is Nebius's fiscal quarter for that date.

@@ -19,7 +19,9 @@ from nbis_scrapes.panel import write_outputs
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Build Nebius power panel, map, and demand snapshot.")
+    parser = argparse.ArgumentParser(
+        description="Build the Nebius power tables, the campus map, a price snapshot, or today's GPU availability."
+    )
     parser.add_argument("command", choices=("panel", "map", "demand", "availability", "all"))
     args = parser.parse_args()
     if args.command in ("panel", "all"):

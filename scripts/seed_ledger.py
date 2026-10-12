@@ -1,23 +1,35 @@
-"""Build data/ledger.json from the Point72 capacity workbook.
+"""Build data/ledger.json from the capacity workbook.
 
-The workbook is the reviewed site panel (5 Oct 2026). This script does not
-re-estimate megawatts. It copies the quarterly series and attaches geography,
-ownership, and tags so later code can tell a company print from a model cell.
+The workbook is the reviewed site panel dated 5 Oct 2026. This script copies
+the quarterly series and attaches geography, ownership, and tags. It does not
+re-estimate megawatts. The committed ledger already rebuilds the tables.
 
 Usage:
-  python scripts/seed_ledger.py "C:\\Users\\aadit\\OneDrive\\Nebius Pitch - Point72\\nebius_capacity.xlsx"
+  python scripts/seed_ledger.py path\\to\\nebius_capacity.xlsx
+
+Or set NBIS_CAPACITY_XLSX to that path. This step needs openpyxl.
 """
 
 from __future__ import annotations
 
 import json
+import os
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_XLSX = Path(
-    r"C:\Users\aadit\OneDrive\Nebius Pitch - Point72\nebius_capacity.xlsx"
-)
+
+
+def workbook_path() -> Path:
+    if len(sys.argv) > 1:
+        return Path(sys.argv[1])
+    env = os.environ.get("NBIS_CAPACITY_XLSX", "").strip()
+    if not env:
+        raise SystemExit(
+            "Pass the path to the capacity workbook, or set NBIS_CAPACITY_XLSX. "
+            "data/ledger.json is already committed, so the tables rebuild without this step."
+        )
+    return Path(env)
 
 # Prefix of the site name in the Quarterly MW sheet. First match wins.
 META = [
@@ -201,7 +213,7 @@ def contracted_tag(quarter: str) -> str:
 def main() -> None:
     import openpyxl
 
-    xlsx = Path(sys.argv[1]) if len(sys.argv) > 1 else DEFAULT_XLSX
+    xlsx = workbook_path()
     wb = openpyxl.load_workbook(xlsx, data_only=True, read_only=True)
     ws = wb["Quarterly MW"]
     headers = list(next(ws.iter_rows(min_row=1, max_row=1, max_col=32, values_only=True)))

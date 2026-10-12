@@ -1,4 +1,4 @@
-"""Write one wide CSV per price series.
+"""Write one CSV per series: items down the rows, dates across the columns.
 
 Usage:
   python scripts/build_wide_prices.py

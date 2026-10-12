@@ -1,4 +1,4 @@
-"""Short-term compute-demand proxies.
+"""Public reads on GPU price, which chips are still for sale, and Token Factory.
 
 Two public Nebius pages refresh without an account: the GPU price table and
 the docs page that lists which GPU platform is sold in which region. Vast.ai's
